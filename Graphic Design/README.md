@@ -1,6 +1,6 @@
 #Graphic Design
 
-###Keywords
+###Come up with keywords that fit the product
 * Describing the feeling the product should express
 * e.g. Strong vs Delicate, Friendly vs Exclusive, Playful vs Serious, Quirky vs Strict, Modern vs Timeless, Simple vs Complex, Clean vs Active/Busy. 
 
