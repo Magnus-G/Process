@@ -7,13 +7,13 @@
 
 ##Contents of a Journey Map
 
-###Original Story
-Along the timeline, plot out how the system works today.
+* Original Story. Along the timeline, plot out how the system works today.
+* How it could be. Next to original story, plot out ideas for how it could be.
+* Questions a user might have at a certain point. “Can I trust this retailer?” or “When will my stuff arrive?”
 
-###How it could be
-Next to original story, plot out ideas for how it could be.
 
 
 ####References
 
 [uxmag](http://uxmag.com/articles/illustrating-the-big-picture)
+[Unique Selling Points and more](http://www.elezea.com/2013/05/one-ux-deliverable/)
