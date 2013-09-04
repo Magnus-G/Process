@@ -8,4 +8,4 @@
 - Create as few visual 'blocks' as possible
 - Semi-transparent color layer on top of black/white graphics.  
 
-![](/images/1.png)
+![](../images/1.png)
