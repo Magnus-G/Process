@@ -9,6 +9,7 @@
 
 ###Tasks
 * Mark each story with the type of task it is (for developer? for designer? for client to answer?)
+* Prioritize stories. This is an ongoing task for the client to make sure the most important things are implemented first.
 
 
 
