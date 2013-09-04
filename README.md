@@ -8,4 +8,4 @@ An attempt to summarize a design process.
 [1.3_Journey_Maps.mkdn](1.3_Journey_Maps.mkdn)  
 [1.4_Sketching.mkdn](1.4_Sketching.mkdn)  
 [1.5_Todo_Lists.mkdn](1.5_Todo_Lists.mkdn)  
-[Graphic\ Design/README.md](Graphic\Design/README.md)
+[Graphic_Design/README.md](Graphic_Design/README.md)
