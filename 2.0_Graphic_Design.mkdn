@@ -6,12 +6,13 @@
 
 ###Typography
 * Find a typeface for body type that fits the keywords
-* Use a tool such as [modularscale](modularscale.com) to set sizes of type and elements
+* Use a tool such as [Modular Scale](modularscale.com) to set sizes of type and elements
 
 ###Color swatches
 * Select colors that correspond to the keywords
-* Use something like http://colorschemedesigner.com/
+* Use something like [Color Scheme Designer](http://colorschemedesigner.com/)
 
 
 ####References
-[modularscale](modularscale.com)  
+[Modular Scale](modularscale.com)  
+[Color Scheme Designer](http://colorschemedesigner.com/)
