@@ -14,5 +14,9 @@
 * What does the client need? 
 * How will success be measured?
 
+###The framing of the problem
+* Summarize the task and see if client agrees.
+* This product is like "..." but with a "..." Try finding similarities to other products but point to the Unique Selling Point.
+
 ####References
 http://alistapart.com/article/usable-yet-useless-why-every-business-needs-product-discovery
