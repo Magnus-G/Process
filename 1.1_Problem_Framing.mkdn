@@ -15,6 +15,7 @@
 * How will success be measured?
 
 ###The framing of the problem
+* Strip down number of tasks as much as possible to focus on a minimally viable product (MVP) 
 * Summarize the task and see if client agrees.
 * This product is like "..." but with a "..." Try finding similarities to other products but point to the Unique Selling Point.
 
