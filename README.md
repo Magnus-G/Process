@@ -1,8 +1,13 @@
-#Process
+Process
+=======
 
 An attempt to summarize a design process.
 
-#Project Initiation
+Project Initiation
+==================
+Project Initiation
+------------------
+###Test
 
 *A potential client has a problem they want to solve*
 
@@ -15,7 +20,7 @@ An attempt to summarize a design process.
 * What are the deadlines? Are there any milestones? 
 
 
-####References
+#### References
 [Unique Selling Points and more](http://www.elezea.com/2013/05/one-ux-deliverable/)
 
 [1.1_Problem_Framing.mkdn](1.1_Problem_Framing.mkdn)  
