@@ -1,4 +1,4 @@
-#Tracking Tasks
+#Todos
 
 *Use a tool like Trello or Trajectory to document stories on cards.*
 
