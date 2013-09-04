@@ -1,8 +1,14 @@
 #Graphic Design
 
+###Brand Manuals
+* Does the brand/client/product have a brand style manual? How strict does it have to be followed?
+
 ###Come up with keywords that fit the product
 * Describing the feeling the product should express
 * e.g. Strong vs Delicate, Friendly vs Exclusive, Playful vs Serious, Quirky vs Strict, Modern vs Timeless, Simple vs Complex, Clean vs Active/Busy. 
+* Take screenshots/photos of other sites/objects/products that express this according to you.
+* Always get sign-off from client. Make sure **one** person from the client's side can have the final word to avoid conflicting messages down the road.
+* 
 
 ###Typography
 * Find a typeface for body type that fits the keywords
