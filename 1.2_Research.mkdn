@@ -1,13 +1,21 @@
 #Research
 
-##Product Walkthrough 
+* How do other companies, apps, sites do this thing? What works and why?
+
+
+
+###Product Walkthrough 
 *If there is an existing product or workflow*
 
-###Preferably
+####Preferably
 * Have end users explain how they work to solve the problem at hand.
 * Where are they when they use the tool(s)? At home? At work? On the go?
 
-
-###Second best
+####Second best
 * Have client show the product, step by step how it's used.
 * If possible, record the walkthrough on video.
+
+####Mapping
+* What do different areas/parts of the existing design do? E.g. "Provide information", "Allow for entries" etc.
+* Where in the system does the user **get information**? Where does the user **enter information**. i/o.
+* Are there areas for interacting with settings and general site specific issues?
