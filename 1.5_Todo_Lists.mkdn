@@ -1,6 +1,6 @@
 #Todo Lists
 
-*Use a tool like [Trello](http://trello.com) or [Trajectory](http://trajectory.com) to document stories on cards.*
+*Use a tool like [Trello](http://trello.com) or [Trajectory](https://www.apptrajectory.com) to document stories on cards.*
 
 ###Ideas
 * State the problem in the title of the card. State who has the problem.
