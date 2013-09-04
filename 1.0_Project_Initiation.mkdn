@@ -1,4 +1,9 @@
 #Project Initiation
 
+* What are the Unique Selling Points of the client's idea?
 * What are the moral implications of working with the client? Will we be able to sleep at night?
 * Who from the client's side will be the one contact person with "the final word" during the project?
+
+
+####References
+[Unique Selling Points and more](http://www.elezea.com/2013/05/one-ux-deliverable/)
