@@ -1,0 +1,19 @@
+#Journey Maps
+
+*The relationship that unfolds over time between an individual and a system.*
+
+* Grounded in research (interviews, ethnographic observation, contextual inquiry, surveys)
+* Good for workshops with clients
+
+##Contents of a Journey Map
+
+###Original Story
+Along the timeline, plot out how the system works today.
+
+###How it could be
+Next to original story, plot out ideas for how it could be.
+
+
+####References
+
+[uxmag](http://uxmag.com/articles/illustrating-the-big-picture)
