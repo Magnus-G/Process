@@ -1,9 +1,18 @@
 #Framing the problem
 
-* For whom are we solving this problem?
+###End Users
+* Who is the end user? What do they know? 
+* How tech savvy are the end users? Do they use old versions of bad browsers?
 * Which user needs are we trying to address? For existing products, what are the shortcomings we need to fix?
+* What are the 3 most important tasks for the end user?
 * What customer insights do we have available to inform the solution (customer support, analytics, market research, user research, competitive analysis, etc.)?
-* How will our success be measured?
+
+###Context
+* In which context will the service/app be used? How important is responsive design?
+
+###Client
+* What does the client need? 
+* How will success be measured?
 
 ####References
 http://alistapart.com/article/usable-yet-useless-why-every-business-needs-product-discovery
