@@ -7,8 +7,4 @@
 - Contrast between bold letters and light letters. Headlines
 - Create as few visual 'blocks' as possible
 - Semi-transparent color layer on top of black/white graphics.
-
-
-
-
-
+![](/Graphic Design/signatur.png)
