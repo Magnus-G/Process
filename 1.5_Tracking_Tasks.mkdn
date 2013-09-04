@@ -1,1 +1,16 @@
 #Tracking Tasks
+
+*Use a tool like Trello or Trajectory to document stories on cards.*
+
+###Ideas
+* State the problem in the title of the card. State who has the problem.
+* Post sketches. 
+* Get client feedback on the card.
+
+###Tasks
+* Mark each story with the type of task it is (for developer? for designer? for client to answer?)
+
+
+
+
+[Trello](http://trello.com)
