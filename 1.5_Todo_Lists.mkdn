@@ -1,6 +1,6 @@
-#Todos
+#Todo Lists
 
-*Use a tool like Trello or Trajectory to document stories on cards.*
+*Use a tool like [Trello](http://trello.com) or [Trajectory](http://trajectory.com) to document stories on cards.*
 
 ###Ideas
 * State the problem in the title of the card. State who has the problem.
@@ -11,7 +11,12 @@
 * Mark each story with the type of task it is (for developer? for designer? for client to answer?)
 * Prioritize stories. This is an ongoing task for the client to make sure the most important things are implemented first.
 
-
-
+###Potential topics/categories for todos
+* Ideas
+* Discussions
+* On Hold
+* Up Next
+* Done
+* Up for review
 
 [Trello](http://trello.com)
