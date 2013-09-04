@@ -1,6 +1,8 @@
 #####Design Process
 *An attempt to summarize a design process.*
 
+readme
+
 Project Initiation
 =============
 
