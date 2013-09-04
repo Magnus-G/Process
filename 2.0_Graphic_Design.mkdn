@@ -1,0 +1,17 @@
+#Graphic Design
+
+###Keywords
+* Describing the feeling the product should express
+* e.g. Strong vs Delicate, Friendly vs Exclusive, Playful vs Serious, Quirky vs Strict, Modern vs Timeless, Simple vs Complex, Clean vs Active/Busy. 
+
+###Typography
+* Find a typeface for body type that fits the keywords
+* Use a tool such as [modularscale](modularscale.com) to set sizes of type and elements
+
+###Color swatches
+* Select colors that correspond to the keywords
+* Use something like http://colorschemedesigner.com/
+
+
+####References
+[modularscale](modularscale.com)  
