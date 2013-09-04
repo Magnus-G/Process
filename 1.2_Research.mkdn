@@ -1,6 +1,7 @@
 #Research
 
-##Product Walkthrough (If there is an existing product or workflow)
+##Product Walkthrough 
+*If there is an existing product or workflow*
 
 ###Preferably
 * Have end users explain how they work to solve the problem at hand.
