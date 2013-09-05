@@ -20,8 +20,8 @@ Project Initiation
 
 
 <div class="ref">
-##### References
-[Unique Selling Points and more](http://www.elezea.com/2013/05/one-ux-deliverable/)
+<h5>References</h5>
+<a href="http://www.elezea.com/2013/05/one-ux-deliverable/">Unique Selling Points and more
 </div>
 
 Framing the problem
@@ -113,10 +113,10 @@ Framing the problem
 * This product is like "..." but with a "..." Try finding similarities to other products but point to the Unique Selling Point.
 
 <div class="ref">
-##### References
-[50 Questions before a project](http://www.web-savvy-marketing.com/2013/03/web-design-projects-50-questions/)  
-[Product Discovery](http://alistapart.com/article/usable-yet-useless-why-every-business-needs-product-discovery)  
-[Responsive Workflow](http://viljamis.com/blog/2012/responsive-workflow/)  
+<h5>References</h5>
+<a href="http://www.web-savvy-marketing.com/2013/03/web-design-projects-50-questions/">50 Questions before a project
+<a href="http://alistapart.com/article/usable-yet-useless-why-every-business-needs-product-discovery">Product Discovery
+<a href="http://viljamis.com/blog/2012/responsive-workflow/">Responsive Workflow
 </div>
 
 Research
@@ -155,8 +155,8 @@ Journey Maps
 * Questions a user might have at a certain point. “Can I trust this retailer?” or “When will my stuff arrive?”
 
 <div class="ref">
-##### References
-[uxmag](http://uxmag.com/articles/illustrating-the-big-picture)  
+<h5>References</h5>
+<a href="">uxmag](http://uxmag.com/articles/illustrating-the-big-picture)  
 [Unique Selling Points and more](http://www.elezea.com/2013/05/one-ux-deliverable/)
 </div>
 
@@ -200,8 +200,8 @@ Todo Lists
 * Up for review
 
 <div class="ref">
-##### References
-[Trello](http://trello.com)
+<h5>References</h5>
+<a href="">Trello](http://trello.com)
 </div>
 
 Graphic Design
@@ -231,7 +231,8 @@ Graphic Design
 * Everything will change so don't believe in there being a "final sketch" in FW/PS.
 
 <div class="ref">
-##### References
-[Modular Scale](modularscale.com)  
+<h5>References</h5>
+<a href="">Modular Scale](modularscale.com)  
 [Color Scheme Designer](http://colorschemedesigner.com/)
 </div>
+
