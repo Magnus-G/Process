@@ -249,16 +249,24 @@ Graphic Design
 
 ### Graphic Design Clichés
 * Overlay semitransparent image of texture
-* Blurry image in the back. Sharp graphics in the front
+* Blurry image in the back. Sharp graphics in the front.
+<div class="img-examples">
+  <a class="popup" href="images/bold-light.png"><img src="images/bold-light.png" alt=""></a>
+</div>
 * Cut-through fat type so you see image in the background, through letter
 * If something should be big, there needs to be something small to contrast it
-* Contrast between bold letters and light letters. Headlines
+* Contrast between bold letters and light letters. Headlines.
+<div class="img-examples">
+  <a class="popup" href="images/bold-light.png"><img src="images/bold-light.png" alt=""></a>
+</div>
 * Create as few visual 'blocks' as possible
 * Semi-transparent color layer on top of black/white graphics.  
 <div class="img-examples">
-  <a class="popup" href="images/1.png">
-    <img src="images/1.png" alt="">
-  </a>
+  <a class="popup" href="images/1.png"><img src="images/1.png" alt=""></a>
+</div>
+* Duotone for images
+<div class="img-examples">
+  <a class="popup" href="images/duotone.jpg"><img src="images/duotone.jpg" alt=""></a>
 </div>
 
 <div class="ref">
