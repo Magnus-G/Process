@@ -5,8 +5,6 @@ layout: index
 #####Design Process
 *An attempt to summarize a design process.*
 
-hej
-
 Project Initiation
 =============
 
