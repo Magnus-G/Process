@@ -165,12 +165,34 @@ Fundamental parts of UI
 * User needs to enter or change something
  
 
-Sketching
+Concept work for UI
 ========
+### Brainstorming
+#### Structure and basic rules
+* Main purpose is to get as many ideas as possible. Not as good ideas as possible.
+* **No criticizing of ideas** during the brainstorm. All ideas are valid no matter how crazy. Criticizing comes later.
+* Type out 3 main questions that needs to be answered, e.g. "How can we allow for a good system overview considering we have data X, Y and Z that needs to be in it?". Ask yourself: "What problem do we need so solve?".
+* No more than 4-5 people in a brainstorming group.
+* Use post-it notes to prevent interrupting each other.
+* Use thick markers on post-its so the text/sketches are seen from across the room.
 
-* Pen and paper: Diagrams or screenshots. Arrows and text showing what things are and which action leads to what.
+#### During brainstorm
+* If stuck on a question, jump to the next.
+
+#### Categorizing after brainstorm session
+* Try to see what overall categories have emerged, e.g. "Navigation", "CMS", 
+* Cluster redundant or similar notes
+* Take photos of post-its at the end of the brainstorm.
+
+### Sketching
+* Pen and paper: Diagrams or screenshots. Draw arrows and text showing what things are and which action leads to what.
 * Take photos of sketches and email/post them to the team for feedback.
 * Miniature wireframe layouts made in graphics program. Stay way from details.
+
+<div class="ref">
+<h5>References</h5>
+<a href="http://www.optimalworkshop.com/">Card Sorting Tools and More</a>
+</div>
 
 Todo Lists
 ========
@@ -193,6 +215,7 @@ Todo Lists
 * Up Next
 * Done
 * Up for review
+* Feature Creep (Items added after agreed set of todos)
 
 <div class="ref">
 <h5>References</h5>
