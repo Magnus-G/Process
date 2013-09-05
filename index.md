@@ -273,7 +273,8 @@ Graphic Design
 
 * Blurry image in the back. Sharp graphics in the front.
 <div class="img-examples">
-  <a class="popup" href="images/bold-light.png"><img src="images/bold-light.png" alt=""></a>
+  <a class="popup" href="images/blur-back.png"><img src="images/blur-back.png" alt=""></a>
+<a class="popup" href="images/blur-back2.jpg"><img src="images/blur-back2.jpg" alt=""></a>
 </div>
 
 * Semi-transparent borders.
@@ -288,6 +289,11 @@ Graphic Design
 * Contrast 2D elements with 3D elements.
 <div class="img-examples">
   <a class="popup" href="images/2d-vs-3d.jpg"><img src="images/2d-vs-3d.jpg" alt=""></a>
+</div>
+
+* Details and/or illustrations in monochrome and mono thick strokes.
+<div class="img-examples">
+  <a class="popup" href="images/monochrome-monothick.png"><img src="images/monochrome-monothick.png" alt=""></a>
 </div>
 
 * Overprint effect for visual disruption and retro look.
@@ -313,6 +319,11 @@ Graphic Design
   <a class="popup" href="images/duotone.jpg"><img src="images/duotone.jpg" alt=""></a>
  <a class="popup" href="images/duotone2.jpg"><img src="images/duotone2.jpg" alt=""></a>
  <a class="popup" href="images/duotone3.jpg"><img src="images/duotone3.jpg" alt=""></a>
+</div>
+
+* Gradient overlay for images to create depth, harmony (with other elements), unity (if image is too busy etc).
+<div class="img-examples">
+  <a class="popup" href="images/gradient-overlay.jpg"><img src="images/gradient-overlay.jpg" alt=""></a>
 </div>
 
 <div class="ref">
