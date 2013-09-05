@@ -144,8 +144,8 @@ Journey Maps
 * Grounded in research (interviews, ethnographic observation, contextual inquiry, surveys)
 * Good for workshops with clients
 
-## Contents of a Journey Map
-* Original Story. Along the timeline, plot out how the system works today.
+#### Contents of a Journey Map
+* Original user story: Along the timeline, plot out how the system works today.
 * How it could be. Next to original story, plot out ideas for how it could be.
 * Questions a user might have at a certain point. “Can I trust this retailer?” or “When will my stuff arrive?”
 
@@ -210,7 +210,6 @@ Graphic Design
 * e.g. Strong vs Delicate, Friendly vs Exclusive, Playful vs Serious, Quirky vs Strict, Modern vs Timeless, Simple vs Complex, Clean vs Active/Busy. 
 * Take screenshots/photos of other sites/objects/products that express this according to you.
 * Always get sign-off from client. Make sure **one** person from the client's side can have the final word to avoid conflicting messages down the road.
-* 
 
 ### Typography
 * Find a typeface for body type that fits the keywords
