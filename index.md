@@ -19,8 +19,10 @@ Project Initiation
 * What are the deadlines? Are there any milestones? 
 
 
-#### References
+<div class="ref">
+##### References
 [Unique Selling Points and more](http://www.elezea.com/2013/05/one-ux-deliverable/)
+</div>
 
 Framing the problem
 ================
@@ -110,10 +112,12 @@ Framing the problem
 * Summarize the task and see if client agrees.
 * This product is like "..." but with a "..." Try finding similarities to other products but point to the Unique Selling Point.
 
-#### References
+<div class="ref">
+##### References
 [50 Questions before a project](http://www.web-savvy-marketing.com/2013/03/web-design-projects-50-questions/)  
 [Product Discovery](http://alistapart.com/article/usable-yet-useless-why-every-business-needs-product-discovery)  
 [Responsive Workflow](http://viljamis.com/blog/2012/responsive-workflow/)  
+</div>
 
 Research
 ========
@@ -150,9 +154,11 @@ Journey Maps
 * How it could be. Next to original story, plot out ideas for how it could be.
 * Questions a user might have at a certain point. “Can I trust this retailer?” or “When will my stuff arrive?”
 
-#### References
+<div class="ref">
+##### References
 [uxmag](http://uxmag.com/articles/illustrating-the-big-picture)  
 [Unique Selling Points and more](http://www.elezea.com/2013/05/one-ux-deliverable/)
+</div>
 
 Fundamental parts of UI
 ===================
@@ -193,8 +199,10 @@ Todo Lists
 * Done
 * Up for review
 
-#### References
+<div class="ref">
+##### References
 [Trello](http://trello.com)
+</div>
 
 Graphic Design
 ============
@@ -222,11 +230,8 @@ Graphic Design
 * Show a range of elements rather than a full layout to save time. Client gets a feeling for the look and feel and style, not the details or the ixd. Prevents client from focusing on the wrong things.
 * Everything will change so don't believe in there being a "final sketch" in FW/PS.
 
-#### References
+<div class="ref">
+##### References
 [Modular Scale](modularscale.com)  
 [Color Scheme Designer](http://colorschemedesigner.com/)
-
-
-
-
-[Graphic_Design/README.md](Graphic_Design/README.md)
+</div>
