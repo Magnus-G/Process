@@ -25,19 +25,85 @@ Project Initiation
 Framing the problem
 ================
 
-### End Users
-* Who is the end user? What do they know? 
-* How tech savvy are the end users? Do they use old versions of bad browsers?
+### Questions for client
+#### Marketing Overview
+* What types of marketing are you currently involved in or practice on a regular basis?
+* Do you have a tag line?
+* What is your elevator pitch?
+* Do you have a mission statement?
+
+#### Marketing Goals and Objectives
+* When it comes to marketing (in general), what are your biggest challenges?
+* When it comes to obtaining qualified leads, what are your biggest challenges?
+* When it comes to closing leads, what are your biggest challenges?
+* Are there any short-term or long-term corporate goals that need to be considered in the website redesign?
+
+#### Product and Service Overview
+* How would you briefly define your product or service offering?
+* Do certain products and/or services speak to different type of clients?
+
+#### End Users
+* Who is the end user? What do they know? How tech savvy are they? Do they use old versions of browsers?
+* Can the end users be classified into clear “personas” with varying degrees of needs and selection criteria?
 * Which user needs are we trying to address? For existing products, what are the shortcomings we need to fix?
 * What are the 3 most important tasks for the end user?
 * What customer insights do we have available to inform the solution (customer support, analytics, market research, user research, competitive analysis, etc.)?
+* At the end of a project or sale or even website visit, how do you qualify it as a success?
 
-### Context
+#### Competitive Overview
+* List a few competitors that you’d consider benchmark companies?
+* What differentiates your company and product from your competitors?
+* What about these companies makes then stand apart from others?
+* What elements of these companies and/or their online activity would you like to model after in your redesign?
+
+#### Search Overview
+* Based on what you know right now, what keywords or phrases would “you” use to search for your products and/or service offering?
+* What search terms are your competitors targeting?
+* Of the words you just listed, which ones would you like to target with the new website?
+* Do you have existing content that can support these keywords or phrases?
+* Does your existing website and content rank for these phrases?
+
+#### Website Current State
+* What does your website currently do well?
+* What does your website currently do poorly?
+* Are there any aspects of your website that you love?
+* Are there any aspects of your website that you hate?
+* Is there anything on the current website that needs to be removed entirely?
+* Is there anything on the current website that must absolutely stay?
+
+#### Website Future State
+* What is the most important factor of your new website?
+* What functional requirements are needed within the new website?
+* What visual elements are needed within the new website?
+* Are there any brand colors that should be used for the new website?
+* What social media elements would you like integrated?
+* Do you have a proposed sitemap prepared?
+* Do you need a subscription option or other offer?
+* Will you be blogging?
+* Will you require responsive design (adapts automatically to mobile devices)?
+* Is there anything that you would like to have included in the new website that you lack currently?
+
+#### Project Constraints
+* What is proposed date for kicking off your web design project?
+* What is you desired date for going live?
+
+#### Content to Assemble
+* High resolution logo
+* Content for pages
+* Blog posts
+* Literature or brochures
+* Sales presentations
+* Case studies
+* Press releases
+* Videos or podcasts
+* Images
+* Testimonials
+* Articles
+* Events
+* Other marketing collateral
+
+#### Context
 * In which context will the service/app be used? How important is responsive design?
-
-### Client
-* What does the client need? 
-* How will success be measured?
 
 ### The framing of the problem
 * Strip down number of tasks as much as possible to focus on a minimally viable product (MVP) 
@@ -45,7 +111,9 @@ Framing the problem
 * This product is like "..." but with a "..." Try finding similarities to other products but point to the Unique Selling Point.
 
 #### References
-http://alistapart.com/article/usable-yet-useless-why-every-business-needs-product-discovery
+[50 Questions before a project](http://www.web-savvy-marketing.com/2013/03/web-design-projects-50-questions/)  
+[Product Discovery](http://alistapart.com/article/usable-yet-useless-why-every-business-needs-product-discovery)  
+[Responsive Workflow](http://viljamis.com/blog/2012/responsive-workflow/)  
 
 Research
 ========
@@ -85,6 +153,16 @@ Journey Maps
 #### References
 [uxmag](http://uxmag.com/articles/illustrating-the-big-picture)  
 [Unique Selling Points and more](http://www.elezea.com/2013/05/one-ux-deliverable/)
+
+Fundamental parts of UI
+===================
+
+### Information
+* Resource: user needs to find something
+
+### Action
+* User needs to enter or change something
+ 
 
 Sketching
 ========
