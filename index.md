@@ -248,11 +248,18 @@ Graphic Design
 * Everything will change so don't believe in there being a "final sketch" in FW/PS.
 
 ### Graphic Design Clichés
+* Overlay semitransparent image of texture
+* Blurry image in the back. Sharp graphics in the front
+* Cut-through fat type so you see image in the background, through letter
+* If something should be big, there needs to be something small to contrast it
+* Contrast between bold letters and light letters. Headlines
+* Create as few visual 'blocks' as possible
+* Semi-transparent color layer on top of black/white graphics.  
 <div class="img-examples">
-        <a class="popup" href="../images/1.png"><img src="../images/1.png" alt=""></a>
-        <a class="popup" href="../images/background.png"><img src="../images/background.png" alt=""></a>
-        <a class="popup" href="../images/1.png"><img src="../images/2.jpg" alt=""></a>
-      </div>
+  <a class="popup" href="../images/1.png">
+    <img src="../images/1.png" alt="">
+  </a>
+</div>
 
 <div class="ref">
 <h5>References</h5>
