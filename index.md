@@ -247,6 +247,13 @@ Graphic Design
 * Show a range of elements rather than a full layout to save time. Client gets a feeling for the look and feel and style, not the details or the ixd. Prevents client from focusing on the wrong things.
 * Everything will change so don't believe in there being a "final sketch" in FW/PS.
 
+### Graphic Design Clichés
+<div class="img-examples">
+        <a class="popup" href="../images/1.png"><img src="../images/1.png" alt=""></a>
+        <a class="popup" href="../images/background.png"><img src="../images/background.png" alt=""></a>
+        <a class="popup" href="../images/1.png"><img src="../images/2.jpg" alt=""></a>
+      </div>
+
 <div class="ref">
 <h5>References</h5>
 <a href="modularscale.com">Modular Scale</a>
