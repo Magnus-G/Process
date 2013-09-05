@@ -124,14 +124,11 @@ Research
 
 * How do other companies, apps, sites do this thing? What works and why?
 
-### Product Walkthrough 
-*If there is an existing product or workflow*
-
-#### Preferable walkthrough
+#### Preferable product walkthrough
 * Have end users explain how they work to solve the problem at hand.
 * Where are they when they use the tool(s)? At home? At work? On the go?
 
-#### Second best walkthrough
+#### Second best product walkthrough
 * Have client show the product, step by step how it's used.
 * If possible, record the walkthrough on video.
 
