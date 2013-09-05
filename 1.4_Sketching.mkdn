@@ -1,5 +1,0 @@
-#Sketching
-
-* Pen and paper: Diagrams or screenshots. Arrows and text showing what things are and which action leads to what.
-* Take photos of sketches and email/post them to the team for feedback.
-* Miniature wireframe layouts made in graphics program. Stay way from details.
