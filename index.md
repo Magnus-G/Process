@@ -249,24 +249,70 @@ Graphic Design
 
 ### Graphic Design Clichés
 * Overlay semitransparent image of texture
+<div class="img-examples">
+  <a class="popup" href="images/texture1.png"><img src="images/texture1.png" alt=""></a>
+</div>
+
+* Brand color stripe across screen (often on top) to anchor the page.
+<div class="img-examples">
+  <a class="popup" href="images/color-stripe.png"><img src="images/color-stripe.png" alt=""></a>
+</div>
+
+* Handmade, or hand drawn, elements add contrast and life to a layout.
+<div class="img-examples">
+  <a class="popup" href="images/handmade-contrast.png"><img src="images/handmade-contrast.png" alt=""></a>
+</div>
+
+* Light area contrasting dark area
+<div class="img-examples">
+  <a class="popup" href="images/light-dark-contrast.png"><img src="images/light-dark-contrast.png" alt=""></a>
+  <a class="popup" href="images/light-dark-contrast2.png"><img src="images/light-dark-contrast2.png" alt=""></a>
+  <a class="popup" href="images/light-dark-contrast3.gif"><img src="images/light-dark-contrast3.gif" alt=""></a>
+  <a class="popup" href="images/light-dark-contrast4.png"><img src="images/light-dark-contrast4.png" alt=""></a>
+</div>
+
 * Blurry image in the back. Sharp graphics in the front.
 <div class="img-examples">
   <a class="popup" href="images/bold-light.png"><img src="images/bold-light.png" alt=""></a>
 </div>
-* Cut-through fat type so you see image in the background, through letter
-* If something should be big, there needs to be something small to contrast it
+
+* Semi-transparent borders.
+<div class="img-examples">
+  <a class="popup" href="images/semi-transparent-borders.png"><img src="images/semi-transparent-borders.png" alt=""></a>
+</div>
+* Cut-through fat type so you see image in the background, through letter.
+<div class="img-examples">
+  <a class="popup" href="images/texture.jpg"><img src="images/texture.jpg" alt=""></a>
+</div>
+
+* Contrast 2D elements with 3D elements.
+<div class="img-examples">
+  <a class="popup" href="images/2d-vs-3d.jpg"><img src="images/2d-vs-3d.jpg" alt=""></a>
+</div>
+
+* Overprint effect for visual disruption and retro look.
+<div class="img-examples">
+  <a class="popup" href="images/overprint.jpg"><img src="images/overprint.jpg" alt=""></a>
+</div>
+
+* If something should be big, there needs to be something small to contrast it.
 * Contrast between bold letters and light letters. Headlines.
 <div class="img-examples">
-  <a class="popup" href="images/bold-light.png"><img src="images/bold-light.png" alt=""></a>
+  <a class="popup" href="images/bold-light2.png"><img src="images/bold-light2.png" alt=""></a>
 </div>
-* Create as few visual 'blocks' as possible
+
+* Create as few visual 'blocks' as possible.
+
 * Semi-transparent color layer on top of black/white graphics.  
 <div class="img-examples">
-  <a class="popup" href="images/1.png"><img src="images/1.png" alt=""></a>
+  <a class="popup" href="images/color-block.jpg"><img src="images/color-block.jpg.png" alt=""></a>
 </div>
+
 * Duotone for images
 <div class="img-examples">
   <a class="popup" href="images/duotone.jpg"><img src="images/duotone.jpg" alt=""></a>
+ <a class="popup" href="images/duotone2.jpg"><img src="images/duotone2.jpg" alt=""></a>
+ <a class="popup" href="images/duotone3.jpg"><img src="images/duotone3.jpg" alt=""></a>
 </div>
 
 <div class="ref">
