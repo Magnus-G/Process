@@ -21,7 +21,7 @@ Project Initiation
 
 <div class="ref">
 <h5>References</h5>
-<a href="http://www.elezea.com/2013/05/one-ux-deliverable/">Unique Selling Points and more
+<a href="http://www.elezea.com/2013/05/one-ux-deliverable/">Unique Selling Points and more</a>
 </div>
 
 Framing the problem
@@ -114,9 +114,9 @@ Framing the problem
 
 <div class="ref">
 <h5>References</h5>
-<a href="http://www.web-savvy-marketing.com/2013/03/web-design-projects-50-questions/">50 Questions before a project
-<a href="http://alistapart.com/article/usable-yet-useless-why-every-business-needs-product-discovery">Product Discovery
-<a href="http://viljamis.com/blog/2012/responsive-workflow/">Responsive Workflow
+<a href="http://www.web-savvy-marketing.com/2013/03/web-design-projects-50-questions/">50 Questions before a project</a>
+<a href="http://alistapart.com/article/usable-yet-useless-why-every-business-needs-product-discovery">Product Discovery</a>
+<a href="http://viljamis.com/blog/2012/responsive-workflow/">Responsive Workflow</a>
 </div>
 
 Research
@@ -156,8 +156,8 @@ Journey Maps
 
 <div class="ref">
 <h5>References</h5>
-<a href="">uxmag](http://uxmag.com/articles/illustrating-the-big-picture)  
-[Unique Selling Points and more](http://www.elezea.com/2013/05/one-ux-deliverable/)
+<a href="http://uxmag.com/articles/illustrating-the-big-picture">UXMag </a>
+<a href="http://www.elezea.com/2013/05/one-ux-deliverable/">Unique Selling Points and more</a>
 </div>
 
 Fundamental parts of UI
@@ -201,7 +201,7 @@ Todo Lists
 
 <div class="ref">
 <h5>References</h5>
-<a href="">Trello](http://trello.com)
+<a href="http://trello.com">Trello</a>
 </div>
 
 Graphic Design
@@ -232,7 +232,7 @@ Graphic Design
 
 <div class="ref">
 <h5>References</h5>
-<a href="">Modular Scale](modularscale.com)  
-[Color Scheme Designer](http://colorschemedesigner.com/)
+<a href="modularscale.com">Modular Scale</a>
+<a href="http://colorschemedesigner.com/">Color Scheme Designer</a>
 </div>
 
