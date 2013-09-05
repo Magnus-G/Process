@@ -269,6 +269,7 @@ Graphic Design
   <a class="popup" href="images/light-dark-contrast2.png"><img src="images/light-dark-contrast2.png" alt=""></a>
   <a class="popup" href="images/light-dark-contrast3.gif"><img src="images/light-dark-contrast3.gif" alt=""></a>
   <a class="popup" href="images/light-dark-contrast4.png"><img src="images/light-dark-contrast4.png" alt=""></a>
+  <a class="popup" href="images/light-dark-contrast5.jpg"><img src="images/light-dark-contrast5.jpg" alt=""></a>
 </div>
 
 * Blurry image in the back. Sharp graphics in the front.
@@ -311,7 +312,7 @@ Graphic Design
 
 * Semi-transparent color layer on top of black/white graphics.  
 <div class="img-examples">
-  <a class="popup" href="images/color-block.jpg"><img src="images/color-block.jpg.png" alt=""></a>
+  <a class="popup" href="images/color-block.jpg"><img src="images/color-block.jpg" alt=""></a>
 </div>
 
 * Duotone for images
