@@ -38,7 +38,7 @@ strong {
   color: #333333; }
 
 .intro {
-  font-family: georgia;
+  font-family: 'Noto Serif', georgia, serif;
   font-style: italic;
   border-left: 1px solid #393939;
   padding-left: 1em;
