@@ -386,6 +386,11 @@ Graphic Styles
   <a class="popup" href="images/gfx-examples/color-block.jpg"><img src="images/gfx-examples/color-block.jpg" alt=""></a>
 </div>
 
+* **Dark layer** over a background image to turn it "monochrome" and to allow text on top of it.
+<div class="img-examples">
+  <a class="popup" href="images/gfx-examples/darkened-backimage1.jpg"><img src="images/gfx-examples/darkened-backimage1.jpg" alt=""></a>
+</div>
+
 * Duotone for images
 <div class="img-examples">
   <a class="popup" href="images/gfx-examples/duotone.jpg"><img src="images/gfx-examples/duotone.jpg" alt=""></a>
