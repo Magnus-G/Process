@@ -265,8 +265,8 @@ Type Treatments
 
 * Small heading **inside of a block**. Can be color coded. Also called "cameo".
 <div class="img-examples">
-  <a class="popup" href="images/typography/in-block-header1.png"><img src="images/typography/in-block-header1.png" alt=""></a>
-  <a class="popup" href="images/typography/in-block-header2.png"><img src="images/typography/in-block-header2.png" alt=""></a>
+  <a class="popup" href="images/typography/in-block-heading1.png"><img src="images/typography/in-block-heading1.png" alt=""></a>
+  <a class="popup" href="images/typography/in-block-heading2.png"><img src="images/typography/in-block-heading2.png" alt=""></a>
 </div>
 
 * **Serif together with sans serif** to add contrast and life.
