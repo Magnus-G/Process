@@ -191,6 +191,7 @@ Concept work for UI
 * Black and white, maybe grayscale
 <div class="img-examples">
   <a class="popup" href="images/concept/wireframe1.gif"><img src="images/style/concept/wireframe1.gif" alt=""></a>
+  <a class="popup" href="images/concept/wireframe2.gif"><img src="images/style/concept/wireframe2.gif" alt=""></a>
 </div>
 
 ### Card Sorting
@@ -336,6 +337,7 @@ Graphic Styles
   <a class="popup" href="images/gfx-examples/overlap1.jpg"><img src="images/gfx-examples/overlap1.jpg" alt=""></a>
   <a class="popup" href="images/gfx-examples/overlap2.png"><img src="images/gfx-examples/overlap2.png" alt=""></a>
   <a class="popup" href="images/gfx-examples/overlap3.jpg"><img src="images/gfx-examples/overlap3.jpg" alt=""></a>
+  <a class="popup" href="images/gfx-examples/overlap4.png"><img src="images/gfx-examples/overlap4.png" alt=""></a>
 </div>
 
 * **Light vs dark** area contrasting.
@@ -384,6 +386,11 @@ Graphic Styles
 * Semi-transparent color layer on top of black/white graphics.  
 <div class="img-examples">
   <a class="popup" href="images/gfx-examples/color-block.jpg"><img src="images/gfx-examples/color-block.jpg" alt=""></a>
+</div>
+
+* **Dark layer** over a background image to turn it "monochrome" and to allow text on top of it.
+<div class="img-examples">
+  <a class="popup" href="images/gfx-examples/darkened-backimage1.jpg"><img src="images/gfx-examples/darkened-backimage1.jpg" alt=""></a>
 </div>
 
 * Duotone for images
