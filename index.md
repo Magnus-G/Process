@@ -250,7 +250,6 @@ General Style
 * Create a [Style Tile](http://styletil.es/) (template below) or an [Element Collage](http://danielmall.com/articles/rif-element-collages/) and communicate with clients.
 * Show a range of elements rather than a full layout to save time. Client gets a feeling for the look and feel and style, not the details or the ixd. Prevents client from focusing on the wrong things.
 * Everything will change so don't believe in there being a "final sketch" in FW/PS.
-
 <div class="img-examples">
   <a class="popup" href="images/style/style-tile.png"><img src="images/style/style-tile.png" alt=""></a>
 </div>
