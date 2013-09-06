@@ -67,7 +67,12 @@ h4 {
 h5 {
   font-size: 0.83em;
   text-transform: uppercase;
-  font-weight: 700; }
+  font-weight: 700;
+  background-color: #ff90b3;
+  display: inline-block;
+  color: white;
+  padding: 2px 8px;
+  margin-bottom: 1.6em; }
 
 h6 {
   font-size: 0.75em;
