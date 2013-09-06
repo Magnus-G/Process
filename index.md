@@ -259,11 +259,9 @@ Typography Clichés
   <a class="popup" href="images/typography/small-header2.png"><img src="images/typography/small-header2.png" alt=""></a>
 </div>
 
-* Ribbons
-
 * Small heading inside of a block. Can be color coded. Also called "cameo".
 <div class="img-examples">
-  <a class="popup" href="images/typography/in-block-header1.png"><img src="images/typography/in-block-header1.png.png" alt=""></a>
+  <a class="popup" href="images/typography/in-block-header1.png"><img src="images/typography/in-block-header1.png" alt=""></a>
 </div>
 
 Graphic Design Clichés
