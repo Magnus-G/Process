@@ -161,7 +161,8 @@ Research & Learning
 </div>
 
 Concept work for UI
-========
+================
+
 ### Brainstorming
 #### Structure and basic rules
 * Main purpose is to get as many ideas as possible. Not as good ideas as possible.
@@ -184,17 +185,23 @@ Concept work for UI
 * Take photos of sketches and email/post them to the team for feedback.
 * Miniature wireframe layouts made in graphics program. Stay way from details.
 
+### Wireframes
+* Black and white, maybe grayscale
+
+### Card Sorting
+* When you know which sections the system will have but need to find out how they should be hierarchically ordered and sorted.
+
 <div class="ref">
 <h5>References</h5>
 <a href="http://www.optimalworkshop.com/">Card Sorting Tools and More</a>
 </div>
 
-Todo Lists
-========
+Project Management
+================
 
 *Use a tool like [Trello](http://trello.com) or [Trajectory](https://www.apptrajectory.com) to document stories on cards.*
 
-### Ideas
+### Listing Ideas
 * State the problem in the title of the card. State who has the problem.
 * Post sketches. 
 * Get client feedback on the card.
@@ -246,9 +253,17 @@ Typography Clichés
 ================
 
 ### Headings
-* Small headings for indicating sub categories of articles.
+* Small headings for indicating sub categories of articles. Can be used with stripes for color coding.
 <div class="img-examples">
   <a class="popup" href="images/typography/small-header1.png"><img src="images/typography/small-header1.png" alt=""></a>
+  <a class="popup" href="images/typography/small-header2.png"><img src="images/typography/small-header2.png" alt=""></a>
+</div>
+
+* Ribbons
+
+* Small heading inside of a block. Can be color coded. Also called "cameo".
+<div class="img-examples">
+  <a class="popup" href="images/typography/in-block-header1.png"><img src="images/typography/in-block-header1.png.png" alt=""></a>
 </div>
 
 Graphic Design Clichés
