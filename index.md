@@ -160,16 +160,6 @@ Research & Learning
 ">Journey Maps</a>
 </div>
 
-Fundamental parts of UI
-===================
-
-### Information
-* Resource: user needs to find something
-
-### Action
-* User needs to enter or change something
- 
-
 Concept work for UI
 ========
 ### Brainstorming
