@@ -9,6 +9,7 @@ $radius: 3px;
 $space: 1em;
 $indent: 1.6em;
 $paragraph-end: 1.6em;
+$section-end: 4.2em;
 
 @mixin box-shadow {
   box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.09), inset 0px 0px 2px 2px rgba(255, 255, 255, 0.5), inset 0 0 5px 5px rgba(255, 255, 255, 0.4);
@@ -35,6 +36,14 @@ $paragraph-end: 1.6em;
     width: 25px;
     height: auto;
   }
+}
+
+.ref {
+  margin: 0 $indent $section-end $indent;
+  background-color: $ref-color;
+  border: 1px solid darken($ref-color, 10);
+  padding: $space;
+  border-radius: $radius;
 }
 
 article,
@@ -368,14 +377,6 @@ section {
   border-radius: 3px;
   border: 1px solid #cbcbcb;
   @include box-shadow;
-}
-
-.ref {
-  margin: 0 $indent $paragraph-end $indent;
-  background-color: $ref-color;
-  border: 1px solid darken($ref-color, 10);
-  padding: $space;
-  border-radius: $radius;
 }
 
 small {
