@@ -255,7 +255,13 @@ General Style
 
 ### Typography
 * Find a typeface for body type that fits the keywords
-* Use a tool such as [Modular Scale](modularscale.com) to set sizes of type and elements
+* Use a tool such as [Modular Scale](modularscale.com) to set sizes of type and elements.
+
+<div class="ref">
+<h5>References</h5>
+<a href="http://styletil.es/">Style Tiles</a>
+<a href="http://danielmall.com/articles/rif-element-collages/">Element Collages</a>
+</div>
 
 Type Treatments
 ================
