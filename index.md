@@ -122,6 +122,8 @@ Framing the problem
 Research & Learning
 =============================
 
+*Getting on the same page as the client, learning about end users, understanding the context for the product, understanding why the product is important and how it should work*.
+
 #### Preferable product walkthrough
 * Have end users explain how they work to solve the problem at hand.
 * Where are they when they use the tool(s)? At home? At work? On the go?
@@ -197,7 +199,6 @@ Concept work for UI
 <div class="ref">
 <h5>References</h5>
 <a href="http://www.optimalworkshop.com/">Card Sorting Tools and More</a>
-<a href="http://boxesandarrows.com/card-sorting-a-definitive-guide/">Card Sorting</a>
 <a href="http://playbook.thoughtbot.com/understanding-design/usability-testing/">Usability Testing at thoughtbot</a>
 </div>
 
@@ -256,7 +257,13 @@ General Style
 
 ### Typography
 * Find a typeface for body type that fits the keywords
-* Use a tool such as [Modular Scale](modularscale.com) to set sizes of type and elements
+* Use a tool such as [Modular Scale](modularscale.com) to set sizes of type and elements.
+
+<div class="ref">
+<h5>References</h5>
+<a href="http://styletil.es/">Style Tiles</a>
+<a href="http://danielmall.com/articles/rif-element-collages/">Element Collages</a>
+</div>
 
 Type Treatments
 ================
@@ -292,6 +299,7 @@ Type Treatments
   <a class="popup" href="images/typography/bold-light2.png"><img src="images/typography/bold-light2.png" alt=""></a>
 </div>
 
+### Paragraph Text
 * **Drop caps** for traditional looking prose.
 <div class="img-examples">
   <a class="popup" href="images/typography/drop-cap1.jpg"><img src="images/typography/drop-cap1.jpg" alt=""></a>
