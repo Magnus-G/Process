@@ -119,8 +119,8 @@ Framing the problem
 <a href="http://viljamis.com/blog/2012/responsive-workflow/">Responsive Workflow</a>
 </div>
 
-Research
-========
+Research, Learning & Understanding
+=============================
 
 #### Preferable product walkthrough
 * Have end users explain how they work to solve the problem at hand.
@@ -136,23 +136,28 @@ Research
 * Are there areas for interacting with settings and general site specific issues?
 * How are these things reflected in the current layout?
 
-Journey Maps
-===========
+#### Journey Maps
 
-*The relationship that unfolds over time between an individual and a system.*
-
-* Grounded in research (interviews, ethnographic observation, contextual inquiry, surveys)
-* Good for workshops with clients
-
-#### Contents of a Journey Map
-* Original user story: Along the timeline, plot out how the system works today.
-* How it could be. Next to original story, plot out ideas for how it could be.
-* Questions a user might have at a certain point. “Can I trust this retailer?” or “When will my stuff arrive?”
+* "The relationship that unfolds over time between an individual and a system."
+* Grounded in research (interviews, ethnographic observation, contextual inquiry, surveys).
+* Good for workshops with clients.
+* **Content of map**: Original user story: Along the timeline, plot out how the system works today.
+* **Content of map**: How it could be. Next to original story, plot out ideas for how it could be.
+* **Content of map**: Questions a user might have at a certain point. “Can I trust this retailer?” or “When will my stuff arrive?”
+* Examples of journey maps:
+<div class="img-examples">
+  <a class="popup" href="images/research/journey-map1.jpg"><img src="images/research/journey-map1.jpg" alt=""></a>
+  <a class="popup" href="images/research/journey-map2.jpg"><img src="images/research/journey-map2.jpg" alt=""></a>
+  <a class="popup" href="images/research/journey-map3.jpg"><img src="images/research/journey-map3.jpg" alt=""></a>
+  <a class="popup" href="images/research/journey-map4.jpg"><img src="images/research/journey-map4.jpg" alt=""></a>
+</div>
 
 <div class="ref">
 <h5>References</h5>
 <a href="http://uxmag.com/articles/illustrating-the-big-picture">UXMag </a>
 <a href="http://www.elezea.com/2013/05/one-ux-deliverable/">Unique Selling Points and more</a>
+<a href="http://customerexperienceplanning.com/2012/04/11/customer-journey-mapping-part-i-the-basics/
+">Journey Maps</a>
 </div>
 
 Fundamental parts of UI
