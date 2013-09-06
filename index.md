@@ -189,6 +189,9 @@ Concept work for UI
 
 ### Wireframes
 * Black and white, maybe grayscale
+<div class="img-examples">
+  <a class="popup" href="images/concept/wireframe1.gif"><img src="images/style/concept/wireframe1.gif" alt=""></a>
+</div>
 
 ### Card Sorting
 * When you know which sections the system will have but need to find out how they should be hierarchically ordered and sorted.
@@ -316,6 +319,11 @@ Graphic Styles
 * Brand **color stripe** across screen (often on top) to anchor the page.
 <div class="img-examples">
   <a class="popup" href="images/gfx-examples/color-stripe.png"><img src="images/gfx-examples/color-stripe.png" alt=""></a>
+</div>
+
+* Monochrome **vector outlines** on monochrome or gradient elements.
+<div class="img-examples">
+  <a class="popup" href="images/gfx-examples/outlines1.jpg"><img src="images/gfx-examples/outlines1.jpg" alt=""></a>
 </div>
 
 * **Handmade**, or hand drawn, elements add contrast and life to a layout.
