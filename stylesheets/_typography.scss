@@ -50,7 +50,10 @@ strong {
 
 .intro {
   font-family: georgia;
+  font-style: italic;
   border-left: 1px solid $font-color-secondary;
+  padding-left: $space;
+  padding-bottom: 4px;
   color: $font-color-secondary;
 }
 

@@ -39,7 +39,10 @@ strong {
 
 .intro {
   font-family: georgia;
+  font-style: italic;
   border-left: 1px solid #393939;
+  padding-left: 1em;
+  padding-bottom: 4px;
   color: #393939; }
 
 h1 {
