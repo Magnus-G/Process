@@ -250,81 +250,81 @@ Graphic Design
 ### Graphic Design Clichés
 * Overlay semitransparent image of texture
 <div class="img-examples">
-  <a class="popup" href="images/texture1.png"><img src="images/texture1.png" alt=""></a>
+  <a class="popup" href="images/gfx-examples/texture1.png"><img src="images/gfx-examples/texture1.png" alt=""></a>
 </div>
 
 * Brand color stripe across screen (often on top) to anchor the page.
 <div class="img-examples">
-  <a class="popup" href="images/color-stripe.png"><img src="images/color-stripe.png" alt=""></a>
+  <a class="popup" href="images/gfx-examples/color-stripe.png"><img src="images/gfx-examples/color-stripe.png" alt=""></a>
 </div>
 
 * Handmade, or hand drawn, elements add contrast and life to a layout.
 <div class="img-examples">
-  <a class="popup" href="images/handmade-contrast.png"><img src="images/handmade-contrast.png" alt=""></a>
+  <a class="popup" href="images/gfx-examples/handmade-contrast.png"><img src="images/gfx-examples/handmade-contrast.png" alt=""></a>
 </div>
 
 * Light area contrasting dark area
 <div class="img-examples">
-  <a class="popup" href="images/light-dark-contrast.png"><img src="images/light-dark-contrast.png" alt=""></a>
-  <a class="popup" href="images/light-dark-contrast2.png"><img src="images/light-dark-contrast2.png" alt=""></a>
-  <a class="popup" href="images/light-dark-contrast3.gif"><img src="images/light-dark-contrast3.gif" alt=""></a>
-  <a class="popup" href="images/light-dark-contrast4.png"><img src="images/light-dark-contrast4.png" alt=""></a>
-  <a class="popup" href="images/light-dark-contrast5.jpg"><img src="images/light-dark-contrast5.jpg" alt=""></a>
+  <a class="popup" href="images/gfx-examples/light-dark-contrast.png"><img src="images/gfx-examples/light-dark-contrast.png" alt=""></a>
+  <a class="popup" href="images/gfx-examples/light-dark-contrast2.png"><img src="images/gfx-examples/light-dark-contrast2.png" alt=""></a>
+  <a class="popup" href="images/gfx-examples/light-dark-contrast3.gif"><img src="images/gfx-examples/light-dark-contrast3.gif" alt=""></a>
+  <a class="popup" href="images/gfx-examples/light-dark-contrast4.png"><img src="images/gfx-examples/light-dark-contrast4.png" alt=""></a>
+  <a class="popup" href="images/gfx-examples/light-dark-contrast5.jpg"><img src="images/gfx-examples/light-dark-contrast5.jpg" alt=""></a>
 </div>
 
 * Blurry image in the back. Sharp graphics in the front.
 <div class="img-examples">
-  <a class="popup" href="images/blur-back.png"><img src="images/blur-back.png" alt=""></a>
-<a class="popup" href="images/blur-back2.jpg"><img src="images/blur-back2.jpg" alt=""></a>
+  <a class="popup" href="images/gfx-examples/blur-back.png"><img src="images/gfx-examples/blur-back.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/blur-back2.jpg"><img src="images/gfx-examples/blur-back2.jpg" alt=""></a>
 </div>
 
 * Semi-transparent borders.
 <div class="img-examples">
-  <a class="popup" href="images/semi-transparent-borders.png"><img src="images/semi-transparent-borders.png" alt=""></a>
+  <a class="popup" href="images/gfx-examples/semi-transparent-borders.png"><img src="images/gfx-examples/semi-transparent-borders.png" alt=""></a>
 </div>
 * Cut-through fat type so you see image in the background, through letter.
 <div class="img-examples">
-  <a class="popup" href="images/texture.jpg"><img src="images/texture.jpg" alt=""></a>
+  <a class="popup" href="images/gfx-examples/texture.jpg"><img src="images/gfx-examples/texture.jpg" alt=""></a>
 </div>
 
 * Contrast 2D elements with 3D elements.
 <div class="img-examples">
-  <a class="popup" href="images/2d-vs-3d.jpg"><img src="images/2d-vs-3d.jpg" alt=""></a>
+  <a class="popup" href="images/gfx-examples/2d-vs-3d.jpg"><img src="images/gfx-examples/2d-vs-3d.jpg" alt=""></a>
 </div>
 
 * Details and/or illustrations in monochrome and mono thick strokes.
 <div class="img-examples">
-  <a class="popup" href="images/monochrome-monothick.png"><img src="images/monochrome-monothick.png" alt=""></a>
+  <a class="popup" href="images/gfx-examples/monochrome-monothick.png"><img src="images/gfx-examples/monochrome-monothick.png" alt=""></a>
 </div>
 
 * Overprint effect for visual disruption and retro look.
 <div class="img-examples">
-  <a class="popup" href="images/overprint.jpg"><img src="images/overprint.jpg" alt=""></a>
+  <a class="popup" href="images/gfx-examples/overprint.jpg"><img src="images/gfx-examples/overprint.jpg" alt=""></a>
 </div>
 
 * If something should be big, there needs to be something small to contrast it.
 * Contrast between bold letters and light letters. Headlines.
 <div class="img-examples">
-  <a class="popup" href="images/bold-light2.png"><img src="images/bold-light2.png" alt=""></a>
+  <a class="popup" href="images/gfx-examples/bold-light2.png"><img src="images/gfx-examples/bold-light2.png" alt=""></a>
 </div>
 
 * Create as few visual 'blocks' as possible.
 
 * Semi-transparent color layer on top of black/white graphics.  
 <div class="img-examples">
-  <a class="popup" href="images/color-block.jpg"><img src="images/color-block.jpg" alt=""></a>
+  <a class="popup" href="images/gfx-examples/color-block.jpg"><img src="images/gfx-examples/color-block.jpg" alt=""></a>
 </div>
 
 * Duotone for images
 <div class="img-examples">
-  <a class="popup" href="images/duotone.jpg"><img src="images/duotone.jpg" alt=""></a>
- <a class="popup" href="images/duotone2.jpg"><img src="images/duotone2.jpg" alt=""></a>
- <a class="popup" href="images/duotone3.jpg"><img src="images/duotone3.jpg" alt=""></a>
+  <a class="popup" href="images/gfx-examples/duotone.jpg"><img src="images/gfx-examples/duotone.jpg" alt=""></a>
+ <a class="popup" href="images/gfx-examples/duotone2.jpg"><img src="images/gfx-examples/duotone2.jpg" alt=""></a>
+ <a class="popup" href="images/gfx-examples/duotone3.jpg"><img src="images/gfx-examples/duotone3.jpg" alt=""></a>
 </div>
 
 * Gradient overlay for images to create depth, harmony (with other elements), unity (if image is too busy etc).
 <div class="img-examples">
-  <a class="popup" href="images/gradient-overlay.jpg"><img src="images/gradient-overlay.jpg" alt=""></a>
+  <a class="popup" href="images/gfx-examples/gradient-overlay.jpg"><img src="images/gfx-examples/gradient-overlay.jpg" alt=""></a>
 </div>
 
 <div class="ref">
@@ -332,4 +332,3 @@ Graphic Design
 <a href="modularscale.com">Modular Scale</a>
 <a href="http://colorschemedesigner.com/">Color Scheme Designer</a>
 </div>
-
