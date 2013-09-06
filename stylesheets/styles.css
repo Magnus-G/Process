@@ -575,20 +575,13 @@ img.mfp-img {
   width: 0;
   height: 0;
   border-bottom: 70px solid #f0f2f5;
-  border-right: 70px solid #d1d7e1; }
+  border-right: 70px solid #e1e5eb; }
   .github-link img {
     position: absolute;
     top: 8px;
     left: 36px;
     width: 25px;
-    height: auto;
-    -webkit-filter: drop-shadow(0px 1px 0px rgba(255, 255, 255, 0.99));
-    filter: url(shadow.svg#drop-shadow);
-    -ms-filter: "progid:DXImageTransform.Microsoft.
-        Dropshadow(OffX=12, OffY=12, Color='$shadow-color')";
-    filter: "progid:DXImageTransform.Microsoft.
-        Dropshadow(OffX=12, OffY=12, 
-      Color='$shadow-color')"; }
+    height: auto; }
 
 article,
 aside,
