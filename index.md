@@ -119,7 +119,7 @@ Framing the problem
 <a href="http://viljamis.com/blog/2012/responsive-workflow/">Responsive Workflow</a>
 </div>
 
-Research, Learning & Understanding
+Research & Learning
 =============================
 
 #### Preferable product walkthrough
