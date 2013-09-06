@@ -3,9 +3,6 @@ layout: index
 ---
 
 #####Design Process
-<p class="intro">
-An attempt to summarize a design process.
-<p>
 
 Project Initiation
 =============
