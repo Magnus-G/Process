@@ -136,6 +136,11 @@ ul {
 dd {
   margin: 0 0 0 40px; }
 
+menu,
+ol,
+ul {
+  margin-bottom: 1.6em; }
+
 nav ul,
 nav ol {
   list-style: none;
