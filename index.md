@@ -191,9 +191,13 @@ Concept work for UI
 ### Card Sorting
 * When you know which sections the system will have but need to find out how they should be hierarchically ordered and sorted.
 
+### Usability Testing
+* 
+
 <div class="ref">
 <h5>References</h5>
 <a href="http://www.optimalworkshop.com/">Card Sorting Tools and More</a>
+<a href="http://playbook.thoughtbot.com/understanding-design/usability-testing/">Usability Testing at thoughtbot</a>
 </div>
 
 Project Management
@@ -249,22 +253,47 @@ General Style
 * Find a typeface for body type that fits the keywords
 * Use a tool such as [Modular Scale](modularscale.com) to set sizes of type and elements
 
-Typography Clichés
+Type Treatments
 ================
 
 ### Headings
-* Small headings for indicating sub categories of articles. Can be used with stripes for color coding.
+* **Small headings** for indicating sub categories of articles. Can be used with stripes for color coding.
 <div class="img-examples">
-  <a class="popup" href="images/typography/small-header1.png"><img src="images/typography/small-header1.png" alt=""></a>
-  <a class="popup" href="images/typography/small-header2.png"><img src="images/typography/small-header2.png" alt=""></a>
+  <a class="popup" href="images/typography/small-heading1.png"><img src="images/typography/small-heading1.png" alt=""></a>
+  <a class="popup" href="images/typography/small-heading2.png"><img src="images/typography/small-heading2.png" alt=""></a>
 </div>
 
-* Small heading inside of a block. Can be color coded. Also called "cameo".
+* Small heading **inside of a block**. Can be color coded. Also called "cameo".
 <div class="img-examples">
   <a class="popup" href="images/typography/in-block-header1.png"><img src="images/typography/in-block-header1.png" alt=""></a>
+  <a class="popup" href="images/typography/in-block-header2.png"><img src="images/typography/in-block-header2.png" alt=""></a>
 </div>
 
-Graphic Design Clichés
+* **Serif together with sans serif** to add contrast and life.
+<div class="img-examples">
+  <a class="popup" href="images/typography/serif-sans-serif1.png"><img src="images/typography/serif-sans-serif1.png" alt=""></a>
+</div>
+
+* Highlight importance with sections or **words in contrast color**.
+<div class="img-examples">
+  <a class="popup" href="images/typography/contrast-color-words1.jpg"><img src="images/typography/contrast-color-words1.jpg" alt=""></a>
+  <a class="popup" href="images/typography/contrast-color-words2.jpg"><img src="images/typography/contrast-color-words2.jpg" alt=""></a>
+  <a class="popup" href="images/typography/contrast-color-words3.jpg"><img src="images/typography/contrast-color-words3.jpg" alt=""></a>
+  <a class="popup" href="images/typography/contrast-color-words4.jpg"><img src="images/typography/contrast-color-words4.jpg" alt=""></a>
+</div>
+
+* **Contrast bold letters with light letters**. Headlines etc.
+<div class="img-examples">
+  <a class="popup" href="images/typography/bold-light2.png"><img src="images/typography/bold-light2.png" alt=""></a>
+</div>
+
+* **Drop caps** for traditional looking prose.
+<div class="img-examples">
+  <a class="popup" href="images/typography/drop-cap1.jpg"><img src="images/typography/drop-cap1.jpg" alt=""></a>
+  <a class="popup" href="images/typography/drop-cap2.jpg"><img src="images/typography/drop-cap2.jpg" alt=""></a>
+</div>
+
+Graphic Styles
 ===================
 
 * Overlay semitransparent image of texture
@@ -272,17 +301,24 @@ Graphic Design Clichés
   <a class="popup" href="images/gfx-examples/texture1.png"><img src="images/gfx-examples/texture1.png" alt=""></a>
 </div>
 
-* Brand color stripe across screen (often on top) to anchor the page.
+* Brand **color stripe** across screen (often on top) to anchor the page.
 <div class="img-examples">
   <a class="popup" href="images/gfx-examples/color-stripe.png"><img src="images/gfx-examples/color-stripe.png" alt=""></a>
 </div>
 
-* Handmade, or hand drawn, elements add contrast and life to a layout.
+* **Handmade**, or hand drawn, elements add contrast and life to a layout.
 <div class="img-examples">
   <a class="popup" href="images/gfx-examples/handmade-contrast.png"><img src="images/gfx-examples/handmade-contrast.png" alt=""></a>
 </div>
 
-* Light area contrasting dark area
+* **Overlapping elements** can disrupt a too rigid layout.
+<div class="img-examples">
+  <a class="popup" href="images/gfx-examples/overlap1.jpg"><img src="images/gfx-examples/overlap1.jpg" alt=""></a>
+  <a class="popup" href="images/gfx-examples/overlap2.png"><img src="images/gfx-examples/overlap2.png" alt=""></a>
+  <a class="popup" href="images/gfx-examples/overlap3.jpg"><img src="images/gfx-examples/overlap3.jpg" alt=""></a>
+</div>
+
+* **Light vs dark** area contrasting.
 <div class="img-examples">
   <a class="popup" href="images/gfx-examples/light-dark-contrast.png"><img src="images/gfx-examples/light-dark-contrast.png" alt=""></a>
   <a class="popup" href="images/gfx-examples/light-dark-contrast2.png"><img src="images/gfx-examples/light-dark-contrast2.png" alt=""></a>
@@ -322,10 +358,6 @@ Graphic Design Clichés
 </div>
 
 * If something should be big, there needs to be something small to contrast it.
-* Contrast between bold letters and light letters. Headlines.
-<div class="img-examples">
-  <a class="popup" href="images/gfx-examples/bold-light2.png"><img src="images/gfx-examples/bold-light2.png" alt=""></a>
-</div>
 
 * Create as few visual 'blocks' as possible.
 
