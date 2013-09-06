@@ -190,8 +190,8 @@ Concept work for UI
 ### Wireframes
 * Black and white, maybe grayscale
 <div class="img-examples">
-  <a class="popup" href="images/concept/wireframe1.gif"><img src="images/style/concept/wireframe1.gif" alt=""></a>
-  <a class="popup" href="images/concept/wireframe2.gif"><img src="images/style/concept/wireframe2.gif" alt=""></a>
+  <a class="popup" href="images/concept/wireframe1.gif"><img src="images/concept/wireframe1.gif" alt=""></a>
+  <a class="popup" href="images/concept/wireframe2.gif"><img src="images/concept/wireframe2.gif" alt=""></a>
 </div>
 
 ### Card Sorting
