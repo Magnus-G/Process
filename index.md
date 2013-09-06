@@ -227,7 +227,7 @@ Todo Lists
 <a href="http://trello.com">Trello</a>
 </div>
 
-Style
+General Style
 ============
 
 ### Brand Manuals
@@ -248,10 +248,12 @@ Style
 * Show a range of elements rather than a full layout to save time. Client gets a feeling for the look and feel and style, not the details or the ixd. Prevents client from focusing on the wrong things.
 * Everything will change so don't believe in there being a "final sketch" in FW/PS.
 
-Typography
-==========
+### Typography
 * Find a typeface for body type that fits the keywords
 * Use a tool such as [Modular Scale](modularscale.com) to set sizes of type and elements
+
+Typography Clichés
+================
 
 ### Headings
 * Small headings for indicating sub categories of articles.
