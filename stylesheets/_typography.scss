@@ -48,7 +48,11 @@ strong {
   color: $font-color;
 }
 
-
+.intro {
+  font-family: georgia;
+  border-left: 1px solid $font-color-secondary;
+  color: $font-color-secondary;
+}
 
 
 
