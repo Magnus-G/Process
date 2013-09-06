@@ -256,7 +256,7 @@ Typography
 ### Headings
 * Small headings for indicating sub categories of articles.
 <div class="img-examples">
-  <a class="popup" href="images/typography/small-header1.png"><img src="images/gfx-examples/texture1.png" alt=""></a>
+  <a class="popup" href="images/typography/small-header1.png"><img src="images/typography/small-header1.png" alt=""></a>
 </div>
 
 Graphic Design Clichés
