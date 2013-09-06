@@ -197,6 +197,7 @@ Concept work for UI
 <div class="ref">
 <h5>References</h5>
 <a href="http://www.optimalworkshop.com/">Card Sorting Tools and More</a>
+<a href="http://boxesandarrows.com/card-sorting-a-definitive-guide/">Card Sorting</a>
 <a href="http://playbook.thoughtbot.com/understanding-design/usability-testing/">Usability Testing at thoughtbot</a>
 </div>
 
@@ -255,13 +256,7 @@ General Style
 
 ### Typography
 * Find a typeface for body type that fits the keywords
-* Use a tool such as [Modular Scale](modularscale.com) to set sizes of type and elements.
-
-<div class="ref">
-<h5>References</h5>
-<a href="http://styletil.es/">Style Tiles</a>
-<a href="http://danielmall.com/articles/rif-element-collages/">Element Collages</a>
-</div>
+* Use a tool such as [Modular Scale](modularscale.com) to set sizes of type and elements
 
 Type Treatments
 ================
