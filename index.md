@@ -356,6 +356,7 @@ These are tried and tested styles and clichés for graphic elements.
   <a class="popup" href="images/gfx-examples/overlap2.png"><img src="images/gfx-examples/overlap2.png" alt=""></a>
   <a class="popup" href="images/gfx-examples/overlap3.jpg"><img src="images/gfx-examples/overlap3.jpg" alt=""></a>
   <a class="popup" href="images/gfx-examples/overlap4.png"><img src="images/gfx-examples/overlap4.png" alt=""></a>
+  <a class="popup" href="images/gfx-examples/overlap5.png"><img src="images/gfx-examples/overlap4.png" alt=""></a>
 </div>
 
 * **Light vs dark** area contrasting.
