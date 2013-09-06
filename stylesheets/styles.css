@@ -67,6 +67,11 @@ h4 {
 h5 {
   font-size: 0.83em;
   text-transform: uppercase;
+  font-weight: 700; }
+
+h5.title {
+  font-size: 0.83em;
+  text-transform: uppercase;
   font-weight: 700;
   background-color: #ff90b3;
   display: inline-block;
