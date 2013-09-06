@@ -9,8 +9,9 @@ An attempt to summarize a design process.
 
 Project Initiation
 =============
-
-*A potential client has a problem they want to solve*
+<p class="intro">
+A potential client has a problem they want to solve. Before the project starts, find out about budget etc, along with the following:
+<p>
 
 * How will solving this problem help our business?
 * Why is our business capable of making this solution a success?
@@ -28,6 +29,9 @@ Project Initiation
 
 Framing the problem
 ===================
+<p class="intro">
+Meet with the client, preferably in person, and interview them around the following questions.
+<p>
 
 ### Questions for client
 #### Marketing Overview
@@ -123,8 +127,9 @@ Framing the problem
 
 Research & Learning
 =============================
-
-*Getting on the same page as the client, learning about end users, understanding the context for the product, understanding why the product is important and how it should work*.
+<p class="intro">
+Getting on the same page as the client, learning about end users, understanding the context for the product, understanding why the product is important and how it should work.
+<p>
 
 #### Preferable product walkthrough
 * Have end users explain how they work to solve the problem at hand.
@@ -166,6 +171,9 @@ Research & Learning
 
 Concept work for UI
 ================
+<p class="intro">
+Start working on a concept level, finding metaphors, similarities to other interfaces and systems, move quickly between concepts, don't get stuck on one solution. 
+<p>
 
 ### Brainstorming
 #### Structure and basic rules
@@ -210,8 +218,9 @@ Concept work for UI
 
 Project Management
 ================
-
-*Use a tool like [Trello](http://trello.com) or [Trajectory](https://www.apptrajectory.com) to document stories on cards.*
+<p class="intro">
+Use a tool like <a href="http://trello.com">Trello</a> or <a href="https://www.apptrajectory.com">Trajectory</a> to document stories on cards.
+<p>
 
 ### Listing Ideas
 * State the problem in the title of the card. State who has the problem.
@@ -238,6 +247,10 @@ Project Management
 
 General Style
 ============
+<p class="intro">
+Develop the general look and feeling for the style.
+<p>
+
 
 ### Brand Manuals
 * Does the brand/client/product have a brand style manual? How strict does it have to be followed?
@@ -272,6 +285,9 @@ General Style
 
 Type Treatments
 ================
+<p class="intro">
+These are tried and tested styles and clichés for typography.
+<p>
 
 ### Headings
 * **Small headings** for indicating sub categories of articles. Can be used with stripes for color coding.
@@ -313,6 +329,9 @@ Type Treatments
 
 Graphic Styles
 ===================
+<p class="intro">
+These are tried and tested styles and clichés for graphic elements.
+<p>
 
 * Overlay semitransparent image of texture
 <div class="img-examples">
