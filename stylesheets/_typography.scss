@@ -73,13 +73,15 @@ h2 {
 }
 
 h3 {
-  font-size: 1.17em;
-  margin: 0 0 $paragraph-end /2 $indent /2;
+  font-size: 1em;
+  font-weight: 400;
+  text-transform: uppercase;
+  margin: 0 0 $paragraph-end /2 $space;
 }
 
 h4 {
   font-size: 1em;
-  margin: 0 0 0.5em $indent;
+  margin: 0 0 0.5em $space;
 }
 
 h5 {
@@ -205,6 +207,7 @@ menu,
 ol,
 ul {
   margin-bottom: $paragraph-end;
+  padding-left: $paragraph-end;
 }
 
 nav ul,
