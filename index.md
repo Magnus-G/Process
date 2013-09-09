@@ -155,10 +155,10 @@ Getting on the same page as the client, learning about end users, understanding 
 * **Content of map**: Questions a user might have at a certain point. “Can I trust this retailer?” or “When will my stuff arrive?”
 * Examples of journey maps:
 <div class="img-examples">
-  <a class="popup" href="images/research/journey-map1.jpg"><img src="images/research/journey-map1.jpg" alt=""></a>
-  <a class="popup" href="images/research/journey-map2.jpg"><img src="images/research/journey-map2.jpg" alt=""></a>
-  <a class="popup" href="images/research/journey-map3.jpg"><img src="images/research/journey-map3.jpg" alt=""></a>
-  <a class="popup" href="images/research/journey-map4.jpg"><img src="images/research/journey-map4.jpg" alt=""></a>
+<a class="popup" href="images/research/journey-map1.jpg"><img src="images/research/journey-map1.jpg" alt=""></a>
+<a class="popup" href="images/research/journey-map2.jpg"><img src="images/research/journey-map2.jpg" alt=""></a>
+<a class="popup" href="images/research/journey-map3.jpg"><img src="images/research/journey-map3.jpg" alt=""></a>
+<a class="popup" href="images/research/journey-map4.jpg"><img src="images/research/journey-map4.jpg" alt=""></a>
 </div>
 
 <div class="ref">
