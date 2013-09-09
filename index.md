@@ -155,10 +155,10 @@ Getting on the same page as the client, learning about end users, understanding 
 * **Content of map**: Questions a user might have at a certain point. “Can I trust this retailer?” or “When will my stuff arrive?”
 * Examples of journey maps:
 <div class="img-examples">
-<a class="popup" href="images/research/journey-map1.jpg"><img src="images/research/journey-map1.jpg" alt=""></a>
-<a class="popup" href="images/research/journey-map2.jpg"><img src="images/research/journey-map2.jpg" alt=""></a>
-<a class="popup" href="images/research/journey-map3.jpg"><img src="images/research/journey-map3.jpg" alt=""></a>
-<a class="popup" href="images/research/journey-map4.jpg"><img src="images/research/journey-map4.jpg" alt=""></a>
+   class="popup" href="images/research/journey-map1.jpg"><img src="images/research/journey-map1.jpg" alt=""></a>
+   class="popup" href="images/research/journey-map2.jpg"><img src="images/research/journey-map2.jpg" alt=""></a>
+   class="popup" href="images/research/journey-map3.jpg"><img src="images/research/journey-map3.jpg" alt=""></a>
+   class="popup" href="images/research/journey-map4.jpg"><img src="images/research/journey-map4.jpg" alt=""></a>
 </div>
 
 <div class="ref">
@@ -197,8 +197,8 @@ Start working on a concept level, finding metaphors, similarities to other inter
 * Take photos of sketches and email/post them to the team for feedback.
 * Miniature wireframe layouts made in graphics program. Stay way from details.
 <div class="img-examples">
-  <a class="popup" href="images/concept/hand-sketch1.jpg"><img src="images/concept/hand-sketch1.jpg" alt=""></a>
-  <a class="popup" href="images/concept/hand-sketch2.jpg"><img src="images/concept/hand-sketch2.jpg" alt=""></a>
+<a class="popup" href="images/concept/hand-sketch1.jpg"><img src="images/concept/hand-sketch1.jpg" alt=""></a>
+<a class="popup" href="images/concept/hand-sketch2.jpg"><img src="images/concept/hand-sketch2.jpg" alt=""></a>
 </div>
 
 
@@ -206,10 +206,10 @@ Start working on a concept level, finding metaphors, similarities to other inter
 * Black and white, maybe grayscale
 * Make miniature wireframes for quick and holistic explorations that let you go through possible layout and style solutions.
 <div class="img-examples">
-  <a class="popup" href="images/concept/mini-wireframe1.jpg"><img src="images/concept/mini-wireframe1.jpg" alt=""></a>
-  <a class="popup" href="images/concept/mini-wireframe2.jpg"><img src="images/concept/mini-wireframe2.jpg" alt=""></a>
-  <a class="popup" href="images/concept/wireframe1.gif"><img src="images/concept/wireframe1.gif" alt=""></a>
-  <a class="popup" href="images/concept/wireframe2.gif"><img src="images/concept/wireframe2.gif" alt=""></a>
+<a class="popup" href="images/concept/mini-wireframe1.jpg"><img src="images/concept/mini-wireframe1.jpg" alt=""></a>
+<a class="popup" href="images/concept/mini-wireframe2.jpg"><img src="images/concept/mini-wireframe2.jpg" alt=""></a>
+<a class="popup" href="images/concept/wireframe1.gif"><img src="images/concept/wireframe1.gif" alt=""></a>
+<a class="popup" href="images/concept/wireframe2.gif"><img src="images/concept/wireframe2.gif" alt=""></a>
 </div>
 
 ### Card Sorting
@@ -278,7 +278,7 @@ Develop the general look and feeling for the style.
 * Show a range of elements rather than a full layout to save time. Client gets a feeling for the look and feel and style, not the details or the ixd. Prevents client from focusing on the wrong things.
 * Everything will change so don't believe in there being a "final sketch" in FW/PS.
 <div class="img-examples">
-  <a class="popup" href="images/style/style-tile.png"><img src="images/style/style-tile.png" alt=""></a>
+<a class="popup" href="images/style/style-tile.png"><img src="images/style/style-tile.png" alt=""></a>
 </div>
 
 ### Typography
@@ -300,39 +300,39 @@ These are tried and tested styles and clichés for typography.
 ### Headings
 * **Small headings** for indicating sub categories of articles. Can be used with stripes for color coding.
 <div class="img-examples">
-  <a class="popup" href="images/typography/small-heading1.png"><img src="images/typography/small-heading1.png" alt=""></a>
-  <a class="popup" href="images/typography/small-heading2.png"><img src="images/typography/small-heading2.png" alt=""></a>
+<a class="popup" href="images/typography/small-heading1.png"><img src="images/typography/small-heading1.png" alt=""></a>
+<a class="popup" href="images/typography/small-heading2.png"><img src="images/typography/small-heading2.png" alt=""></a>
 </div>
 
 * Small heading **inside of a block**. Can be color coded. Also called "cameo".
 <div class="img-examples">
-  <a class="popup" href="images/typography/in-block-heading1.png"><img src="images/typography/in-block-heading1.png" alt=""></a>
-  <a class="popup" href="images/typography/in-block-heading2.png"><img src="images/typography/in-block-heading2.png" alt=""></a>
+<a class="popup" href="images/typography/in-block-heading1.png"><img src="images/typography/in-block-heading1.png" alt=""></a>
+<a class="popup" href="images/typography/in-block-heading2.png"><img src="images/typography/in-block-heading2.png" alt=""></a>
 </div>
 
 * **Serif together with sans serif** to add contrast and life.
 <div class="img-examples">
-  <a class="popup" href="images/typography/serif-sans-serif1.png"><img src="images/typography/serif-sans-serif1.png" alt=""></a>
+<a class="popup" href="images/typography/serif-sans-serif1.png"><img src="images/typography/serif-sans-serif1.png" alt=""></a>
 </div>
 
 * Highlight importance with sections or **words in contrast color**.
 <div class="img-examples">
-  <a class="popup" href="images/typography/contrast-color-words1.jpg"><img src="images/typography/contrast-color-words1.jpg" alt=""></a>
-  <a class="popup" href="images/typography/contrast-color-words2.jpg"><img src="images/typography/contrast-color-words2.jpg" alt=""></a>
-  <a class="popup" href="images/typography/contrast-color-words3.jpg"><img src="images/typography/contrast-color-words3.jpg" alt=""></a>
-  <a class="popup" href="images/typography/contrast-color-words4.jpg"><img src="images/typography/contrast-color-words4.jpg" alt=""></a>
+<a class="popup" href="images/typography/contrast-color-words1.jpg"><img src="images/typography/contrast-color-words1.jpg" alt=""></a>
+<a class="popup" href="images/typography/contrast-color-words2.jpg"><img src="images/typography/contrast-color-words2.jpg" alt=""></a>
+<a class="popup" href="images/typography/contrast-color-words3.jpg"><img src="images/typography/contrast-color-words3.jpg" alt=""></a>
+<a class="popup" href="images/typography/contrast-color-words4.jpg"><img src="images/typography/contrast-color-words4.jpg" alt=""></a>
 </div>
 
 * **Contrast bold letters with light letters**. Headlines etc.
 <div class="img-examples">
-  <a class="popup" href="images/typography/bold-light2.png"><img src="images/typography/bold-light2.png" alt=""></a>
+<a class="popup" href="images/typography/bold-light2.png"><img src="images/typography/bold-light2.png" alt=""></a>
 </div>
 
 ### Paragraph Text
 * **Drop caps** for traditional looking prose.
 <div class="img-examples">
-  <a class="popup" href="images/typography/drop-cap1.jpg"><img src="images/typography/drop-cap1.jpg" alt=""></a>
-  <a class="popup" href="images/typography/drop-cap2.jpg"><img src="images/typography/drop-cap2.jpg" alt=""></a>
+<a class="popup" href="images/typography/drop-cap1.jpg"><img src="images/typography/drop-cap1.jpg" alt=""></a>
+<a class="popup" href="images/typography/drop-cap2.jpg"><img src="images/typography/drop-cap2.jpg" alt=""></a>
 </div>
 
 Graphic Styles
@@ -343,70 +343,70 @@ These are tried and tested styles and clichés for graphic elements.
 
 * Overlay semitransparent image of texture
 <div class="img-examples">
-  <a class="popup" href="images/gfx-examples/texture1.png"><img src="images/gfx-examples/texture1.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/texture1.png"><img src="images/gfx-examples/texture1.png" alt=""></a>
 </div>
 
 * Brand **color stripe** across screen (often on top) to anchor the page.
 <div class="img-examples">
-  <a class="popup" href="images/gfx-examples/color-stripe.png"><img src="images/gfx-examples/color-stripe.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/color-stripe.png"><img src="images/gfx-examples/color-stripe.png" alt=""></a>
 </div>
 
 * Monochrome **vector outlines** on monochrome or gradient elements.
 <div class="img-examples">
-  <a class="popup" href="images/gfx-examples/outlines1.jpg"><img src="images/gfx-examples/outlines1.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/outlines1.jpg"><img src="images/gfx-examples/outlines1.jpg" alt=""></a>
 </div>
 
 * **Handmade**, or hand drawn, elements add contrast and life to a layout.
 <div class="img-examples">
-  <a class="popup" href="images/gfx-examples/handmade-contrast.png"><img src="images/gfx-examples/handmade-contrast.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/handmade-contrast.png"><img src="images/gfx-examples/handmade-contrast.png" alt=""></a>
 </div>
 
 * **Overlapping elements** can disrupt a too rigid layout.
 <div class="img-examples">
-  <a class="popup" href="images/gfx-examples/overlap1.jpg"><img src="images/gfx-examples/overlap1.jpg" alt=""></a>
-  <a class="popup" href="images/gfx-examples/overlap2.png"><img src="images/gfx-examples/overlap2.png" alt=""></a>
-  <a class="popup" href="images/gfx-examples/overlap3.jpg"><img src="images/gfx-examples/overlap3.jpg" alt=""></a>
-  <a class="popup" href="images/gfx-examples/overlap4.png"><img src="images/gfx-examples/overlap4.png" alt=""></a>
-  <a class="popup" href="images/gfx-examples/overlap5.png"><img src="images/gfx-examples/overlap4.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/overlap1.jpg"><img src="images/gfx-examples/overlap1.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/overlap2.png"><img src="images/gfx-examples/overlap2.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/overlap3.jpg"><img src="images/gfx-examples/overlap3.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/overlap4.png"><img src="images/gfx-examples/overlap4.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/overlap5.png"><img src="images/gfx-examples/overlap4.png" alt=""></a>
 </div>
 
 * **Light vs dark** area contrasting.
 <div class="img-examples">
-  <a class="popup" href="images/gfx-examples/light-dark-contrast.png"><img src="images/gfx-examples/light-dark-contrast.png" alt=""></a>
-  <a class="popup" href="images/gfx-examples/light-dark-contrast2.png"><img src="images/gfx-examples/light-dark-contrast2.png" alt=""></a>
-  <a class="popup" href="images/gfx-examples/light-dark-contrast3.gif"><img src="images/gfx-examples/light-dark-contrast3.gif" alt=""></a>
-  <a class="popup" href="images/gfx-examples/light-dark-contrast4.png"><img src="images/gfx-examples/light-dark-contrast4.png" alt=""></a>
-  <a class="popup" href="images/gfx-examples/light-dark-contrast5.jpg"><img src="images/gfx-examples/light-dark-contrast5.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/light-dark-contrast.png"><img src="images/gfx-examples/light-dark-contrast.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/light-dark-contrast2.png"><img src="images/gfx-examples/light-dark-contrast2.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/light-dark-contrast3.gif"><img src="images/gfx-examples/light-dark-contrast3.gif" alt=""></a>
+<a class="popup" href="images/gfx-examples/light-dark-contrast4.png"><img src="images/gfx-examples/light-dark-contrast4.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/light-dark-contrast5.jpg"><img src="images/gfx-examples/light-dark-contrast5.jpg" alt=""></a>
 </div>
 
 * Blurry image in the back. Sharp graphics in the front.
 <div class="img-examples">
-  <a class="popup" href="images/gfx-examples/blur-back.png"><img src="images/gfx-examples/blur-back.png" alt=""></a>
-<a class="popup" href="images/gfx-examples/blur-back2.jpg"><img src="images/gfx-examples/blur-back2.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/blur-back.png"><img src="images/gfx-examples/blur-back.png" alt=""></a>
+ class="popup" href="images/gfx-examples/blur-back2.jpg"><img src="images/gfx-examples/blur-back2.jpg" alt=""></a>
 </div>
 
 * Semi-transparent borders.
 <div class="img-examples">
-  <a class="popup" href="images/gfx-examples/semi-transparent-borders.png"><img src="images/gfx-examples/semi-transparent-borders.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/semi-transparent-borders.png"><img src="images/gfx-examples/semi-transparent-borders.png" alt=""></a>
 </div>
 * Cut-through fat type so you see image in the background, through letter.
 <div class="img-examples">
-  <a class="popup" href="images/gfx-examples/texture.jpg"><img src="images/gfx-examples/texture.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/texture.jpg"><img src="images/gfx-examples/texture.jpg" alt=""></a>
 </div>
 
 * Contrast 2D elements with 3D elements.
 <div class="img-examples">
-  <a class="popup" href="images/gfx-examples/2d-vs-3d.jpg"><img src="images/gfx-examples/2d-vs-3d.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/2d-vs-3d.jpg"><img src="images/gfx-examples/2d-vs-3d.jpg" alt=""></a>
 </div>
 
 * Details and/or illustrations in monochrome and mono thick strokes.
 <div class="img-examples">
-  <a class="popup" href="images/gfx-examples/monochrome-monothick.png"><img src="images/gfx-examples/monochrome-monothick.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/monochrome-monothick.png"><img src="images/gfx-examples/monochrome-monothick.png" alt=""></a>
 </div>
 
 * Overprint effect for visual disruption and retro look.
 <div class="img-examples">
-  <a class="popup" href="images/gfx-examples/overprint.jpg"><img src="images/gfx-examples/overprint.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/overprint.jpg"><img src="images/gfx-examples/overprint.jpg" alt=""></a>
 </div>
 
 * If something should be big, there needs to be something small to contrast it.
@@ -415,24 +415,24 @@ These are tried and tested styles and clichés for graphic elements.
 
 * Semi-transparent color layer on top of black/white graphics.  
 <div class="img-examples">
-  <a class="popup" href="images/gfx-examples/color-block.jpg"><img src="images/gfx-examples/color-block.jpg" alt=""></a>
+   class="popup" href="images/gfx-examples/color-block.jpg"><img src="images/gfx-examples/color-block.jpg" alt=""></a>
 </div>
 
 * **Dark layer** over a background image to turn it "monochrome" and to allow text on top of it.
 <div class="img-examples">
-  <a class="popup" href="images/gfx-examples/darkened-backimage1.jpg"><img src="images/gfx-examples/darkened-backimage1.jpg" alt=""></a>
+   class="popup" href="images/gfx-examples/darkened-backimage1.jpg"><img src="images/gfx-examples/darkened-backimage1.jpg" alt=""></a>
 </div>
 
 * Duotone for images
 <div class="img-examples">
-  <a class="popup" href="images/gfx-examples/duotone.jpg"><img src="images/gfx-examples/duotone.jpg" alt=""></a>
- <a class="popup" href="images/gfx-examples/duotone2.jpg"><img src="images/gfx-examples/duotone2.jpg" alt=""></a>
- <a class="popup" href="images/gfx-examples/duotone3.jpg"><img src="images/gfx-examples/duotone3.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/duotone.jpg"><img src="images/gfx-examples/duotone.jpg" alt=""></a>
+  class="popup" href="images/gfx-examples/duotone2.jpg"><img src="images/gfx-examples/duotone2.jpg" alt=""></a>
+  class="popup" href="images/gfx-examples/duotone3.jpg"><img src="images/gfx-examples/duotone3.jpg" alt=""></a>
 </div>
 
 * Gradient overlay for images to create depth, harmony (with other elements), unity (if image is too busy etc).
 <div class="img-examples">
-  <a class="popup" href="images/gfx-examples/gradient-overlay.jpg"><img src="images/gfx-examples/gradient-overlay.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/gradient-overlay.jpg"><img src="images/gfx-examples/gradient-overlay.jpg" alt=""></a>
 </div>
 
 <div class="ref">
