@@ -222,21 +222,22 @@ Start working on a concept level, finding metaphors, similarities to other inter
 * Recruit loosely. It’s ideal to get participants who are similar to the intended users of the site, but it’s not a requirement.
 * Recruit participants via [craigslist](http://www.craigslist.com) or a recruiting firm.
 * Call the participants to make sure they are qualified. 
-* Within 48 hours of posting the message, you should contact the people you’d like to use. 
-*A few days before the session, follow up with a reminder email.
+* A few days before the session, follow up with a reminder email.
 
 #### Preparation of tests
 * Come up with tasks for people to try, turn these into scenarios e.g. "Book an appointment online".
 * You’ll determine the tasks/scenarios to test by figuring out what the most critical tasks on your site are, the ones that people should definitely be able to do well when using your site.
 
 #### During the test
-* The moderator explains briefly who thoughtbot is, what the site we’ll be testing is, and what we’ll be doing during the test. The moderator has the participant sign the release form (available in the usability testing Dropbox folder) The moderator asks the tester a few pre-test questions and records their answers. The moderator starts recording with Silverback and lets the tester begin using the site, following the scenarios that were prepared beforehand. A script is available in dropbox that gives instructions for how this all should be done.
+* The moderator presents the company, explains that the test is voluntary,  the site that will be tested, and what we’ll be doing during the test. 
+* The moderator has the participant sign a release form. 
+* The moderator asks the tester a few pre-test questions and records their answers.
+* Use a tool such as [Silverback](http://silverbackapp.com/) to record the session.
 * **The entire team working on the project** should try to watch the sessions in real time via screen sharing. 
 
 #### After the test
 * After the sessions, the moderator and observers will make a list of the 10 most important problems that the testing revealed. They will be prioritized and a plan made for how to fix them before the next round of usability testing.
-* When fixing problems, always do the least you can do.
-If the testing reveals a problem with the navigation, there may be the temptation to redesign the entire navigation. Resist that urge. Think about what the smallest thing you can do to fix the problem is and do that.
+* When fixing problems, always do the least you can do. Think about what the smallest thing you can do to fix the problem is and do that.
 
 <div class="ref">
 <h5>References</h5>
