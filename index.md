@@ -155,10 +155,10 @@ Getting on the same page as the client, learning about end users, understanding 
 * **Content of map**: Questions a user might have at a certain point. “Can I trust this retailer?” or “When will my stuff arrive?”
 * Examples of journey maps:
 <div class="img-examples">
-   class="popup" href="images/research/journey-map1.jpg"><img src="images/research/journey-map1.jpg" alt=""></a>
-   class="popup" href="images/research/journey-map2.jpg"><img src="images/research/journey-map2.jpg" alt=""></a>
-   class="popup" href="images/research/journey-map3.jpg"><img src="images/research/journey-map3.jpg" alt=""></a>
-   class="popup" href="images/research/journey-map4.jpg"><img src="images/research/journey-map4.jpg" alt=""></a>
+<a class="popup" href="images/research/journey-map1.jpg"><img src="images/research/journey-map1.jpg" alt=""></a>
+<a class="popup" href="images/research/journey-map2.jpg"><img src="images/research/journey-map2.jpg" alt=""></a>
+<a class="popup" href="images/research/journey-map3.jpg"><img src="images/research/journey-map3.jpg" alt=""></a>
+<a class="popup" href="images/research/journey-map4.jpg"><img src="images/research/journey-map4.jpg" alt=""></a>
 </div>
 
 <div class="ref">
@@ -381,7 +381,7 @@ These are tried and tested styles and clichés for graphic elements.
 * Blurry image in the back. Sharp graphics in the front.
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/blur-back.png"><img src="images/gfx-examples/blur-back.png" alt=""></a>
- class="popup" href="images/gfx-examples/blur-back2.jpg"><img src="images/gfx-examples/blur-back2.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/blur-back2.jpg"><img src="images/gfx-examples/blur-back2.jpg" alt=""></a>
 </div>
 
 * Semi-transparent borders.
@@ -414,19 +414,19 @@ These are tried and tested styles and clichés for graphic elements.
 
 * Semi-transparent color layer on top of black/white graphics.  
 <div class="img-examples">
-   class="popup" href="images/gfx-examples/color-block.jpg"><img src="images/gfx-examples/color-block.jpg" alt=""></a>
+ <a class="popup" href="images/gfx-examples/color-block.jpg"><img src="images/gfx-examples/color-block.jpg" alt=""></a>
 </div>
 
 * **Dark layer** over a background image to turn it "monochrome" and to allow text on top of it.
 <div class="img-examples">
-   class="popup" href="images/gfx-examples/darkened-backimage1.jpg"><img src="images/gfx-examples/darkened-backimage1.jpg" alt=""></a>
+ <a class="popup" href="images/gfx-examples/darkened-backimage1.jpg"><img src="images/gfx-examples/darkened-backimage1.jpg" alt=""></a>
 </div>
 
 * Duotone for images
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/duotone.jpg"><img src="images/gfx-examples/duotone.jpg" alt=""></a>
-  class="popup" href="images/gfx-examples/duotone2.jpg"><img src="images/gfx-examples/duotone2.jpg" alt=""></a>
-  class="popup" href="images/gfx-examples/duotone3.jpg"><img src="images/gfx-examples/duotone3.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/duotone2.jpg"><img src="images/gfx-examples/duotone2.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/duotone3.jpg"><img src="images/gfx-examples/duotone3.jpg" alt=""></a>
 </div>
 
 * Gradient overlay for images to create depth, harmony (with other elements), unity (if image is too busy etc).
