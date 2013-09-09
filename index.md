@@ -106,6 +106,7 @@ Meet with the client, preferably in person, and interview them around the follow
 * Articles
 * Events
 * Other marketing collateral
+* Set up Dropbox or equivalent for quick sharing of files
 
 #### Context
 * In which context will the service/app be used? How important is responsive design?
@@ -127,6 +128,8 @@ Research & Learning
 <p class="intro">
 Getting on the same page as the client, learning about end users, understanding the context for the product, understanding why the product is important and how it should work.
 <p>
+
+#### 
 
 #### Preferable product walkthrough
 * Have end users explain how they work to solve the problem at hand.
