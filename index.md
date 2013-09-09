@@ -201,6 +201,7 @@ Start working on a concept level, finding metaphors, similarities to other inter
 
 ### Wireframes
 * Black and white, maybe grayscale
+* Make miniature wireframes for quick and holistic explorations that let you go through possible layout and style solutions.
 <div class="img-examples">
   <a class="popup" href="images/concept/mini-wireframe1.png"><img src="images/concept/mini-wireframe1.png" alt=""></a>
   <a class="popup" href="images/concept/mini-wireframe2.png"><img src="images/concept/mini-wireframe2.png" alt=""></a>
