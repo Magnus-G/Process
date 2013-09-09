@@ -2,7 +2,7 @@
 layout: index
 ---
 
-<h5 class="title"> A Design Process</h5>
+<h5 class="title"> A Web Design Process</h5>
 
 Project Initiation
 =============
