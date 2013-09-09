@@ -203,8 +203,8 @@ Start working on a concept level, finding metaphors, similarities to other inter
 * Black and white, maybe grayscale
 * Make miniature wireframes for quick and holistic explorations that let you go through possible layout and style solutions.
 <div class="img-examples">
-  <a class="popup" href="images/concept/mini-wireframe1.png"><img src="images/concept/mini-wireframe1.png" alt=""></a>
-  <a class="popup" href="images/concept/mini-wireframe2.png"><img src="images/concept/mini-wireframe2.png" alt=""></a>
+  <a class="popup" href="images/concept/mini-wireframe1.jpg"><img src="images/concept/mini-wireframe1.jpg" alt=""></a>
+  <a class="popup" href="images/concept/mini-wireframe2.jpg"><img src="images/concept/mini-wireframe2.jpg" alt=""></a>
   <a class="popup" href="images/concept/wireframe1.gif"><img src="images/concept/wireframe1.gif" alt=""></a>
   <a class="popup" href="images/concept/wireframe2.gif"><img src="images/concept/wireframe2.gif" alt=""></a>
 </div>
