@@ -193,10 +193,17 @@ Start working on a concept level, finding metaphors, similarities to other inter
 * Pen and paper: Diagrams or screenshots. Draw arrows and text showing what things are and which action leads to what.
 * Take photos of sketches and email/post them to the team for feedback.
 * Miniature wireframe layouts made in graphics program. Stay way from details.
+<div class="img-examples">
+  <a class="popup" href="images/concept/hand-sketch1.jpg"><img src="images/concept/hand-sketch1.jpg" alt=""></a>
+  <a class="popup" href="images/concept/hand-sketch2.jpg"><img src="images/concept/hand-sketch2.jpg" alt=""></a>
+</div>
+
 
 ### Wireframes
 * Black and white, maybe grayscale
 <div class="img-examples">
+  <a class="popup" href="images/concept/mini-wireframe1.png"><img src="images/concept/mini-wireframe1.png" alt=""></a>
+  <a class="popup" href="images/concept/mini-wireframe2.png"><img src="images/concept/mini-wireframe2.png" alt=""></a>
   <a class="popup" href="images/concept/wireframe1.gif"><img src="images/concept/wireframe1.gif" alt=""></a>
   <a class="popup" href="images/concept/wireframe2.gif"><img src="images/concept/wireframe2.gif" alt=""></a>
 </div>
