@@ -466,9 +466,11 @@ These are tried and tested styles and clichés for graphic elements.
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/semi-transparent-borders.png"><img src="images/gfx-examples/semi-transparent-borders.png" alt=""></a>
 </div>
+
 * Cut-through fat type so you see image in the background, through letter.
 <div class="img-examples">
-<a class="popup" href="images/gfx-examples/texture.jpg"><img src="images/gfx-examples/texture.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/cut-out1.png"><img src="images/gfx-examples/cut-out1.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/cut-out2.jpg"><img src="images/gfx-examples/cut-out2.jpg" alt=""></a>
 </div>
 
 * Details and/or illustrations in monochrome and mono thick strokes.
