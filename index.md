@@ -484,6 +484,13 @@ These are tried and tested styles and clichés for graphic elements.
 <a class="popup" href="images/gfx-examples/2d-vs-3d.jpg"><img src="images/gfx-examples/2d-vs-3d.jpg" alt=""></a>
 </div>
 
+* Diagonal lines create movement, action, speed.
+<div class="img-examples">
+<a class="popup" href="images/gfx-examples/diagonal1.jpg"><img src="images/gfx-examples/diagonal1.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/diagonal2.jpg"><img src="images/gfx-examples/diagonal2.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/diagonal3.jpg"><img src="images/gfx-examples/diagonal3.jpg" alt=""></a>
+</div>
+
 ### Details and effects
 * Semi-transparent borders.
 <div class="img-examples">
