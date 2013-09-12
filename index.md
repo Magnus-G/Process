@@ -420,6 +420,7 @@ These are tried and tested styles and clichés for graphic elements.
 * Use blur around details that should be highlighted.
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/focus-with-blur1.png"><img src="images/gfx-examples/focus-with-blur1.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/focus-with-blur2.jpg"><img src="images/gfx-examples/focus-with-blur2.jpg" alt=""></a>
 </div>
 
 * Free floating images, cut loose from their picture frames.
@@ -467,6 +468,7 @@ These are tried and tested styles and clichés for graphic elements.
 * **White room** for products to create spacious feeling. Fits well with type in the same area.
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/white-room1.jpg"><img src="images/gfx-examples/white-room1.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/white-room2.png"><img src="images/gfx-examples/white-room2.png" alt=""></a>
 </div>
 
 * **Handmade**, or hand drawn, elements add contrast and life to a layout.
