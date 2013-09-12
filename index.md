@@ -365,9 +365,54 @@ Graphic Styles
 These are tried and tested styles and clichés for graphic elements.
 <p>
 
+### Images and text on images
+* Solid block with text on top of image for a rigid and serious layout
+<div class="img-examples">
+<a class="popup" href="images/gfx-examples/text-on-image1.jpg"><img src="images/gfx-examples/text-on-image1.jpg" alt=""></a>
+</div>
+
+* **Dark layer** over a background image to turn it "monochrome" and to allow text on top of it.
+<div class="img-examples">
+ <a class="popup" href="images/gfx-examples/darkened-backimage1.jpg"><img src="images/gfx-examples/darkened-backimage1.jpg" alt=""></a>
+</div>
+
+* Blurry image in the back. Sharp graphics in the front.
+<div class="img-examples">
+<a class="popup" href="images/gfx-examples/blur-back.png"><img src="images/gfx-examples/blur-back.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/blur-back2.jpg"><img src="images/gfx-examples/blur-back2.jpg" alt=""></a>
+</div>
+
+* Duotone for images
+<div class="img-examples">
+<a class="popup" href="images/gfx-examples/duotone.jpg"><img src="images/gfx-examples/duotone.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/duotone2.jpg"><img src="images/gfx-examples/duotone2.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/duotone3.jpg"><img src="images/gfx-examples/duotone3.jpg" alt=""></a>
+</div>
+
+* Gradient overlay for images to create depth, harmony (with other elements), unity (if image is too busy etc).
+<div class="img-examples">
+<a class="popup" href="images/gfx-examples/gradient-overlay.jpg"><img src="images/gfx-examples/gradient-overlay.jpg" alt=""></a>
+</div>
+
+### Textures
 * Overlay semitransparent image of texture
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/texture1.png"><img src="images/gfx-examples/texture1.png" alt=""></a>
+</div>
+
+### Colors
+* **Light vs dark** area contrasting.
+<div class="img-examples">
+<a class="popup" href="images/gfx-examples/light-dark-contrast.png"><img src="images/gfx-examples/light-dark-contrast.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/light-dark-contrast2.png"><img src="images/gfx-examples/light-dark-contrast2.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/light-dark-contrast3.gif"><img src="images/gfx-examples/light-dark-contrast3.gif" alt=""></a>
+<a class="popup" href="images/gfx-examples/light-dark-contrast4.png"><img src="images/gfx-examples/light-dark-contrast4.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/light-dark-contrast5.jpg"><img src="images/gfx-examples/light-dark-contrast5.jpg" alt=""></a>
+</div>
+
+* Semi-transparent color layer on top of black/white graphics.  
+<div class="img-examples">
+ <a class="popup" href="images/gfx-examples/color-block.jpg"><img src="images/gfx-examples/color-block.jpg" alt=""></a>
 </div>
 
 * Brand **color stripe** across screen (often on top) to anchor the page.
@@ -395,6 +440,7 @@ These are tried and tested styles and clichés for graphic elements.
 <a class="popup" href="images/gfx-examples/handmade-contrast.png"><img src="images/gfx-examples/handmade-contrast.png" alt=""></a>
 </div>
 
+### Boxes and layouts
 * **Overlapping elements** can disrupt a too rigid layout.
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/overlap1.jpg"><img src="images/gfx-examples/overlap1.jpg" alt=""></a>
@@ -404,21 +450,12 @@ These are tried and tested styles and clichés for graphic elements.
 <a class="popup" href="images/gfx-examples/overlap5.png"><img src="images/gfx-examples/overlap4.png" alt=""></a>
 </div>
 
-* **Light vs dark** area contrasting.
+* Contrast 2D elements with 3D elements.
 <div class="img-examples">
-<a class="popup" href="images/gfx-examples/light-dark-contrast.png"><img src="images/gfx-examples/light-dark-contrast.png" alt=""></a>
-<a class="popup" href="images/gfx-examples/light-dark-contrast2.png"><img src="images/gfx-examples/light-dark-contrast2.png" alt=""></a>
-<a class="popup" href="images/gfx-examples/light-dark-contrast3.gif"><img src="images/gfx-examples/light-dark-contrast3.gif" alt=""></a>
-<a class="popup" href="images/gfx-examples/light-dark-contrast4.png"><img src="images/gfx-examples/light-dark-contrast4.png" alt=""></a>
-<a class="popup" href="images/gfx-examples/light-dark-contrast5.jpg"><img src="images/gfx-examples/light-dark-contrast5.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/2d-vs-3d.jpg"><img src="images/gfx-examples/2d-vs-3d.jpg" alt=""></a>
 </div>
 
-* Blurry image in the back. Sharp graphics in the front.
-<div class="img-examples">
-<a class="popup" href="images/gfx-examples/blur-back.png"><img src="images/gfx-examples/blur-back.png" alt=""></a>
-<a class="popup" href="images/gfx-examples/blur-back2.jpg"><img src="images/gfx-examples/blur-back2.jpg" alt=""></a>
-</div>
-
+### Details and effects
 * Semi-transparent borders.
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/semi-transparent-borders.png"><img src="images/gfx-examples/semi-transparent-borders.png" alt=""></a>
@@ -426,11 +463,6 @@ These are tried and tested styles and clichés for graphic elements.
 * Cut-through fat type so you see image in the background, through letter.
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/texture.jpg"><img src="images/gfx-examples/texture.jpg" alt=""></a>
-</div>
-
-* Contrast 2D elements with 3D elements.
-<div class="img-examples">
-<a class="popup" href="images/gfx-examples/2d-vs-3d.jpg"><img src="images/gfx-examples/2d-vs-3d.jpg" alt=""></a>
 </div>
 
 * Details and/or illustrations in monochrome and mono thick strokes.
@@ -441,32 +473,6 @@ These are tried and tested styles and clichés for graphic elements.
 * Overprint effect for visual disruption and retro look.
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/overprint.jpg"><img src="images/gfx-examples/overprint.jpg" alt=""></a>
-</div>
-
-* If something should be big, there needs to be something small to contrast it.
-
-* Create as few visual 'blocks' as possible.
-
-* Semi-transparent color layer on top of black/white graphics.  
-<div class="img-examples">
- <a class="popup" href="images/gfx-examples/color-block.jpg"><img src="images/gfx-examples/color-block.jpg" alt=""></a>
-</div>
-
-* **Dark layer** over a background image to turn it "monochrome" and to allow text on top of it.
-<div class="img-examples">
- <a class="popup" href="images/gfx-examples/darkened-backimage1.jpg"><img src="images/gfx-examples/darkened-backimage1.jpg" alt=""></a>
-</div>
-
-* Duotone for images
-<div class="img-examples">
-<a class="popup" href="images/gfx-examples/duotone.jpg"><img src="images/gfx-examples/duotone.jpg" alt=""></a>
-<a class="popup" href="images/gfx-examples/duotone2.jpg"><img src="images/gfx-examples/duotone2.jpg" alt=""></a>
-<a class="popup" href="images/gfx-examples/duotone3.jpg"><img src="images/gfx-examples/duotone3.jpg" alt=""></a>
-</div>
-
-* Gradient overlay for images to create depth, harmony (with other elements), unity (if image is too busy etc).
-<div class="img-examples">
-<a class="popup" href="images/gfx-examples/gradient-overlay.jpg"><img src="images/gfx-examples/gradient-overlay.jpg" alt=""></a>
 </div>
 
 <div class="ref">
