@@ -380,6 +380,16 @@ These are tried and tested styles and clichés for graphic elements.
 <a class="popup" href="images/gfx-examples/outlines1.jpg"><img src="images/gfx-examples/outlines1.jpg" alt=""></a>
 </div>
 
+* **Monochrome background** and black and white image on top for focus and to make it look more stylized.
+<div class="img-examples">
+<a class="popup" href="images/gfx-examples/monochrome1.jpg"><img src="images/gfx-examples/monochrome1.jpg" alt=""></a>
+</div>
+
+* **White room** for products to create spacious feeling. Fits well with type in the same area.
+<div class="img-examples">
+<a class="popup" href="images/gfx-examples/white-room1.jpg"><img src="images/gfx-examples/white-room1.jpg" alt=""></a>
+</div>
+
 * **Handmade**, or hand drawn, elements add contrast and life to a layout.
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/handmade-contrast.png"><img src="images/gfx-examples/handmade-contrast.png" alt=""></a>
