@@ -373,7 +373,8 @@ These are tried and tested styles and clichés for graphic elements.
 
 * **Dark layer** over a background image to turn it "monochrome" and to allow text on top of it.
 <div class="img-examples">
- <a class="popup" href="images/gfx-examples/darkened-backimage1.jpg"><img src="images/gfx-examples/darkened-backimage1.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/darkened-backimage1.jpg"><img src="images/gfx-examples/darkened-backimage1.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/darkened-backimage2.png"><img src="images/gfx-examples/darkened-backimage2.png" alt=""></a>
 </div>
 
 * Blurry image in the back. Sharp graphics in the front.
