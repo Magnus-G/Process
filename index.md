@@ -338,6 +338,7 @@ These are tried and tested styles and clichés for typography.
 <div class="img-examples">
 <a class="popup" href="images/typography/in-block-heading1.png"><img src="images/typography/in-block-heading1.png" alt=""></a>
 <a class="popup" href="images/typography/in-block-heading2.png"><img src="images/typography/in-block-heading2.png" alt=""></a>
+<a class="popup" href="images/typography/in-block-heading3.jpg"><img src="images/typography/in-block-heading3.jpg" alt=""></a>
 </div>
 
 * **Serif together with sans serif** to add contrast and life.
@@ -377,6 +378,13 @@ These are tried and tested styles and clichés for graphic elements.
 <a class="popup" href="images/gfx-examples/text-on-image1.jpg"><img src="images/gfx-examples/text-on-image1.jpg" alt=""></a>
 </div>
 
+* Type incorporated in photo
+<div class="img-examples">
+<a class="popup" href="images/gfx-examples/type-in-photo1.png"><img src="images/gfx-examples/type-in-photo1.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/type-in-photo2.jpg"><img src="images/gfx-examples/type-in-photo2.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/type-in-photo3.jpg"><img src="images/gfx-examples/type-in-photo3.jpg" alt=""></a>
+</div>
+
 * **Dark layer** over a background image to turn it "monochrome" and to allow text on top of it.
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/darkened-backimage1.jpg"><img src="images/gfx-examples/darkened-backimage1.jpg" alt=""></a>
@@ -387,6 +395,8 @@ These are tried and tested styles and clichés for graphic elements.
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/blur-back.png"><img src="images/gfx-examples/blur-back.png" alt=""></a>
 <a class="popup" href="images/gfx-examples/blur-back2.jpg"><img src="images/gfx-examples/blur-back2.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/blur-back3.jpg"><img src="images/gfx-examples/blur-back3.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/blur-back4.jpg"><img src="images/gfx-examples/blur-back4.jpg" alt=""></a>
 </div>
 
 * Duotone for images
@@ -394,6 +404,7 @@ These are tried and tested styles and clichés for graphic elements.
 <a class="popup" href="images/gfx-examples/duotone.jpg"><img src="images/gfx-examples/duotone.jpg" alt=""></a>
 <a class="popup" href="images/gfx-examples/duotone2.jpg"><img src="images/gfx-examples/duotone2.jpg" alt=""></a>
 <a class="popup" href="images/gfx-examples/duotone3.jpg"><img src="images/gfx-examples/duotone3.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/duotone4.jpg"><img src="images/gfx-examples/duotone4.jpg" alt=""></a>
 </div>
 
 * Gradient overlay for images to create depth, harmony (with other elements), unity (if image is too busy etc).
@@ -493,10 +504,12 @@ These are tried and tested styles and clichés for graphic elements.
 * Overprint effect for visual disruption and retro look.
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/overprint.jpg"><img src="images/gfx-examples/overprint.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/overprint2.jpg"><img src="images/gfx-examples/overprint2.jpg" alt=""></a>
 </div>
 
 <div class="ref">
 <h5>References</h5>
 <a href="modularscale.com">Modular Scale</a>
+<a href="dribbble.com">Dribbble</a>
 <a href="http://colorschemedesigner.com/">Color Scheme Designer</a>
 </div>
