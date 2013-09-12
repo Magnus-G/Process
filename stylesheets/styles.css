@@ -164,7 +164,8 @@ menu,
 ol,
 ul {
   margin-bottom: 1.6em;
-  padding-left: 1.6em; }
+  padding-left: 1.6em;
+  margin-right: 1.6em; }
 
 nav ul,
 nav ol {
@@ -177,8 +178,7 @@ nav ol {
   padding: 1em 1em 0 1em;
   border-radius: 3px;
   border: 1px solid #E4E4E4;
-  margin-bottom: 1.6em;
-  margin-right: 1.6em; }
+  margin-bottom: 1.6em; }
 
 .popup img {
   position: relative;
