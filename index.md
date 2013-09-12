@@ -394,6 +394,11 @@ These are tried and tested styles and clichés for graphic elements.
 <a class="popup" href="images/gfx-examples/gradient-overlay.jpg"><img src="images/gfx-examples/gradient-overlay.jpg" alt=""></a>
 </div>
 
+* Fade out parts of images to put focus on certain areas.
+<div class="img-examples">
+<a class="popup" href="images/gfx-examples/fade-out-detail1.jpg"><img src="images/gfx-examples/fade-out-detail1.jpg" alt=""></a>
+</div>
+
 ### Textures
 * Overlay semitransparent image of texture
 <div class="img-examples">
