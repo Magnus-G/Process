@@ -417,6 +417,11 @@ These are tried and tested styles and clichés for graphic elements.
 <a class="popup" href="images/gfx-examples/fade-out-detail1.jpg"><img src="images/gfx-examples/fade-out-detail1.jpg" alt=""></a>
 </div>
 
+* Use blur around details that should be highlighted.
+<div class="img-examples">
+<a class="popup" href="images/gfx-examples/focus-with-blur1.png"><img src="images/gfx-examples/focus-with-blur1.png" alt=""></a>
+</div>
+
 * Free floating images, cut loose from their picture frames.
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/detail-contour1.png"><img src="images/gfx-examples/detail-contour1.png" alt=""></a>
@@ -484,11 +489,12 @@ These are tried and tested styles and clichés for graphic elements.
 <a class="popup" href="images/gfx-examples/2d-vs-3d.jpg"><img src="images/gfx-examples/2d-vs-3d.jpg" alt=""></a>
 </div>
 
-* Diagonal lines create movement, action, speed.
+* Diagonal lines create movement, action, speed and energy.
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/diagonal1.jpg"><img src="images/gfx-examples/diagonal1.jpg" alt=""></a>
 <a class="popup" href="images/gfx-examples/diagonal2.jpg"><img src="images/gfx-examples/diagonal2.jpg" alt=""></a>
 <a class="popup" href="images/gfx-examples/diagonal3.jpg"><img src="images/gfx-examples/diagonal3.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/diagonal4.jpg"><img src="images/gfx-examples/diagonal4.jpg" alt=""></a>
 </div>
 
 ### Details and effects
