@@ -406,6 +406,12 @@ These are tried and tested styles and clichés for graphic elements.
 <a class="popup" href="images/gfx-examples/fade-out-detail1.jpg"><img src="images/gfx-examples/fade-out-detail1.jpg" alt=""></a>
 </div>
 
+* Free floating images, cut loose from their picture frames.
+<div class="img-examples">
+<a class="popup" href="images/gfx-examples/detail-contour1.png"><img src="images/gfx-examples/detail-contour1.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/detail-contour2.jpg"><img src="images/gfx-examples/detail-contour2.jpg" alt=""></a>
+</div>
+
 ### Textures
 * Overlay semitransparent image of texture
 <div class="img-examples">
