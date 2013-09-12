@@ -54,6 +54,7 @@ Meet with the client, preferably in person, and interview them around the follow
 * What are the 3 most important tasks for the end user?
 * What customer insights do we have available to inform the solution (customer support, analytics, market research, user research, competitive analysis, etc.)?
 * At the end of a project or sale or even website visit, how do you qualify it as a success?
+* In which context will the service/app be used? How important is responsive design?
 
 #### Competitive Overview
 * List a few competitors that you’d consider benchmark companies?
@@ -108,8 +109,9 @@ Meet with the client, preferably in person, and interview them around the follow
 * Other marketing collateral
 * Set up Dropbox or equivalent for quick sharing of files
 
-#### Context
-* In which context will the service/app be used? How important is responsive design?
+### The Client´s role
+* Focus on problems, not solutions. If a problem is stated, the designer can suggest a solution. Everyone needs to know **why** something should change so always explain why something is bad.
+* 
 
 ### The framing of the problem
 * Strip down number of tasks as much as possible to focus on a minimally viable product (MVP) 
@@ -121,6 +123,8 @@ Meet with the client, preferably in person, and interview them around the follow
 <a href="http://www.web-savvy-marketing.com/2013/03/web-design-projects-50-questions/">50 Questions before a project</a>
 <a href="http://alistapart.com/article/usable-yet-useless-why-every-business-needs-product-discovery">Product Discovery</a>
 <a href="http://viljamis.com/blog/2012/responsive-workflow/">Responsive Workflow</a>
+<a href="http://www.smashingmagazine.com/2011/05/06/how-to-get-sign-off-for-your-designs/
+">The Client's Role</a>
 </div>
 
 Research & Learning
@@ -172,8 +176,11 @@ Getting on the same page as the client, learning about end users, understanding 
 Concept work for UI
 ================
 <p class="intro">
-Start working on a concept level, finding metaphors, similarities to other interfaces and systems, move quickly between concepts, don't get stuck on one solution. 
+Start working on a concept level, finding metaphors, similarities to other interfaces and systems, move quickly between concepts, don't get stuck on one solution. **Explore, don't refine**.
 <p>
+<div class="img-examples">
+<a class="popup" href="images/concept/refine-vs-explore.png"><img src="images/concept/refine-vs-explore.png" alt=""></a>
+</div>
 
 ### Brainstorming
 #### Structure and basic rules
@@ -245,7 +252,7 @@ Start working on a concept level, finding metaphors, similarities to other inter
 <a href="http://playbook.thoughtbot.com/understanding-design/usability-testing/">Usability Testing at thoughtbot</a>
 <a href="http://www.amazon.com/Rocket-Surgery-Made-Easy-Do-It-Yourself/dp/0321657292">Steve Krug’s book Rocket Surgery Made Easy</a>
 <a href="http://www.peachpit.com/promotions/promotion.aspx?promo=137602">Usability test example video</a>
-Usability "how to" for thoughtbot:
+<a href="http://insideintercom.io/wireframing-for-web-apps/">Wireframes</a>
 </div>
 
 Project Management
