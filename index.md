@@ -109,9 +109,10 @@ Meet with the client, preferably in person, and interview them around the follow
 * Other marketing collateral
 * Set up Dropbox or equivalent for quick sharing of files
 
-### The Client´s role
+### The Client and the designer
+* The client should work closely with the designer and developer. Answer their questions quickly to prevent road blocks.
 * Focus on problems, not solutions. If a problem is stated, the designer can suggest a solution. Everyone needs to know **why** something should change so always explain why something is bad.
-* 
+* **Never ask a client what they think of the design**. Ask them instead how they believe their users will react to the design or whether it meets their business objectives.
 
 ### The framing of the problem
 * Strip down number of tasks as much as possible to focus on a minimally viable product (MVP) 
@@ -133,8 +134,7 @@ Research & Learning
 Getting on the same page as the client, learning about end users, understanding the context for the product, understanding why the product is important and how it should work.
 <p>
 
-#### 
-
+### Product walkthrough
 #### Preferable product walkthrough
 * Have end users explain how they work to solve the problem at hand.
 * Where are they when they use the tool(s)? At home? At work? On the go?
@@ -149,8 +149,7 @@ Getting on the same page as the client, learning about end users, understanding 
 * Are there areas for interacting with settings and general site specific issues?
 * How are these things reflected in the current layout?
 
-#### Journey Maps
-
+### Journey Maps
 * "The relationship that unfolds over time between an individual and a system."
 * Grounded in research (interviews, ethnographic observation, contextual inquiry, surveys).
 * Good for workshops with clients.
