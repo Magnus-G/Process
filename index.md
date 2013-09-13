@@ -367,10 +367,10 @@ These are tried and tested styles and clichés for typography.
 <a class="popup" href="images/typography/drop-cap2.jpg"><img src="images/typography/drop-cap2.jpg" alt=""></a>
 </div>
 
-Graphic Styles
+Graphic Methods
 ===================
 <p class="intro">
-These are tried and tested styles and clichés for graphic elements.
+These are tried and tested treatments and clichés for graphic elements. The focus here is not on styles or fads but on methods that are more or less "timeless".
 <p>
 
 ### Images and text on images
