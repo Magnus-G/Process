@@ -405,16 +405,14 @@ nav ul li {
   padding: 5px 0px;
   line-height: 16px;
 }
-
-nav ul li.tag-h1 a {
+nav ul li.tag-h1 a,
+nav ul li.tag-h2 a,
+nav ul li.tag-h3 a {
   color: desaturate(lighten($font-color-link, 20), 5);
 }
 
-nav ul li.tag-h1.active a {
-  font-weight: 700;
-  color: $font-color-link;
-}
-
+nav ul li.tag-h1.active a,
+nav ul li.tag-h2.active a,
 nav ul li.tag-h3.active a {
   font-weight: 700;
   color: $font-color-link;

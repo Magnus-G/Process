@@ -939,13 +939,13 @@ nav ul li {
   padding: 5px 0px;
   line-height: 16px; }
 
-nav ul li.tag-h1 a {
+nav ul li.tag-h1 a,
+nav ul li.tag-h2 a,
+nav ul li.tag-h3 a {
   color: #88c1dd; }
 
-nav ul li.tag-h1.active a {
-  font-weight: 700;
-  color: #3399cc; }
-
+nav ul li.tag-h1.active a,
+nav ul li.tag-h2.active a,
 nav ul li.tag-h3.active a {
   font-weight: 700;
   color: #3399cc; }
