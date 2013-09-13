@@ -22,6 +22,7 @@ A potential client has a problem they want to solve. Before the project starts, 
 <div class="ref">
 <h5>References</h5>
 <a href="http://www.elezea.com/2013/05/one-ux-deliverable/">Unique Selling Points and more</a>
+<a href="http://headscape.co.uk/kickoff/">Checklist from Headscape</a>
 </div>
 
 Framing the problem
@@ -503,6 +504,7 @@ These are tried and tested styles and clichés for graphic elements.
 * Semi-transparent borders.
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/semi-transparent-borders.png"><img src="images/gfx-examples/semi-transparent-borders.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/semi-transparent-borders2.png"><img src="images/gfx-examples/semi-transparent-borders2.png" alt=""></a>
 </div>
 
 * Cut-through fat type so you see image in the background, through letter.
