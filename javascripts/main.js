@@ -12,13 +12,8 @@ var sectionHeight = function() {
 
 $(window).resize(sectionHeight);
 
-$(document).ready(function setupNavForScrollspy() {
-  var navBar = $('nav').attr('id', 'main-nav').addClass('navbar');
-  navBar.find('ul').addClass('nav navbar-nav');
-});
-
 $(document).ready(function(){
-  $("section h1, section h2, section h3").each(function buildMainNavigation(){
+  $("section h1, section h2").each(function buildMainNavigation(){
     $("nav ul").append("<li class='tag-" + this.nodeName.toLowerCase() + "'><a href='#" + $(this).text().toLowerCase().replace(/ /g, '-').replace(/[^\w-]+/g,'') + "'>" + $(this).text() + "</a></li>");
     $(this).attr("id",$(this).text().toLowerCase().replace(/ /g, '-').replace(/[^\w-]+/g,''));
     $('body').scrollspy('refresh');
