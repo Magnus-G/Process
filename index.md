@@ -446,6 +446,9 @@ These are tried and tested treatments and clichés for graphic elements. The foc
 * Overlay semitransparent image of texture
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/texture1.png"><img src="images/gfx-examples/texture1.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/texture2.png"><img src="images/gfx-examples/texture2.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/texture3.jpg"><img src="images/gfx-examples/texture3.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/texture4.jpg"><img src="images/gfx-examples/texture4.jpg" alt=""></a>
 </div>
 
 ### Colors
@@ -506,7 +509,8 @@ These are tried and tested treatments and clichés for graphic elements. The foc
 <a class="popup" href="images/gfx-examples/edges1.jpg"><img src="images/gfx-examples/edges1.jpg" alt=""></a>
 <a class="popup" href="images/gfx-examples/edges2.jpg"><img src="images/gfx-examples/edges2.jpg" alt=""></a>
 <a class="popup" href="images/gfx-examples/edges3.jpg"><img src="images/gfx-examples/edges3.jpg" alt=""></a>
-<a class="popup" href="images/gfx-examples/edges4.jpg"><img src="images/gfx-examples/edges4.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/edges4.png"><img src="images/gfx-examples/edges4.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/edges5.jpg"><img src="images/gfx-examples/edges5.jpg" alt=""></a>
 </div>
 
 
