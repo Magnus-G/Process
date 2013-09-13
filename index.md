@@ -524,11 +524,6 @@ These are tried and tested treatments and clichés for graphic elements. The foc
 <a class="popup" href="images/gfx-examples/cut-out2.jpg"><img src="images/gfx-examples/cut-out2.jpg" alt=""></a>
 </div>
 
-* Details and/or illustrations in monochrome and mono thick strokes.
-<div class="img-examples">
-<a class="popup" href="images/gfx-examples/monochrome-monothick.png"><img src="images/gfx-examples/monochrome-monothick.png" alt=""></a>
-</div>
-
 * Overprint effect for visual disruption and retro look.
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/overprint.jpg"><img src="images/gfx-examples/overprint.jpg" alt=""></a>
