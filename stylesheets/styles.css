@@ -946,6 +946,10 @@ nav ul li.tag-h1.active a {
   font-weight: 700;
   color: #3399cc; }
 
+nav ul li.tag-h3.active a {
+  font-weight: 700;
+  color: #3399cc; }
+
 nav ul li.tag-h1 {
   font-size: 1.2em; }
 
