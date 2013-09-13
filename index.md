@@ -522,6 +522,9 @@ These are tried and tested styles and clichés for graphic elements.
 <a class="popup" href="images/gfx-examples/overprint2.jpg"><img src="images/gfx-examples/overprint2.jpg" alt=""></a>
 </div>
 
+### Interfaces
+
+
 <div class="ref">
 <h5>References</h5>
 <a href="modularscale.com">Modular Scale</a>
