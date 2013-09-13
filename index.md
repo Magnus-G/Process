@@ -367,6 +367,12 @@ These are tried and tested styles and clichés for typography.
 <a class="popup" href="images/typography/drop-cap2.jpg"><img src="images/typography/drop-cap2.jpg" alt=""></a>
 </div>
 
+### Statistics
+* Large stats together with icons and explanations.
+<div class="img-examples">
+<a class="popup" href="images/typography/large-stats1.png"><img src="images/typography/large-stats1.png" alt=""></a>
+</div>
+
 Graphic Methods
 ===================
 <p class="intro">
