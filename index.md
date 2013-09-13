@@ -360,6 +360,11 @@ These are tried and tested styles and clichés for typography.
 <a class="popup" href="images/typography/bold-light2.png"><img src="images/typography/bold-light2.png" alt=""></a>
 </div>
 
+* Multiple headings.
+<div class="img-examples">
+<a class="popup" href="images/typography/multiple-headings1.png"><img src="images/typography/multiple-headings1.png" alt=""></a>
+</div>
+
 ### Paragraph Text
 * **Drop caps** for traditional looking prose.
 <div class="img-examples">
