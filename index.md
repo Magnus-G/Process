@@ -506,7 +506,7 @@ These are tried and tested treatments and clichés for graphic elements. The foc
 <a class="popup" href="images/gfx-examples/edges1.jpg"><img src="images/gfx-examples/edges1.jpg" alt=""></a>
 <a class="popup" href="images/gfx-examples/edges2.jpg"><img src="images/gfx-examples/edges2.jpg" alt=""></a>
 <a class="popup" href="images/gfx-examples/edges3.jpg"><img src="images/gfx-examples/edges3.jpg" alt=""></a>
-<a class="popup" href="images/gfx-examples/edges4.jpg"><img src="images/gfx-examples/edges4.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/edges4.png"><img src="images/gfx-examples/edges4.png" alt=""></a>
 </div>
 
 
