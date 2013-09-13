@@ -536,6 +536,25 @@ These are tried and tested treatments and clichés for graphic elements. The foc
 </div>
 
 ### Interfaces
+* Interfaces that are not marketing pages.
+<div class="img-examples">
+<a class="popup" href="images/gfx-examples/interface1.jpg"><img src="images/gfx-examples/interface1.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/interface2.png"><img src="images/gfx-examples/interface2.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/interface3.jpg"><img src="images/gfx-examples/interface3.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/interface4.png"><img src="images/gfx-examples/interface4.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/interface5.png"><img src="images/gfx-examples/interface5.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/interface6.png"><img src="images/gfx-examples/interface6.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/interface7.jpg"><img src="images/gfx-examples/interface7.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/interface8.png"><img src="images/gfx-examples/interface8.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/interface9.jpg"><img src="images/gfx-examples/interface9.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/interface10.jpg"><img src="images/gfx-examples/interface10.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/interface11.png"><img src="images/gfx-examples/interface11.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/interface12.png"><img src="images/gfx-examples/interface12.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/interface13.png"><img src="images/gfx-examples/interface13.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/interface14.jpg"><img src="images/gfx-examples/interface14.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/interface15.jpg"><img src="images/gfx-examples/interface15.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/interface16.png"><img src="images/gfx-examples/interface16.png" alt=""></a>
+</div>
 
 
 <div class="ref">
