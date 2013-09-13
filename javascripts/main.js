@@ -12,18 +12,21 @@ var sectionHeight = function() {
 
 $(window).resize(sectionHeight);
 
+$(document).ready(function setupNavForScrollspy() {
+  var navBar = $('nav').attr('id', 'main-nav').addClass('navbar');
+  navBar.find('ul').addClass('nav navbar-nav');
+});
+
 $(document).ready(function(){
-  $("section h1, section h2, section h3").each(function(){
+  $("section h1, section h2, section h3").each(function buildMainNavigation(){
     $("nav ul").append("<li class='tag-" + this.nodeName.toLowerCase() + "'><a href='#" + $(this).text().toLowerCase().replace(/ /g, '-').replace(/[^\w-]+/g,'') + "'>" + $(this).text() + "</a></li>");
     $(this).attr("id",$(this).text().toLowerCase().replace(/ /g, '-').replace(/[^\w-]+/g,''));
-    $("nav ul li:first-child a").parent().addClass("active");
+    $('body').scrollspy('refresh');
   });
   
-  $("nav ul li").on("click", "a", function(event) {
+  $("nav ul li").on("click", "a", function scrollToSection(event) {
     var position = $($(this).attr("href")).offset().top - 20;
     $("html, body").animate({scrollTop: position}, 400);
-    $("nav ul li a").parent().removeClass("active");
-    $(this).parent().addClass("active");
     event.preventDefault();    
   });
   

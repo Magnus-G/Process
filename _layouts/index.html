@@ -12,23 +12,26 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script src="javascripts/magnific.js"></script> 
     <script src="javascripts/main.js"></script>
+    <script src="javascripts/scrollspy.js"></script>
+    <script src="javascripts/humanize.js"></script>
     <!--[if lt IE 9]>
       <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
   </head>
-  <body>
+  <body >
   <a class="github-link" href="https://github.com/Magnus-G/Process/edit/gh-pages/index.md#fullscreen_blob_contents">
     <img src="images/octocat.png" alt="">
   </a>
+  <nav>
+    <ul></ul>
+  </nav>
     <div class="wrapper">
-      <nav>
-        <ul></ul>
-      </nav>
+      
       <section>
-
-      {{content}}
+ 
+             {{content}}
       
       </section>
       <footer>
@@ -37,6 +40,7 @@
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
     <script>
     $(document).ready(function(){
+      $('.wrapper').scrollspy({ target: '#main-nav' })
       $('.popup').magnificPopup({ 
         type: 'image',
         gallery: {
