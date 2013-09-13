@@ -45,6 +45,9 @@ $section-end: 4.2em;
   border: 1px solid darken($ref-color, 10);
   padding: $space;
   border-radius: $radius;
+  a {
+    display: block;
+  }
 }
 
 article,

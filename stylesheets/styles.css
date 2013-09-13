@@ -47,6 +47,8 @@ strong {
   padding-bottom: 4px;
   color: #C0C0C0;
   margin-bottom: 2em; }
+  .intro strong {
+    color: #C0C0C0; }
 
 h1 {
   font-size: 1.6em;
@@ -620,6 +622,8 @@ img.mfp-img {
   border: 1px solid #e5e2cf;
   padding: 1em;
   border-radius: 3px; }
+  .ref a {
+    display: block; }
 
 article,
 aside,
