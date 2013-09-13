@@ -401,6 +401,7 @@ These are tried and tested treatments and clichés for graphic elements. The foc
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/darkened-backimage1.jpg"><img src="images/gfx-examples/darkened-backimage1.jpg" alt=""></a>
 <a class="popup" href="images/gfx-examples/darkened-backimage2.png"><img src="images/gfx-examples/darkened-backimage2.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/darkened-backimage3.png"><img src="images/gfx-examples/darkened-backimage3.png" alt=""></a>
 </div>
 
 * Blurry image in the back. Sharp graphics in the front.
@@ -486,6 +487,7 @@ These are tried and tested treatments and clichés for graphic elements. The foc
 * **Handmade**, or hand drawn, elements add contrast and life to a layout.
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/handmade-contrast.png"><img src="images/gfx-examples/handmade-contrast.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/handmade-contrast2.jpg"><img src="images/gfx-examples/handmade-contrast2.jpg" alt=""></a>
 </div>
 
 ### Boxes and layouts
@@ -496,6 +498,23 @@ These are tried and tested treatments and clichés for graphic elements. The foc
 <a class="popup" href="images/gfx-examples/overlap3.jpg"><img src="images/gfx-examples/overlap3.jpg" alt=""></a>
 <a class="popup" href="images/gfx-examples/overlap4.png"><img src="images/gfx-examples/overlap4.png" alt=""></a>
 <a class="popup" href="images/gfx-examples/overlap5.png"><img src="images/gfx-examples/overlap4.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/overlap6.jpg"><img src="images/gfx-examples/overlap6.jpg" alt=""></a>
+</div>
+
+* Edges
+<div class="img-examples">
+<a class="popup" href="images/gfx-examples/edges1.jpg"><img src="images/gfx-examples/edges1.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/edges2.jpg"><img src="images/gfx-examples/edges2.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/edges3.jpg"><img src="images/gfx-examples/edges3.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/edges4.jpg"><img src="images/gfx-examples/edges4.jpg" alt=""></a>
+</div>
+
+
+* Borders
+<div class="img-examples">
+<a class="popup" href="images/gfx-examples/borders1.jpg"><img src="images/gfx-examples/borders1.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/borders2.jpg"><img src="images/gfx-examples/borders2.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/borders3.jpg"><img src="images/gfx-examples/borders3.jpg" alt=""></a>
 </div>
 
 * Contrast 2D elements with 3D elements.
@@ -522,6 +541,7 @@ These are tried and tested treatments and clichés for graphic elements. The foc
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/cut-out1.png"><img src="images/gfx-examples/cut-out1.png" alt=""></a>
 <a class="popup" href="images/gfx-examples/cut-out2.jpg"><img src="images/gfx-examples/cut-out2.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/cut-out3.jpg"><img src="images/gfx-examples/cut-out3.jpg" alt=""></a>
 </div>
 
 * Overprint effect for visual disruption and retro look.
