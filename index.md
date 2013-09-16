@@ -290,7 +290,6 @@ General Style
 Develop the general look and feeling for the style.
 <p>
 
-
 ### Brand Manuals
 * Does the brand/client/product have a brand style manual? How strict does it have to be followed?
 
@@ -316,10 +315,16 @@ Develop the general look and feeling for the style.
 * Find a typeface for body type that fits the keywords
 * Use a tool such as [Modular Scale](modularscale.com) to set sizes of type and elements.
 
+### Layout
+* Always start with the overall layout. Disregard details at first. Boxes, negative space, hierarchy, user flows.
+* "…the design will look the same until you’ve made changes the structural gestalt." (source)[http://webdesign.tutsplus.com/articles/design-theory/the-gestalt-principle-design-theory-for-web-designers/].
+
 <div class="ref">
 <h5>References</h5>
 <a href="http://styletil.es/">Style Tiles</a>
 <a href="http://danielmall.com/articles/rif-element-collages/">Element Collages</a>
+<a href="http://webdesign.tutsplus.com/articles/design-theory/the-gestalt-principle-design-theory-for-web-designers/
+">Gestalt Principle</a>
 </div>
 
 Type Treatments
