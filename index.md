@@ -198,7 +198,7 @@ Start working on a concept level, finding metaphors, similarities to other inter
 * Main purpose is to get as many ideas as possible. Not as good ideas as possible.
 * **No criticizing of ideas** during the brainstorm. All ideas are valid no matter how crazy. Criticizing comes later.
 * **Idea Generation Brainstorm**: Type out 3 main questions that needs to be answered, e.g. "How can we allow for a good system overview considering we have data X, Y and Z that needs to be in it?". Ask yourself: "What problem do we need so solve?".
-* **Problem Exploration Brainstorm**: Ask "what problems do you encounter in the kitchen?" Rather than "What new products for the kitchen can you come up with?"
+* **Problem Exploration Brainstorm**: Ask "what problems do you encounter in the kitchen?" Rather than "What new products for the kitchen can you come up with?" Break topics down if needed (cooking, cleaning, staorage).
 * No more than 4-5 people in a brainstorming group.
 * Use post-it notes to prevent interrupting each other.
 * Use thick markers on post-its so the text/sketches are seen from across the room.
@@ -265,6 +265,7 @@ Start working on a concept level, finding metaphors, similarities to other inter
 <a href="http://www.amazon.com/Rocket-Surgery-Made-Easy-Do-It-Yourself/dp/0321657292">Steve Krug’s book Rocket Surgery Made Easy</a>
 <a href="http://www.peachpit.com/promotions/promotion.aspx?promo=137602">Usability test example video</a>
 <a href="http://insideintercom.io/wireframing-for-web-apps/">Wireframes</a>
+<a>Grapic Design Thinking</a>
 </div>
 
 Project Management
