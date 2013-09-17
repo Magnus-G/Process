@@ -165,6 +165,10 @@ Getting on the same page as the client, learning about end users, understanding 
 <a class="popup" href="images/research/journey-map4.jpg"><img src="images/research/journey-map4.jpg" alt=""></a>
 </div>
 
+### Feature list
+* Which features (maps, search, filters, product gallery, navigation, etc) need to be in the product? Bear MVP (minimal viable product) in mind.
+* Which features are "nice to have" but not essential for the product?
+* Avoid making layouts or coming up with solutions at this stage. Focus on creating an "inventory" for the product.
 <div class="ref">
 <h5>References</h5>
 <a href="http://uxmag.com/articles/illustrating-the-big-picture">UXMag </a>
