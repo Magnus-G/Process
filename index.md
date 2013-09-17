@@ -197,7 +197,8 @@ Start working on a concept level, finding metaphors, similarities to other inter
 #### Structure and basic rules
 * Main purpose is to get as many ideas as possible. Not as good ideas as possible.
 * **No criticizing of ideas** during the brainstorm. All ideas are valid no matter how crazy. Criticizing comes later.
-* Type out 3 main questions that needs to be answered, e.g. "How can we allow for a good system overview considering we have data X, Y and Z that needs to be in it?". Ask yourself: "What problem do we need so solve?".
+* **Idea Generation Brainstorm**: Type out 3 main questions that needs to be answered, e.g. "How can we allow for a good system overview considering we have data X, Y and Z that needs to be in it?". Ask yourself: "What problem do we need so solve?".
+* **Problem Exploration Brainstorm**: Ask "what problems do you encounter in the kitchen?" Rather than "What new products for the kitchen can you come up with?"
 * No more than 4-5 people in a brainstorming group.
 * Use post-it notes to prevent interrupting each other.
 * Use thick markers on post-its so the text/sketches are seen from across the room.
