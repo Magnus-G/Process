@@ -10,6 +10,8 @@ Project Initiation
 A potential client has a problem they want to solve. Before the project starts, find out about budget etc, along with the following:
 <p>
 
+### Project Overview
+
 * How will solving this problem help our business?
 * Why is our business capable of making this solution a success?
 * What are the Unique Selling Points of the client's idea?
@@ -17,6 +19,11 @@ A potential client has a problem they want to solve. Before the project starts, 
 * What are the moral implications of working with the client? Will we be able to sleep at night?
 * Who from the client's side will be the one contact person with "the final word" during the project?
 * What are the deadlines? Are there any milestones? 
+
+### Project Diagram
+* Use a mindmapping tool to create a diagram of the project.
+* Nodes can be known parts of the design problem or questions to bring to initial client meeting.
+* Create nodes for end-users and their needs, client and their needs.
 
 
 <div class="ref">
