@@ -205,6 +205,7 @@ Start working on a concept level, finding metaphors, similarities to other inter
 
 #### During brainstorm
 * If stuck on a question, jump to the next.
+* Don't "stand still" or linger too long. Ideas should be born from the existing ones and from the main questions.
 
 #### Categorizing after brainstorm session
 * Try to see what overall categories have emerged, e.g. "Navigation", "CMS", 
