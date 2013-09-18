@@ -354,31 +354,44 @@ Type Treatments
 These are tried and tested styles and clichés for typography.
 <p>
 
+
+
 ### General Type Treatment
 #### Serifs
+
 * **Humanist** for journalism or historical applications
 <div class="img-examples">
 <a class="popup" href="images/typography/serif-humanist.jpg"><img src="images/typography/serif-humanist.jpg" alt=""></a>
 </div>
+
 * **Transitional** for academia or legal applications 
+<div>
 <a class="popup" href="images/typography/serif-transitional.jpg"><img src="images/typography/serif-transitional.jpg" alt=""></a>
 </div>
 * **Modern** for arts or cultural applications 
+<div>
 <a class="popup" href="images/typography/serif-modern.jpg"><img src="images/typography/serif-modern.jpg" alt=""></a>
 </div>
 * **Slab** for marketing or promotional applications 
+<div>
 <a class="popup" href="images/typography/serif-slab.jpg"><img src="images/typography/serif-slab.jpg" alt=""></a>
 </div>
+
 #### Sans Serifs
 * **Humanist** for government or educational applications 
+<div>
 <a class="popup" href="images/typography/sans-humanist.jpg"><img src="images/typography/serif-humanist.jpg" alt=""></a>
 </div>
 * **Transitional** for technology or transportation applications 
+<div>
 <a class="popup" href="images/typography/sans-transitional.jpg"><img src="images/typography/sans-transitional.jpg" alt=""></a>
 </div>
 * **Geometric** for science or architecture applications 
+<div>
 <a class="popup" href="images/typography/sans-geometric.jpg"><img src="images/typography/sans-geometric.jpg" alt=""></a>
 </div>
+
+
 
 ### Headings
 * **Small headings** for indicating sub categories of articles. Can be used with stripes for color coding.
