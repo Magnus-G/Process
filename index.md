@@ -332,6 +332,10 @@ Develop the general look and feeling for the style.
 ### Layout
 * Always start with the overall layout. Disregard details at first. Boxes, negative space, hierarchy, user flows.
 * "…the design will look the same until you’ve made changes the structural gestalt." (source)[http://webdesign.tutsplus.com/articles/design-theory/the-gestalt-principle-design-theory-for-web-designers/].
+* Three steps need to be considered for the finished design: 
+1. The clarity of individual interface elements
+2. The relationship of every element to every other element
+3. The effect of the composition as a combined whole 
 
 <div class="ref">
 <h5>References</h5>
