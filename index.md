@@ -337,12 +337,17 @@ Develop the general look and feeling for the style.
 2. The relationship of every element to every other element
 3. The effect of the composition as a combined whole 
 
+<div class="img-examples">
+<a class="popup" href="images/style/three-steps.jpg"><img src="images/style/three-steps.jpg" alt=""></a>
+</div>
+
 <div class="ref">
 <h5>References</h5>
 <a href="http://styletil.es/">Style Tiles</a>
 <a href="http://danielmall.com/articles/rif-element-collages/">Element Collages</a>
 <a href="http://webdesign.tutsplus.com/articles/design-theory/the-gestalt-principle-design-theory-for-web-designers/
 ">Gestalt Principle</a>
+<a href="http://fadeyev.net/2013/08/14/visual-interface-design/">Three steps of successful layout.</a>
 </div>
 
 Type Treatments
