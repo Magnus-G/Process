@@ -345,7 +345,7 @@ Develop the general look and feeling for the style.
 <a href="http://danielmall.com/articles/rif-element-collages/">Element Collages</a>
 <a href="http://webdesign.tutsplus.com/articles/design-theory/the-gestalt-principle-design-theory-for-web-designers/
 ">Gestalt Principle</a>
-<a href="http://fadeyev.net/2013/08/14/visual-interface-design/">Three steps of successful layout.</a>
+<a href="http://fadeyev.net/2013/08/14/visual-interface-design/">Three steps of successful layout</a>
 </div>
 
 Type Treatments
