@@ -329,14 +329,12 @@ Develop the general look and feeling for the style.
 * Find a typeface for body type that fits the keywords
 * Use a tool such as [Modular Scale](modularscale.com) to set sizes of type and elements.
 
-### Layout
+### Overall Layout & Styling
 * Always start with the overall layout. Disregard details at first. Boxes, negative space, hierarchy, user flows.
 * "…the design will look the same until you’ve made changes the structural gestalt." (source)[http://webdesign.tutsplus.com/articles/design-theory/the-gestalt-principle-design-theory-for-web-designers/].
-* Three steps need to be considered for the finished design: 
-1. The clarity of individual interface elements
-2. The relationship of every element to every other element
-3. The effect of the composition as a combined whole 
-
+* Consider: The clarity of individual interface elements
+* Consider: The relationship of every element to every other element
+* Consider: The effect of the composition as a combined whole 
 <div class="img-examples">
 <a class="popup" href="images/style/three-steps.jpg"><img src="images/style/three-steps.jpg" alt=""></a>
 </div>
@@ -347,7 +345,7 @@ Develop the general look and feeling for the style.
 <a href="http://danielmall.com/articles/rif-element-collages/">Element Collages</a>
 <a href="http://webdesign.tutsplus.com/articles/design-theory/the-gestalt-principle-design-theory-for-web-designers/
 ">Gestalt Principle</a>
-<a href="http://fadeyev.net/2013/08/14/visual-interface-design/">Three steps of successful layout.</a>
+<a href="http://fadeyev.net/2013/08/14/visual-interface-design/">Three steps of successful layout</a>
 </div>
 
 Type Treatments
