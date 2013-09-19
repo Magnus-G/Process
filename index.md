@@ -393,7 +393,9 @@ These are tried and tested styles and clichés for typography.
 <a class="popup" href="images/typography/sans-geometric.jpg"><img src="images/typography/sans-geometric.jpg" alt=""></a>
 </div>
 
-
+### Pairings
+* Contrast, not conflict
+* 
 
 ### Headings
 * **Small headings** for indicating sub categories of articles. Can be used with stripes for color coding.
@@ -448,6 +450,7 @@ These are tried and tested styles and clichés for typography.
 <div class="ref">
 <h5>References</h5>
 <a href="http://design.codeschool.com/">Code School</a>
+<a href="http://www.creativebloq.com/typography/20-perfect-type-pairings-3132120">Type Pairings</a>
 </div>
 
 Graphic Methods
