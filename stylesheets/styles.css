@@ -600,6 +600,26 @@ img.mfp-img {
   right: 0;
   padding-top: 0; }
 
+div.one {
+  background-color: red; }
+
+.top-bar {
+  background-color: #222222;
+  position: fixed;
+  top: 0;
+  z-index: 99;
+  width: 100%; }
+  .top-bar ul {
+    float: right;
+    padding: 0.5em;
+    margin: 0; }
+    .top-bar ul li {
+      color: white;
+      display: inline;
+      padding: 0.5em; }
+      .top-bar ul li a {
+        color: white; }
+
 .github-link {
   cursor: pointer;
   position: fixed;
@@ -907,7 +927,7 @@ section {
   width: 590px;
   padding: 2.6em;
   margin: 20px 0;
-  margin-top: 20px;
+  margin-top: 70px;
   position: relative;
   background: #fbfbfb;
   -moz-border-radius: 3px;
@@ -924,7 +944,7 @@ small {
 nav {
   width: 230px;
   position: fixed;
-  top: 59px;
+  top: 111px;
   left: 50%;
   margin-left: -580px;
   text-align: right; }

@@ -19,7 +19,56 @@ $section-end: 4.2em;
 @import 'typography';
 @import 'magnific';
 
+@mixin color($back-color) {
+  $mix-color: teal; // color to mix into $back-color if "mix" is used
+  $mix-weight: 95%; // percetage of main color compared to mix-color
+  $back-color-lightness: lightness($back-color); // gets the lightness value (0-100) for $back-color
+  $back-color-darkness: 100 - lightness($back-color);
+
+  // EFFECTS. Comment out unused master effects.
+  // $back-color: lighten($back-color, 30);
+  // $back-color: adjust-hue($back-color, $back-color-lightness);
+  // $back-color: saturate($back-color, $back-color-darkness); // the darker, the more saturated it will be
+  // $back-color: mix($back-color, $mix-color, $mix-weight);
+  // $back-color: grayscale($back-color);
+
+  background-color: $back-color; // Apply effects to background
+
+  // $color: lighten($back-color, 40);  // if background is dark, make font-color light
+  // text-shadow: 0 1px 1px darken($back-color, 20); // Shadow on light font   
+  // @if $back-color-lightness > 30 { 
+  //   $color: darken($back-color, 40); // if background is light, make font-color dark 
+  //   text-shadow: 0 1px 1px lighten($back-color, 10); // Inset highlight on dark font  
+  // }
+  // color: $color; // Apply colors to font
+}
+
+div.one {
+  @include color(red); // Instead of background color. Font color will be generated depending on its lightness.
+}
+
 ////////////////////////////////////////////////
+
+.top-bar {
+  @include color(#222);
+  position: fixed;
+  top: 0;
+  z-index: 99;
+  width: 100%;
+  ul {
+    float: right;
+    padding: 0.5em;
+    margin: 0;
+    li {
+      color: white;
+      display: inline;
+      padding: 0.5em;
+      a {
+        color: white;
+      }
+    }
+  }
+}
 
 .github-link {
   cursor: pointer;
@@ -370,7 +419,7 @@ section {
   width: 590px;
   padding: 2.6em;
   margin: 20px 0;
-  margin-top: 20px;
+  margin-top: 70px;
   position: relative;
   background: #fbfbfb;
   -moz-border-radius: 3px;
@@ -390,7 +439,7 @@ small {
 nav {
   width: 230px;
   position: fixed;
-  top: 59px;
+  top: 111px;
   left: 50%;
   margin-left: -580px;
   text-align: right;
