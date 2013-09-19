@@ -444,6 +444,11 @@ These are tried and tested styles and clichés for typography.
 <a class="popup" href="images/typography/large-stats1.png"><img src="images/typography/large-stats1.png" alt=""></a>
 </div>
 
+<div class="ref">
+<h5>References</h5>
+<a href="http://design.codeschool.com/">Code School</a>
+</div>
+
 Graphic Methods
 ===================
 <p class="intro">
