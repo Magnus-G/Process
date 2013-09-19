@@ -379,7 +379,7 @@ These are tried and tested styles and clichés for typography.
 </div>
 
 #### Sans Serifs
-* **Humanist** for government or educational applications 
+* **Humanist** for government, financial or educational applications 
 <div class="img-examples">
 <a class="popup" href="images/typography/sans-humanist.jpg"><img src="images/typography/sans-humanist.jpg" alt=""></a>
 </div>
