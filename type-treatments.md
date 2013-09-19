@@ -10,8 +10,8 @@ General Type Treatments
 These are tried and tested styles and clichés for typography.
 <p>
 
-## Serifs
-
+Serifs
+======
 * **Humanist** for journalism or historical applications
 <div class="img-examples">
 <a class="popup" href="images/typography/serif-humanist.jpg"><img src="images/typography/serif-humanist.jpg" alt=""></a>
@@ -30,7 +30,8 @@ These are tried and tested styles and clichés for typography.
 <a class="popup" href="images/typography/serif-slab.jpg"><img src="images/typography/serif-slab.jpg" alt=""></a>
 </div>
 
-## Sans Serifs
+Sans Serifs
+===========
 * **Humanist** for government, financial or educational applications 
 <div class="img-examples">
 <a class="popup" href="images/typography/sans-humanist.jpg"><img src="images/typography/sans-humanist.jpg" alt=""></a>
@@ -44,11 +45,13 @@ These are tried and tested styles and clichés for typography.
 <a class="popup" href="images/typography/sans-geometric.jpg"><img src="images/typography/sans-geometric.jpg" alt=""></a>
 </div>
 
-## Pairings
+Pairings
+========
 * Contrast, not conflict
 * 
 
-## Headings
+Headings
+========
 * **Small headings** for indicating sub categories of articles. Can be used with stripes for color coding.
 <div class="img-examples">
 <a class="popup" href="images/typography/small-heading1.png"><img src="images/typography/small-heading1.png" alt=""></a>
@@ -85,14 +88,16 @@ These are tried and tested styles and clichés for typography.
 <a class="popup" href="images/typography/multiple-headings1.png"><img src="images/typography/multiple-headings1.png" alt=""></a>
 </div>
 
-## Paragraph Text
+Paragraph Text
+==============
 * **Drop caps** for traditional looking prose.
 <div class="img-examples">
 <a class="popup" href="images/typography/drop-cap1.jpg"><img src="images/typography/drop-cap1.jpg" alt=""></a>
 <a class="popup" href="images/typography/drop-cap2.jpg"><img src="images/typography/drop-cap2.jpg" alt=""></a>
 </div>
 
-## Statistics
+Statistics
+==========
 * Large stats together with icons and explanations.
 <div class="img-examples">
 <a class="popup" href="images/typography/large-stats1.png"><img src="images/typography/large-stats1.png" alt=""></a>
