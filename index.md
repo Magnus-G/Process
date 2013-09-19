@@ -372,7 +372,7 @@ These are tried and tested styles and clichés for typography.
 <div class="img-examples">
 <a class="popup" href="images/typography/serif-modern.jpg"><img src="images/typography/serif-modern.jpg" alt=""></a>
 </div>
-* **Slab** for marketing or promotional applications 
+* **Slab** for marketing or promotional applications
 <div class="img-examples">
 <a class="popup" href="images/typography/serif-slab.jpg"><img src="images/typography/serif-slab.jpg" alt=""></a>
 </div>
