@@ -2,7 +2,7 @@
 layout: index
 ---
 
-<h5 class="title">Type Treatments</h5>
+<h5 class="title type-treatments">Type Treatments</h5>
 
 General Type Treatments
 ================
