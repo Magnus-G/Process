@@ -176,6 +176,7 @@ Getting on the same page as the client, learning about end users, understanding 
 * Which features (maps, search, filters, product gallery, navigation, etc) need to be in the product? Bear MVP (minimal viable product) in mind.
 * Which features are "nice to have" but not essential for the product?
 * Avoid making layouts or coming up with solutions at this stage. Focus on creating an "inventory" for the product.
+
 <div class="ref">
 <h5>References</h5>
 <a href="http://uxmag.com/articles/illustrating-the-big-picture">UXMag </a>
@@ -218,7 +219,7 @@ Start working on a concept level, finding metaphors, similarities to other inter
 <div class="img-examples">
 <a class="popup" href="images/concept/hand-sketch1.jpg"><img src="images/concept/hand-sketch1.jpg" alt=""></a>
 <a class="popup" href="images/concept/hand-sketch2.jpg"><img src="images/concept/hand-sketch2.jpg" alt=""></a>
-<a class="popup" href="images/concept/hand-sketch3.jpg"><img src="images/concept/hand-sketch3.jpg" alt=""></a>
+<a class="popup" href="images/concept/hand-sketch4.jpg"><img src="images/concept/hand-sketch4.jpg" alt=""></a>
 </div>
 
 
@@ -332,7 +333,7 @@ Develop the general look and feeling for the style.
 
 ### Overall Layout & Styling
 * Always start with the overall layout. Disregard details at first. Boxes, negative space, hierarchy, user flows.
-* "…the design will look the same until you’ve made changes the structural gestalt." (source)[http://webdesign.tutsplus.com/articles/design-theory/the-gestalt-principle-design-theory-for-web-designers/].
+* "…the design will look the same until you’ve made changes the structural gestalt." [source](http://webdesign.tutsplus.com/articles/design-theory/the-gestalt-principle-design-theory-for-web-designers/).
 * Consider: The clarity of individual interface elements
 * Consider: The relationship of every element to every other element
 * Consider: The effect of the composition as a combined whole 
@@ -379,9 +380,9 @@ These are tried and tested styles and clichés for typography.
 </div>
 
 #### Sans Serifs
-* **Humanist** for government or educational applications 
+* **Humanist** for government, financial or educational applications 
 <div class="img-examples">
-<a class="popup" href="images/typography/sans-humanist.jpg"><img src="images/typography/serif-humanist.jpg" alt=""></a>
+<a class="popup" href="images/typography/sans-humanist.jpg"><img src="images/typography/sans-humanist.jpg" alt=""></a>
 </div>
 * **Transitional** for technology or transportation applications 
 <div class="img-examples">
@@ -392,7 +393,9 @@ These are tried and tested styles and clichés for typography.
 <a class="popup" href="images/typography/sans-geometric.jpg"><img src="images/typography/sans-geometric.jpg" alt=""></a>
 </div>
 
-
+### Pairings
+* Contrast, not conflict
+* 
 
 ### Headings
 * **Small headings** for indicating sub categories of articles. Can be used with stripes for color coding.
@@ -442,6 +445,12 @@ These are tried and tested styles and clichés for typography.
 * Large stats together with icons and explanations.
 <div class="img-examples">
 <a class="popup" href="images/typography/large-stats1.png"><img src="images/typography/large-stats1.png" alt=""></a>
+</div>
+
+<div class="ref">
+<h5>References</h5>
+<a href="http://design.codeschool.com/">Code School</a>
+<a href="http://www.creativebloq.com/typography/20-perfect-type-pairings-3132120">Type Pairings</a>
 </div>
 
 Graphic Methods
