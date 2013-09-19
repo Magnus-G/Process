@@ -30,9 +30,6 @@ a small {
   margin-top: -0.6em;
   display: block; }
 
-ul {
-  list-style-image: url("../images/bullet.png"); }
-
 strong {
   font-weight: 400;
   color: #333333; }
@@ -148,9 +145,12 @@ code {
   -khtml-border-radius: 2px;
   border-radius: 2px; }
 
+ul {
+  list-style-image: url("../images/bullet.png"); }
+
 li {
-  font-size: 1em;
-  line-height: 1.6em;
+  font-size: 0.95em;
+  line-height: 1.65em;
   color: #333333; }
 
 dl,

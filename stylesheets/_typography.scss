@@ -39,10 +39,6 @@ a small {
   display: block;
 }
 
-ul {
-  list-style-image: url("../images/bullet.png");
-}
-
 strong {
   font-weight: 400;
   color: $font-color;
@@ -190,9 +186,13 @@ code {
 //
 /////////////////////////////////////////////////////////////////////////////
 
+ul {
+  list-style-image: url("../images/bullet.png");
+}
+
 li {
-  font-size: 1em;
-  line-height: 1.6em;
+  font-size: 0.95em;
+  line-height: 1.65em;
   color: $font-color;
 }
 
