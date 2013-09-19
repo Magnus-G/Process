@@ -381,7 +381,7 @@ These are tried and tested styles and clichés for typography.
 #### Sans Serifs
 * **Humanist** for government or educational applications 
 <div class="img-examples">
-<a class="popup" href="images/typography/sans-humanist.jpg"><img src="images/typography/serif-humanist.jpg" alt=""></a>
+<a class="popup" href="images/typography/sans-humanist.jpg"><img src="images/typography/sans-humanist.jpg" alt=""></a>
 </div>
 * **Transitional** for technology or transportation applications 
 <div class="img-examples">
