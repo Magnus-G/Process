@@ -176,6 +176,7 @@ Getting on the same page as the client, learning about end users, understanding 
 * Which features (maps, search, filters, product gallery, navigation, etc) need to be in the product? Bear MVP (minimal viable product) in mind.
 * Which features are "nice to have" but not essential for the product?
 * Avoid making layouts or coming up with solutions at this stage. Focus on creating an "inventory" for the product.
+
 <div class="ref">
 <h5>References</h5>
 <a href="http://uxmag.com/articles/illustrating-the-big-picture">UXMag </a>
@@ -332,7 +333,7 @@ Develop the general look and feeling for the style.
 
 ### Overall Layout & Styling
 * Always start with the overall layout. Disregard details at first. Boxes, negative space, hierarchy, user flows.
-* "…the design will look the same until you’ve made changes the structural gestalt." (source)[http://webdesign.tutsplus.com/articles/design-theory/the-gestalt-principle-design-theory-for-web-designers/].
+* "…the design will look the same until you’ve made changes the structural gestalt." [source](http://webdesign.tutsplus.com/articles/design-theory/the-gestalt-principle-design-theory-for-web-designers/).
 * Consider: The clarity of individual interface elements
 * Consider: The relationship of every element to every other element
 * Consider: The effect of the composition as a combined whole 
