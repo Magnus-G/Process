@@ -94,11 +94,19 @@ h5.title {
   font-size: 0.83em;
   text-transform: uppercase;
   font-weight: 700;
-  background-color: $contrast-color;
   display: inline-block;
   color: white;
   padding: 2px 8px;
   margin-bottom: $paragraph-end;
+  .process {
+    @include color($contrast-color);
+  }
+  .type-treatments {
+    @include color(#59DFB9);
+  }
+  .graphic-methods {
+    @include color(#F35959);
+  }
 }
 
 h6 {
