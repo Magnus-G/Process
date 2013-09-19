@@ -79,11 +79,11 @@ h5.title {
   color: white;
   padding: 2px 8px;
   margin-bottom: 1.6em; }
-  h5.title .process {
+  h5.title.process {
     background-color: #ff90b3; }
-  h5.title .type-treatments {
+  h5.title.type-treatments {
     background-color: #59dfb9; }
-  h5.title .graphic-methods {
+  h5.title.graphic-methods {
     background-color: #f35959; }
 
 h6 {

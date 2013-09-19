@@ -98,13 +98,13 @@ h5.title {
   color: white;
   padding: 2px 8px;
   margin-bottom: $paragraph-end;
-  .process {
+  &.process {
     @include color($contrast-color);
   }
-  .type-treatments {
+  &.type-treatments {
     @include color(#59DFB9);
   }
-  .graphic-methods {
+  &.graphic-methods {
     @include color(#F35959);
   }
 }
