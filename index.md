@@ -218,7 +218,7 @@ Start working on a concept level, finding metaphors, similarities to other inter
 <div class="img-examples">
 <a class="popup" href="images/concept/hand-sketch1.jpg"><img src="images/concept/hand-sketch1.jpg" alt=""></a>
 <a class="popup" href="images/concept/hand-sketch2.jpg"><img src="images/concept/hand-sketch2.jpg" alt=""></a>
-<a class="popup" href="images/concept/hand-sketch3.jpg"><img src="images/concept/hand-sketch3.jpg" alt=""></a>
+<a class="popup" href="images/concept/hand-sketch4.jpg"><img src="images/concept/hand-sketch4.jpg" alt=""></a>
 </div>
 
 
