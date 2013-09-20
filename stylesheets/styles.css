@@ -78,7 +78,7 @@ h5.title {
   display: inline-block;
   color: white;
   padding: 2px 8px;
-  margin-bottom: 1.6em; }
+  margin-bottom: 0; }
   h5.title.process {
     background-color: #ff90b3; }
   h5.title.type-treatments {
@@ -623,8 +623,8 @@ img.mfp-img {
         color: white; }
 
 a.invisible {
-  float: right;
-  width: 50px; }
+  width: 100%;
+  height: 20px; }
 
 .github-link {
   cursor: pointer;

@@ -97,7 +97,7 @@ h5.title {
   display: inline-block;
   color: white;
   padding: 2px 8px;
-  margin-bottom: $paragraph-end;
+  margin-bottom: 0;
   &.process {
     @include color($contrast-color);
   }
