@@ -622,6 +622,10 @@ img.mfp-img {
       .top-bar ul li a {
         color: white; }
 
+a.invisible {
+  float: right;
+  width: 50px; }
+
 .github-link {
   cursor: pointer;
   position: fixed;

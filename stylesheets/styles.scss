@@ -66,6 +66,11 @@ $section-end: 4.2em;
   }
 }
 
+a.invisible {
+  float: right;
+  width: 50px;
+}
+
 .github-link {
   cursor: pointer;
   position: fixed;
