@@ -5,8 +5,6 @@ layout: index
 <h5 class="title type-treatments">Type Treatments</h5>
 <a href="https://github.com/Magnus-G/Process/edit/gh-pages/type-treatments.md#fullscreen_blob_contents" class="invisible"></a>
 
-General Type Treatments
-================
 <p class="intro">
 These are tried and tested styles and clichés for typography.
 <p>
