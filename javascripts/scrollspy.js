@@ -1,4 +1,3 @@
-
 var PositionHighlighter = {
   headings: function() {
     elementsToWatch = $('h1, h2').map(function(i, el){
@@ -13,7 +12,7 @@ var PositionHighlighter = {
   closestElementToTop: function() {
     var heading;
     var headings = this.headings();
-    var offset = 21;
+    var offset = 81;
     var top = $(document).scrollTop() + offset;
     var i = headings.length;
     while (i--) {
