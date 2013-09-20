@@ -3,6 +3,7 @@ layout: index
 ---
 
 <h5 class="title graphic-methods">Graphic Methods</h5>
+<a href="https://github.com/Magnus-G/Process/edit/gh-pages/graphic-methods.md#fullscreen_blob_contents" class="invisible"></a>
 
 <p class="intro">
 These are tried and tested treatments and clichés for graphic elements. The focus here is not on styles or fads but on methods that are more or less "timeless".
