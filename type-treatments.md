@@ -3,6 +3,7 @@ layout: index
 ---
 
 <h5 class="title type-treatments">Type Treatments</h5>
+<a href="https://github.com/Magnus-G/Process/edit/gh-pages/index.md#fullscreen_blob_contents" class="invisible"></a>
 
 General Type Treatments
 ================
