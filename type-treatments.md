@@ -18,30 +18,45 @@ Serifs
 <a class="popup" href="images/typography/serif-humanist.jpg"><img src="images/typography/serif-humanist.jpg" alt=""></a>
 </div>
 
-* **Transitional** for academia or legal applications 
+### Transitional 
+* Academia
+* Legal applications 
 <div class="img-examples">
 <a class="popup" href="images/typography/serif-transitional.jpg"><img src="images/typography/serif-transitional.jpg" alt=""></a>
 </div>
-* **Modern** for arts or cultural applications 
+### Modern
+* Arts 
+* Cultural 
+* Modernism
+* High Class
 <div class="img-examples">
 <a class="popup" href="images/typography/serif-modern.jpg"><img src="images/typography/serif-modern.jpg" alt=""></a>
 </div>
-* **Slab** for marketing or promotional applications
+### Slab
+* Marketing
+* Promotional
 <div class="img-examples">
 <a class="popup" href="images/typography/serif-slab.jpg"><img src="images/typography/serif-slab.jpg" alt=""></a>
 </div>
 
 Sans Serifs
 ===========
-* **Humanist** for government, financial or educational applications 
+### Humanist
+* Government
+* Financial
+* Educational 
 <div class="img-examples">
 <a class="popup" href="images/typography/sans-humanist.jpg"><img src="images/typography/sans-humanist.jpg" alt=""></a>
 </div>
-* **Transitional** for technology or transportation applications 
+### Transitional
+* Technology 
+* Transportation
 <div class="img-examples">
 <a class="popup" href="images/typography/sans-transitional.jpg"><img src="images/typography/sans-transitional.jpg" alt=""></a>
 </div>
-* **Geometric** for science or architecture applications 
+### Geometric
+* Science
+* Architecture 
 <div class="img-examples">
 <a class="popup" href="images/typography/sans-geometric.jpg"><img src="images/typography/sans-geometric.jpg" alt=""></a>
 </div>
