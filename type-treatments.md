@@ -11,7 +11,9 @@ These are tried and tested styles and clichés for typography.
 
 Serifs
 ======
-* **Humanist** for journalism or historical applications
+### Humanist 
+* Journalism 
+* Historical applications
 <div class="img-examples">
 <a class="popup" href="images/typography/serif-humanist.jpg"><img src="images/typography/serif-humanist.jpg" alt=""></a>
 </div>
