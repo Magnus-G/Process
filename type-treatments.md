@@ -9,6 +9,14 @@ layout: index
 These are tried and tested styles and clichés for typography.
 <p>
 
+Selecting a Typeface
+=================
+* Organic vs. Inorganic: Is the subject or message an organic (living, human) voice, or is it an inorganic (mechanized, mechanical) voice.
+* Is it hard, or is it soft? What is the emotion of the message? Is it angry, sad, happy, soothing, tired, bewildered?
+* Who is talking, to whom? Dream up a spokesman for the message. Would it be James Earl Jones? Barbara Walters? Walter Cronkite? Listen to voices. What typefaces do they suggest?
+* Where or when is it? History, place, setting, atmosphere and environment all speak voices -- voices that are visually inherent in typefaces. 
+* What is its posture? What is the attitude? If a face hasn't suggested itself to you yet, perhaps its posture will. Is it running fast? Is it slumping? Is it standing erect at attention? Is it sensually reclined? 
+
 Serifs
 ======
 ### Humanist or Old Style
@@ -87,11 +95,18 @@ These sans serifs are constructed of straight, monolinear lines and circular or 
 
 Super Families
 ============
+* FF Dax
+* Nimbus Sans 
+* Abril 
+* Aviano
+* Calluna
+* Freight
 
 <div class="ref">
 <h5>References</h5>
 <a href="https://typekit.com/lists/geometric-sans-serifs">Geometric Sans</a>
 <a href="http://www.noupe.com/design/a-crash-course-in-typography-the-basics-of-type.html">Classifications</a>
+<a href="http://www.graphic-design.com/Type/voice/index.html">Selecting a typeface</a>
 </div>
 
 Pairings
