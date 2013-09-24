@@ -60,6 +60,11 @@ Little to no contrast between thick and thin lines, and have thick, rectangular 
 
 ### Script
 There are two basic classifications: **formal** and **casual**. Formal scripts are often reminiscent of the handwritten letterforms common in the 17th and 18th centuries. Casual scripts more closely resemble modern handwriting.
+<div class="img-examples">
+<a class="popup" href="images/typography/script1.jpg"><img src="images/typography/script1.jpg" alt=""></a>
+<a class="popup" href="images/typography/script2.jpg"><img src="images/typography/script2.jpg" alt=""></a>
+</div>
+
 
 ### Display
 Reserved for headlines or other short copy that needs attention drawn to it.
