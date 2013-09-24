@@ -11,34 +11,51 @@ These are tried and tested styles and clichés for typography.
 
 Serifs
 ======
-### Humanist 
+### Humanist or Old Style
+Dating back to the mid 1400s. Diagonal stress (the thinnest parts of the letters appear on the angled strokes, rather than the vertical or horizontal ones).
 * Journalism 
 * Historical applications
 <div class="img-examples">
 <a class="popup" href="images/typography/serif-humanist.jpg"><img src="images/typography/serif-humanist.jpg" alt=""></a>
+<a class="popup" href="images/typography/serif-humanist2.jpg"><img src="images/typography/serif-humanist2.jpg" alt=""></a>
 </div>
 
 ### Transitional 
+Date back to the mid 1700s. The differences between thick and thin strokes are more pronounced than they are in old style serifs, but less so than in modern serifs.
 * Academia
 * Legal applications 
 <div class="img-examples">
 <a class="popup" href="images/typography/serif-transitional.jpg"><img src="images/typography/serif-transitional.jpg" alt=""></a>
+<a class="popup" href="images/typography/serif-transitional2.jpg"><img src="images/typography/serif-transitional2.jpg" alt=""></a>
 </div>
 
 ### Modern
+Date back to the late 1700s. Pronounced contrast between thin and thick lines, and have have a vertical stress and minimal brackets. 
 * Arts 
 * Cultural 
 * Modernism
 * High Class
 <div class="img-examples">
 <a class="popup" href="images/typography/serif-modern.jpg"><img src="images/typography/serif-modern.jpg" alt=""></a>
+<a class="popup" href="images/typography/serif-modern2.jpg"><img src="images/typography/serif-modern2.jpg" alt=""></a>
 </div>
 
 ### Slab
+Little to no contrast between thick and thin lines, and have thick, rectangular serifs, and sometimes have fixed widths. 
 * Marketing
 * Promotional
 <div class="img-examples">
 <a class="popup" href="images/typography/serif-slab.jpg"><img src="images/typography/serif-slab.jpg" alt=""></a>
+<a class="popup" href="images/typography/serif-slab2.jpg"><img src="images/typography/serif-slab2.jpg" alt=""></a>
+</div>
+
+### Script
+There are two basic classifications: **formal** and **casual**. Formal scripts are often reminiscent of the handwritten letterforms common in the 17th and 18th centuries. Casual scripts more closely resemble modern handwriting.
+
+### Display
+Reserved for headlines or other short copy that needs attention drawn to it.
+<div class="img-examples">
+<a class="popup" href="images/typography/display1.jpg"><img src="images/typography/display1.jpg" alt=""></a>
 </div>
 
 Sans Serifs
@@ -49,6 +66,7 @@ Sans Serifs
 * Educational 
 <div class="img-examples">
 <a class="popup" href="images/typography/sans-humanist.jpg"><img src="images/typography/sans-humanist.jpg" alt=""></a>
+<a class="popup" href="images/typography/sans-humanist2.jpg"><img src="images/typography/sans-humanist2.jpg" alt=""></a>
 </div>
 
 ### Transitional
@@ -59,11 +77,18 @@ Sans Serifs
 </div>
 
 ### Geometric
+These sans serifs are constructed of straight, monolinear lines and circular or square shapes. This can make them very cold and clinical, but also quite simple. The starkness of most geometric sans serifs makes for great headings, but they are usually less than ideal for long paragraphs.
 * Science
 * Architecture 
+* Usually not ideal for body copy
 <div class="img-examples">
 <a class="popup" href="images/typography/sans-geometric.jpg"><img src="images/typography/sans-geometric.jpg" alt=""></a>
 </div>
+
+https://typekit.com/lists/geometric-sans-serifs
+
+http://www.noupe.com/design/a-crash-course-in-typography-the-basics-of-type.html
+Classifications
 
 Pairings
 ========
