@@ -24,6 +24,7 @@ Serifs
 <div class="img-examples">
 <a class="popup" href="images/typography/serif-transitional.jpg"><img src="images/typography/serif-transitional.jpg" alt=""></a>
 </div>
+
 ### Modern
 * Arts 
 * Cultural 
@@ -32,6 +33,7 @@ Serifs
 <div class="img-examples">
 <a class="popup" href="images/typography/serif-modern.jpg"><img src="images/typography/serif-modern.jpg" alt=""></a>
 </div>
+
 ### Slab
 * Marketing
 * Promotional
@@ -48,12 +50,14 @@ Sans Serifs
 <div class="img-examples">
 <a class="popup" href="images/typography/sans-humanist.jpg"><img src="images/typography/sans-humanist.jpg" alt=""></a>
 </div>
+
 ### Transitional
 * Technology 
 * Transportation
 <div class="img-examples">
 <a class="popup" href="images/typography/sans-transitional.jpg"><img src="images/typography/sans-transitional.jpg" alt=""></a>
 </div>
+
 ### Geometric
 * Science
 * Architecture 
