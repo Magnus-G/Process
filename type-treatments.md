@@ -75,6 +75,7 @@ Reserved for headlines or other short copy that needs attention drawn to it.
 Sans Serifs
 ===========
 ### Humanist
+These typefaces are calligraphic in structure, often with higher stroke contrast than other sans serifs. They have open forms that lead the eye horizontally, making them the best sans serifs for long reading and small text. 
 * Government
 * Financial
 * Educational 
@@ -83,7 +84,8 @@ Sans Serifs
 <a class="popup" href="images/typography/sans-humanist2.jpg"><img src="images/typography/sans-humanist2.jpg" alt=""></a>
 </div>
 
-### Transitional
+### Transitional or Grotesque
+These sans serifs don't have a strong relationship to calligraphy. Their shapes and proportions are fairly uniform, with low stroke contrast. Round shapes are more oval than circular and x-height is usually large. Often better for paragraphs than geometrics, but not as good as humanists.
 * Technology 
 * Transportation
 <div class="img-examples">
