@@ -1,7 +1,7 @@
 
 @function master-color($bg-color) {
-  $mix-color: teal; // Color to mix into $bg-color if "mix" is used.
-  $mix-weight: 80%; // Percetage of main color compared to mix-color.
+  $mix-color: green; // Color to mix into $bg-color if "mix" is used.
+  $mix-weight: 97%; // Percetage of main color compared to mix-color.
   $color-lightness: lightness($bg-color); // The lightness value (0-100) for $bg-color.
   $color-darkness: 100 - $color-lightness; // The darkness value (0-100) for $bg-color.
  
@@ -11,7 +11,7 @@
   
   $bg-color: grayscale($bg-color);
   // $bg-color: mix($bg-color, $mix-color, $mix-weight);
-  // $bg-color: darken($bg-color, 10); // Lightens the color.
+  // $bg-color: darken($bg-color, 40); // Lightens the color.
   // $bg-color: desaturate($bg-color, 40); // Saturates the color.
 
  
@@ -44,15 +44,15 @@
 $top-bar-color: master-color(#222);;
 $background-color: master-color(#F0F2F5);
 $section-color: master-color(#fbfbfb);
-$ref-color: master-color(#F7F6F0);
+$ref-color: #F7F6F0;
 $nav-color: master-color(#A7B3C5);
 $images-example-color: master-color(#F1F1F1);
 $image-border: master-color(white);
 
-$font-color: master-color(#444);
+$font-color: master-color(#555);
 $font-color-secondary: master-color(#393939);
 $font-color-link: #3399cc;
-$font-intro-color: master-color(#D4D4D4);
+$font-intro-color: master-color(#C4C4C4);
 $font-color-title: master-color(white);
 
 $contrast-color-1: #FF90B3;
@@ -92,10 +92,17 @@ body {
       padding: 0.5em;
       a {
         color: master-color(white);
+        font-size: 0.9em;
       }
     }
   }
 }
+
+.addition {
+  background-color: teal;
+  width: 400px;
+}
+
 
 a.invisible {
   cursor: pointer !important;
@@ -105,13 +112,15 @@ a.invisible {
 }
 
 .ref {
-  margin: 0 $indent $section-end $indent;
+  margin: 0 0 $section-end 0;
   background-color: $ref-color;
   border: 1px solid darken($ref-color, 10);
   padding: $space;
   border-radius: $radius;
   a {
     display: block;
+    font-size: 0.8em;
+    line-height: 1.5em;
   }
 }
 

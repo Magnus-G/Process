@@ -23,10 +23,10 @@
   <body >
   <div class="top-bar">
     <ul>
-      <li><a href="http://magnus-g.github.io/Process">Process</a></li>
-      <li><a href="http://magnus-g.github.io/Process/type-treatments">Type Treatments</a></li>
-      <li><a href="http://magnus-g.github.io/Process/graphic-methods">Graphic Methods</a></li>
-      <li><a href="http://magnus-g.github.io/spare_parts/">Spare Parts</a></li>
+      <li><a href="http://magnus-g.github.io/Process" class="toggle-class">Process</a></li>
+      <li><a href="http://magnus-g.github.io/Process/type-treatments" class="toggle-class">Type Treatments</a></li>
+      <li><a href="http://magnus-g.github.io/Process/graphic-methods" class="toggle-class">Graphic Methods</a></li>
+      <li><a href="http://magnus-g.github.io/spare_parts/" class="toggle-class">Spare Parts</a></li>
     </ul>
   </div>
   
@@ -41,6 +41,7 @@
       
       <section>
 
+
              {{content}}
       
       </section>
@@ -48,6 +49,19 @@
       </footer>
     </div>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+               
+    <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+    <script>
+      $(document).ready(function() {
+        $(".toggle-class").click(function() {
+          $(".toggle-class").removeClass("addition", 1000, "easeInOutExpo" );
+          $(this).addClass("addition", 1000, "easeInOutExpo" );
+        });
+      });
+    </script>
+    </script>
+         
+    
     <script>
         $(document).ready(function(){
           PositionHighlighter.setup();

@@ -3,7 +3,7 @@ body {
   font-weight: 300; }
 
 h1 {
-  color: #444444;
+  color: #555555;
   font-size: 1.6em;
   margin: 0 0 0.8em 0; }
 
@@ -13,19 +13,19 @@ h2 {
   margin: 0.83em 0; }
 
 h3 {
-  color: #444444;
+  color: #555555;
   font-size: 0.8em;
   text-transform: uppercase;
-  border-bottom: 1px dashed #c4c4c4;
+  border-bottom: 1px dashed #d4d4d4;
   padding-bottom: 1em; }
 
 h4 {
-  color: #444444;
+  color: #555555;
   font-size: 1em;
   margin: 0 0 0.5em 1em; }
 
 h5 {
-  color: #444444;
+  color: #555555;
   font-size: 0.83em;
   text-transform: uppercase;
   font-weight: 700;
@@ -51,6 +51,7 @@ h6 {
   margin: 2.33em 0; }
 
 p {
+  font-family: 'Roboto Slab', serif;
   margin: 0 0 1.6em 0; }
 
 a {
@@ -65,48 +66,44 @@ a small {
   display: block; }
 
 strong {
-  font-weight: 400;
-  color: #444444; }
+  font-weight: 700;
+  color: #3b3b3b; }
 
 .intro {
   font-family: 'Noto Serif', georgia, serif;
   font-style: italic;
   font-size: 0.9em;
   line-height: 1.5em;
-  border-left: 2px solid #d4d4d4;
+  border-left: 2px solid #dedede;
   padding-left: 1em;
   padding-bottom: 4px;
-  color: #d4d4d4;
+  color: #c4c4c4;
   margin-bottom: 2em; }
   .intro strong {
-    color: #d4d4d4; }
+    color: #c4c4c4; }
 
-ul {
-  list-style-type: circle; }
-
-li {
+section ul {
+  list-style-image: url("../images/bullet.png"); }
+section li {
+  font-family: 'Roboto Slab', serif;
   font-size: 0.95em;
   line-height: 1.65em;
-  color: #444444; }
-
-dl,
-menu,
-ol,
-ul {
+  color: #555555; }
+section dl,
+section menu,
+section ol,
+section ul {
   margin: 0; }
-
-dd {
+section dd {
   margin: 0 0 0 40px; }
-
-menu,
-ol,
-ul {
+section menu,
+section ol,
+section ul {
   margin-bottom: 1.6em;
   padding-left: 1.6em;
   margin-right: 1.6em; }
-
-nav ul,
-nav ol {
+section nav ul,
+section nav ol {
   list-style: none;
   list-style-image: none; }
 
@@ -537,7 +534,12 @@ body {
       display: inline;
       padding: 0.5em; }
       .top-bar ul li a {
-        color: white; }
+        color: white;
+        font-size: 0.9em; }
+
+.addition {
+  background-color: teal;
+  width: 400px; }
 
 a.invisible {
   cursor: pointer !important;
@@ -546,13 +548,15 @@ a.invisible {
   height: 20px; }
 
 .ref {
-  margin: 0 1.6em 4.2em 1.6em;
-  background-color: #f3f3f3;
-  border: 1px solid #dadada;
+  margin: 0 0 4.2em 0;
+  background-color: #f7f6f0;
+  border: 1px solid #e5e2cf;
   padding: 1em;
   border-radius: 3px; }
   .ref a {
-    display: block; }
+    display: block;
+    font-size: 0.8em;
+    line-height: 1.5em; }
 
 .wrapper {
   width: 650px;

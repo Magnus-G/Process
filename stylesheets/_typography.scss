@@ -64,6 +64,7 @@ h6 {
 /////////////////////////////
 
 p {
+  font-family: 'Roboto Slab', serif;
   margin: 0 0 $paragraph-end 0;
 }
 
@@ -81,8 +82,8 @@ a small {
 }
 
 strong {
-  font-weight: 400;
-  color: $font-color;
+  font-weight: 700;
+  color: darken($font-color, 10);
 }
 
 .intro {
@@ -90,7 +91,7 @@ strong {
   font-style: italic;
   font-size: 0.9em;
   line-height: 1.5em;
-  border-left: 2px solid $font-intro-color;
+  border-left: 2px solid lighten($font-intro-color, 10);
   padding-left: $space;
   padding-bottom: 4px;
   color: $font-intro-color;
@@ -102,46 +103,48 @@ strong {
 
 /////////////////////////////////////////////////////////////////////////////
 //
-//  Lists
+//  Lists in main section
 //
 /////////////////////////////////////////////////////////////////////////////
 
-ul {
-  // list-style-image: url("../images/bullet.png");
-  list-style-type: circle;
-}
+section {
+  ul {
+    list-style-image: url("../images/bullet.png");
+    // list-style-type: circle;
+  }
 
-li {
-  font-size: 0.95em;
-  line-height: 1.65em;
-  color: $font-color;
-}
+  li {
+    font-family: 'Roboto Slab', serif;
+    font-size: 0.95em; //roboto
+    line-height: 1.65em; //roboto
+    color: $font-color;
+  }
 
-dl,
-menu,
-ol,
-ul {
-  margin: 0;
-}
+  dl,
+  menu,
+  ol,
+  ul {
+    margin: 0;
+  }
 
-dd {
-  margin: 0 0 0 40px;
-}
+  dd {
+    margin: 0 0 0 40px;
+  }
 
-menu,
-ol,
-ul {
-  margin-bottom: $paragraph-end;
-  padding-left: $paragraph-end;
-  margin-right: $paragraph-end;
-}
+  menu,
+  ol,
+  ul {
+    margin-bottom: $paragraph-end;
+    padding-left: $paragraph-end;
+    margin-right: $paragraph-end;
+  }
 
-nav ul,
-nav ol {
-  list-style: none;
-  list-style-image: none;
+  nav ul,
+  nav ol {
+    list-style: none;
+    list-style-image: none;
+  }
 }
-
 
 
 // abbr[title] {
