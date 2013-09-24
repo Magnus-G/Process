@@ -12,6 +12,7 @@ These are tried and tested styles and clichés for typography.
 Selecting a Typeface
 =================
 [Source](http://www.graphic-design.com/Type/voice/index.html)
+
 * Organic vs. Inorganic: Is the subject or message an organic (living, human) voice, or is it an inorganic (mechanized, mechanical) voice.
 * Is it hard, or is it soft? What is the emotion of the message? Is it angry, sad, happy, soothing, tired, bewildered?
 * Who is talking, to whom? Dream up a spokesman for the message. Would it be James Earl Jones? Barbara Walters? Walter Cronkite? Listen to voices. What typefaces do they suggest?
@@ -22,6 +23,7 @@ Serifs
 ======
 ### Humanist or Old Style
 Dating back to the mid 1400s. Diagonal stress (the thinnest parts of the letters appear on the angled strokes, rather than the vertical or horizontal ones).
+
 * Journalism 
 * Historical applications
 <div class="img-examples">
@@ -31,6 +33,7 @@ Dating back to the mid 1400s. Diagonal stress (the thinnest parts of the letters
 
 ### Transitional 
 Date back to the mid 1700s. The differences between thick and thin strokes are more pronounced than they are in old style serifs, but less so than in modern serifs.
+
 * Academia
 * Legal applications 
 <div class="img-examples">
@@ -40,6 +43,7 @@ Date back to the mid 1700s. The differences between thick and thin strokes are m
 
 ### Modern
 Date back to the late 1700s. Pronounced contrast between thin and thick lines, and have have a vertical stress and minimal brackets. 
+
 * Arts 
 * Cultural 
 * Modernism
@@ -51,6 +55,7 @@ Date back to the late 1700s. Pronounced contrast between thin and thick lines, a
 
 ### Slab
 Little to no contrast between thick and thin lines, and have thick, rectangular serifs, and sometimes have fixed widths. 
+
 * Marketing
 * Promotional
 <div class="img-examples">
@@ -75,6 +80,8 @@ Reserved for headlines or other short copy that needs attention drawn to it.
 Sans Serifs
 ===========
 ### Humanist
+These typefaces are calligraphic in structure, often with higher stroke contrast than other sans serifs. They have open forms that lead the eye horizontally, making them the best sans serifs for long reading and small text. 
+
 * Government
 * Financial
 * Educational 
@@ -83,7 +90,9 @@ Sans Serifs
 <a class="popup" href="images/typography/sans-humanist2.jpg"><img src="images/typography/sans-humanist2.jpg" alt=""></a>
 </div>
 
-### Transitional
+### Transitional or Grotesque
+These sans serifs don't have a strong relationship to calligraphy. Their shapes and proportions are fairly uniform, with low stroke contrast. Round shapes are more oval than circular and x-height is usually large. Often better for paragraphs than geometrics, but not as good as humanists.
+
 * Technology 
 * Transportation
 <div class="img-examples">
@@ -92,6 +101,7 @@ Sans Serifs
 
 ### Geometric
 These sans serifs are constructed of straight, monolinear lines and circular or square shapes. This can make them very cold and clinical, but also quite simple. The starkness of most geometric sans serifs makes for great headings, but they are usually less than ideal for long paragraphs.
+
 * Science
 * Architecture 
 * Usually not ideal for body copy
@@ -126,6 +136,7 @@ Headings
 <div class="img-examples">
 <a class="popup" href="images/typography/small-heading1.png"><img src="images/typography/small-heading1.png" alt=""></a>
 <a class="popup" href="images/typography/small-heading2.png"><img src="images/typography/small-heading2.png" alt=""></a>
+<a class="popup" href="images/typography/small-heading3.png"><img src="images/typography/small-heading3.png" alt=""></a>
 </div>
 
 * Small heading **inside of a block**. Can be color coded. Also called "cameo".
