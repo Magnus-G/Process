@@ -537,10 +537,6 @@ body {
         color: white;
         font-size: 0.9em; }
 
-.addition {
-  background-color: teal;
-  width: 400px; }
-
 a.invisible {
   cursor: pointer !important;
   float: right;
