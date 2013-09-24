@@ -147,6 +147,7 @@ Pairings
 <a class="popup" href="images/typography/pairing2.png"><img src="images/typography/pairing2.png" alt=""></a>
 <a class="popup" href="images/typography/pairing3.png"><img src="images/typography/pairing3.png" alt=""></a>
 <a class="popup" href="images/typography/pairing4.png"><img src="images/typography/pairing4.png" alt=""></a>
+<a class="popup" href="images/typography/pairing5.png"><img src="images/typography/pairing5.png" alt=""></a>
 </div>
 
 
