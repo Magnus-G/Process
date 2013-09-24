@@ -166,6 +166,7 @@ Getting on the same page as the client, learning about end users, understanding 
 * **Content of map**: How it could be. Next to original story, plot out ideas for how it could be.
 * **Content of map**: Questions a user might have at a certain point. “Can I trust this retailer?” or “When will my stuff arrive?”
 * Examples of journey maps:
+
 <div class="img-examples">
 <a class="popup" href="images/research/journey-map1.jpg"><img src="images/research/journey-map1.jpg" alt=""></a>
 <a class="popup" href="images/research/journey-map2.jpg"><img src="images/research/journey-map2.jpg" alt=""></a>
@@ -191,6 +192,7 @@ Concept work for UI
 <p class="intro">
 Start working on a concept level, finding metaphors, similarities to other interfaces and systems, move quickly between concepts, don't get stuck on one solution. **Explore, don't refine**.
 <p>
+
 <div class="img-examples">
 <a class="popup" href="images/concept/refine-vs-explore.png"><img src="images/concept/refine-vs-explore.png" alt=""></a>
 </div>
@@ -217,6 +219,7 @@ Start working on a concept level, finding metaphors, similarities to other inter
 ### Sketching
 * Pen and paper: Diagrams or screenshots. Draw arrows and text showing what things are and which action leads to what.
 * Take photos of sketches and email/post them to the team for feedback.
+
 <div class="img-examples">
 <a class="popup" href="images/concept/hand-sketch1.jpg"><img src="images/concept/hand-sketch1.jpg" alt=""></a>
 <a class="popup" href="images/concept/hand-sketch2.jpg"><img src="images/concept/hand-sketch2.jpg" alt=""></a>
@@ -227,6 +230,7 @@ Start working on a concept level, finding metaphors, similarities to other inter
 ### Wireframes
 * Black and white, maybe grayscale
 * Make miniature wireframes for quick and holistic explorations that let you go through possible layout and style solutions.
+
 <div class="img-examples">
 <a class="popup" href="images/concept/mini-wireframe1.jpg"><img src="images/concept/mini-wireframe1.jpg" alt=""></a>
 <a class="popup" href="images/concept/mini-wireframe2.jpg"><img src="images/concept/mini-wireframe2.jpg" alt=""></a>
@@ -324,6 +328,7 @@ Develop the general look and feeling for the style.
 * Create a [Style Tile](http://styletil.es/) (template below) or an [Element Collage](http://danielmall.com/articles/rif-element-collages/) and communicate with clients.
 * Show a range of elements rather than a full layout to save time. Client gets a feeling for the look and feel and style, not the details or the ixd. Prevents client from focusing on the wrong things.
 * Everything will change so don't believe in there being a "final sketch" in FW/PS.
+
 <div class="img-examples">
 <a class="popup" href="images/style/style-tile.png"><img src="images/style/style-tile.png" alt=""></a>
 </div>
