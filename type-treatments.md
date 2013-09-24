@@ -61,6 +61,7 @@ Little to no contrast between thick and thin lines, and have thick, rectangular 
 
 * Marketing
 * Promotional
+* Putting two slab serifs together can create a needless and unsightly tension
 
 <div class="img-examples">
 <a class="popup" href="images/typography/serif-slab.jpg"><img src="images/typography/serif-slab.jpg" alt=""></a>
@@ -215,4 +216,5 @@ Statistics
 <h5>References</h5>
 <a href="http://design.codeschool.com/">Code School</a>
 <a href="http://www.creativebloq.com/typography/20-perfect-type-pairings-3132120">Type Pairings</a>
+<a href="http://www.smashingmagazine.com/2010/11/04/best-practices-of-combining-typefaces/">Type Pairings Smashing Magazine</a>
 </div>
