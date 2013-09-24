@@ -85,10 +85,14 @@ These sans serifs are constructed of straight, monolinear lines and circular or 
 <a class="popup" href="images/typography/sans-geometric.jpg"><img src="images/typography/sans-geometric.jpg" alt=""></a>
 </div>
 
-https://typekit.com/lists/geometric-sans-serifs
+Super Families
+============
 
-http://www.noupe.com/design/a-crash-course-in-typography-the-basics-of-type.html
-Classifications
+<div class="ref">
+<h5>References</h5>
+<a href="https://typekit.com/lists/geometric-sans-serifs">Geometric Sans</a>
+<a href="http://www.noupe.com/design/a-crash-course-in-typography-the-basics-of-type.html">Classifications</a>
+</div>
 
 Pairings
 ========
