@@ -1,25 +1,4 @@
 
-.img-examples {
-  margin-top: $indent /2;
-  background-color: #F1F1F1;
-  padding: $space $space 0 $space;
-  border-radius: $radius;
-  border: 1px solid #E4E4E4;
-  margin-bottom: $paragraph-end;
-}
-
-.popup img {
-  position: relative;
-  border-radius: $radius;
-  width: auto;
-  margin-right: 0.6em;
-  margin-bottom: 10px;
-
-  border: 3px solid white;
-  @include box-shadow;
-  height: 80px;
-}
-
 /* Magnific Popup CSS */
 .mfp-bg {
   top: 0;

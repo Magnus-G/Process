@@ -1,10 +1,63 @@
-$background-color: #F0F2F5;
-$font-color: #333;
-$font-color-secondary: #393939;
+
+@function master-color($bg-color) {
+  $mix-color: teal; // Color to mix into $bg-color if "mix" is used.
+  $mix-weight: 80%; // Percetage of main color compared to mix-color.
+  $color-lightness: lightness($bg-color); // The lightness value (0-100) for $bg-color.
+  $color-darkness: 100 - $color-lightness; // The darkness value (0-100) for $bg-color.
+ 
+// EFFECTS. Comment out any unused master effects or add new ones.
+  
+  // $bg-color: adjust-hue($bg-color, -70); // Shifts the hue. The darker it is, the more the hue will shift.
+  
+  $bg-color: grayscale($bg-color);
+  // $bg-color: mix($bg-color, $mix-color, $mix-weight);
+  // $bg-color: darken($bg-color, 10); // Lightens the color.
+  // $bg-color: desaturate($bg-color, 40); // Saturates the color.
+
+ 
+  @return $bg-color;
+} 
+ 
+@mixin master-color-invert-text($bg-color, $lightness-threshold: 50) {
+// $lightness-threshold — Threshold for when a background is too light to have light text on it.
+ 
+  $master-color: master-color($bg-color);
+  background-color: $master-color; // Applies the effects to the background.
+ 
+  $color: lighten($master-color, 70); // Makes the font-color lighter than the background by default.
+  text-shadow: 0 1px 1px darken($master-color, 20); // Adds a shadow on light fonts.   
+ 
+  @if lightness($master-color) > $lightness-threshold {
+    $color: darken($master-color, 40); // Makes the font-color dark if background is lighter than the threshold. 
+    text-shadow: 0 1px 1px lighten($master-color, 10); // Adds an inset highlight on dark fonts.  
+  }
+ 
+  color: $color; // Applies color to font.
+}
+
+@mixin box-shadow {
+  $shadow-color: master-color(rgba(0, 0, 0, 0.09));
+  box-shadow: 0px 1px 2px $shadow-color;
+}
+
+
+$top-bar-color: master-color(#222);;
+$background-color: master-color(#F0F2F5);
+$section-color: master-color(#fbfbfb);
+$ref-color: master-color(#F7F6F0);
+$nav-color: master-color(#A7B3C5);
+$images-example-color: master-color(#F1F1F1);
+$image-border: master-color(white);
+
+$font-color: master-color(#444);
+$font-color-secondary: master-color(#393939);
 $font-color-link: #3399cc;
-$ref-color: #F7F6F0;
-$nav-color: #A7B3C5;
-$contrast-color: #FF90B3;
+$font-intro-color: master-color(#D4D4D4);
+$font-color-title: master-color(white);
+
+$contrast-color-1: #FF90B3;
+$contrast-color-2: #59DFB9;
+$contrast-color-3: #F35959;
 
 $radius: 3px;
 $space: 1em;
@@ -12,41 +65,20 @@ $indent: 1.6em;
 $paragraph-end: 1.6em;
 $section-end: 4.2em;
 
-@mixin box-shadow {
-  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.09), inset 0px 0px 2px 2px rgba(255, 255, 255, 0.5), inset 0 0 5px 5px rgba(255, 255, 255, 0.4);
-}
-
-@mixin color($back-color) {
-  $mix-color: teal; // color to mix into $back-color if "mix" is used
-  $mix-weight: 95%; // percetage of main color compared to mix-color
-  $back-color-lightness: lightness($back-color); // gets the lightness value (0-100) for $back-color
-  $back-color-darkness: 100 - lightness($back-color);
-
-  // EFFECTS. Comment out unused master effects.
-  // $back-color: lighten($back-color, 30);
-  // $back-color: adjust-hue($back-color, $back-color-lightness);
-  // $back-color: saturate($back-color, $back-color-darkness); // the darker, the more saturated it will be
-  // $back-color: mix($back-color, $mix-color, $mix-weight);
-  // $back-color: grayscale($back-color);
-
-  background-color: $back-color; // Apply effects to background
-
-  // $color: lighten($back-color, 40);  // if background is dark, make font-color light
-  // text-shadow: 0 1px 1px darken($back-color, 20); // Shadow on light font   
-  // @if $back-color-lightness > 30 { 
-  //   $color: darken($back-color, 40); // if background is light, make font-color dark 
-  //   text-shadow: 0 1px 1px lighten($back-color, 10); // Inset highlight on dark font  
-  // }
-  // color: $color; // Apply colors to font
-}
 
 @import 'typography';
 @import 'magnific';
 
 ////////////////////////////////////////////////
 
+body {
+  margin: 0px;
+  padding: 0px 0 20px 0px;
+  background-color: $background-color;
+}
+
 .top-bar {
-  @include color(#222);
+  background-color: $top-bar-color;
   position: fixed;
   top: 0;
   z-index: 99;
@@ -56,11 +88,10 @@ $section-end: 4.2em;
     padding: 0.5em;
     margin: 0;
     li {
-      color: white;
       display: inline;
       padding: 0.5em;
       a {
-        color: white;
+        color: master-color(white);
       }
     }
   }
@@ -71,24 +102,6 @@ a.invisible {
   float: right;
   width: 100%;
   height: 20px;
-}
-
-.github-link {
-  cursor: pointer;
-  position: fixed;
-  top: 0;
-  right: 0;
-  width: 0;
-  height: 0;
-  border-bottom: 70px solid $background-color;
-  border-right: 70px solid darken($background-color, 5);
-  img {
-    position: absolute;
-    top: 8px;
-    left: 36px;
-    width: 25px;
-    height: auto;
-  }
 }
 
 .ref {
@@ -102,320 +115,10 @@ a.invisible {
   }
 }
 
-article,
-aside,
-details,
-figcaption,
-figure,
-footer,
-header,
-hgroup,
-nav,
-section,
-summary {
-  display: block;
-}
-
-audio,
-canvas,
-video {
-  display: inline-block;
-  *display: inline;
-  *zoom: 1;
-}
-
-
-audio:not([controls]) {
-  display: none;
-}
-
-[hidden] {
-  display: none;
-}
-
-html {
-  font-size: 100%;
-  /* 1 */
-  -webkit-text-size-adjust: 100%;
-  /* 2 */
-  -ms-text-size-adjust: 100%;
-  /* 2 */
-}
-
-html,
-button,
-input,
-select,
-textarea {
-  font-family: sans-serif;
-}
-
-body {
-  margin: 0;
-}
-
-a:focus {
-  outline: thin dotted;
-}
-
-a:hover,
-a:active {
-  outline: 0;
-}
-
-img {
-  border: 0;
-  -ms-interpolation-mode: bicubic;
-}
-
-
-svg:not(:root) {
-  overflow: hidden;
-}
-
-figure {
-  margin: 0;
-}
-
-form {
-  margin: 0;
-}
-
-fieldset {
-  border: 1px solid #c0c0c0;
-  margin: 0 2px;
-  padding: 0.35em 0.625em 0.75em;
-}
-
-legend {
-  border: 0;
-  /* 1 */
-  padding: 0;
-  white-space: normal;
-  /* 2 */
-  *margin-left: -7px;
-  /* 3 */
-}
-
-button,
-input,
-select,
-textarea {
-  font-size: 100%;
-  /* 1 */
-  margin: 0;
-  /* 2 */
-  vertical-align: baseline;
-  /* 3 */
-  *vertical-align: middle;
-  /* 3 */
-}
-
-button,
-input {
-  line-height: normal;
-  /* 1 */
-}
-
-button,
-input[type="button"],
-input[type="reset"],
-input[type="submit"] {
-  cursor: pointer;
-  /* 1 */
-  -webkit-appearance: button;
-  /* 2 */
-  *overflow: visible;
-  /* 3 */
-}
-
-/*
- * Re-set default cursor for disabled elements
- */
-button[disabled],
-input[disabled] {
-  cursor: default;
-}
-
-/*
- * 1. Addresses box sizing set to content-box in IE8/9
- * 2. Removes excess padding in IE8/9
- * 3. Removes excess padding in IE7
-      Known issue: excess padding remains in IE6
- */
-input[type="checkbox"],
-input[type="radio"] {
-  box-sizing: border-box;
-  /* 1 */
-  padding: 0;
-  /* 2 */
-  *height: 13px;
-  /* 3 */
-  *width: 13px;
-  /* 3 */
-}
-
-/*
- * 1. Addresses appearance set to searchfield in S5, Chrome
- * 2. Addresses box-sizing set to border-box in S5, Chrome (include -moz to future-proof)
- */
-input[type="search"] {
-  -webkit-appearance: textfield;
-  /* 1 */
-  -moz-box-sizing: content-box;
-  -webkit-box-sizing: content-box;
-  /* 2 */
-  box-sizing: content-box;
-}
-
-/*
- * Removes inner padding and search cancel button in S5, Chrome on OS X
- */
-input[type="search"]::-webkit-search-decoration,
-input[type="search"]::-webkit-search-cancel-button {
-  -webkit-appearance: none;
-}
-
-/*
- * Removes inner padding and border in FF3+
- * www.sitepen.com/blog/2008/05/14/the-devils-in-the-details-fixing-dojos-toolbar-buttons/
- */
-button::-moz-focus-inner,
-input::-moz-focus-inner {
-  border: 0;
-  padding: 0;
-}
-
-/*
- * 1. Removes default vertical scrollbar in IE6/7/8/9
- * 2. Improves readability and alignment in all browsers
- */
-textarea {
-  overflow: auto;
-  /* 1 */
-  vertical-align: top;
-  /* 2 */
-}
-
-/* =============================================================================
-   Tables
-   ========================================================================== */
-/*
- * Remove most spacing between table cells
- */
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
-}
-
-body {
-  margin: 0px;
-  padding: 0px 0 20px 0px;
-  background-color: $background-color;
-}
-
 .wrapper {
   width: 650px;
   margin: 0 auto;
   position: relative;
-}
-
-section img {
-  max-width: 100%;
-}
-
-blockquote {
-  border-left: 1px solid #ffcc00;
-  margin: 0;
-  padding: 0 0 0 20px;
-  font-style: italic;
-}
-
-pre {
-  padding: 8px 15px;
-  background: #333333;
-  -moz-border-radius: 3px;
-  -webkit-border-radius: 3px;
-  -o-border-radius: 3px;
-  -ms-border-radius: 3px;
-  -khtml-border-radius: 3px;
-  border-radius: 3px;
-  border: 1px solid #c7c7c7;
-  overflow: auto;
-  overflow-y: hidden;
-}
-pre code {
-  margin: 0px;
-  padding: 0px;
-}
-
-table {
-  width: 100%;
-  border-collapse: collapse;
-}
-
-th {
-  text-align: left;
-  padding: 5px 10px;
-  border-bottom: 1px solid #e5e5e5;
-  color: #444;
-}
-
-td {
-  text-align: left;
-  padding: 5px 10px;
-  border-bottom: 1px solid #e5e5e5;
-  border-right: 1px solid #ffcc00;
-}
-td:first-child {
-  border-left: 1px solid #ffcc00;
-}
-
-hr {
-  border: 0;
-  outline: none;
-  height: 11px;
-  margin: 0 0 20px;
-}
-
-dt {
-  color: #444;
-  font-weight: 700;
-}
-
-header {
-  padding: 25px 20px 40px 20px;
-  margin: 0;
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  width: 100%;
-  text-align: center;
-  background: url(../images/background.png) #4276b6;
-  -moz-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
-  -webkit-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
-  -o-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
-  box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
-  z-index: 99;
-  -webkit-font-smoothing: antialiased;
-  min-height: 76px;
-}
-header h1 {
-  color: #f3f3f3;
-  text-shadow: 0px 2px 0px #235796;
-  margin: 0px;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  -o-text-overflow: ellipsis;
-  -ms-text-overflow: ellipsis;
-}
-header p {
-  color: #d8d8d8;
-  text-shadow: rgba(0, 0, 0, 0.2) 0 1px 0;
-  font-size: 18px;
-  margin: 0px;
 }
 
 section {
@@ -424,19 +127,13 @@ section {
   margin: 20px 0;
   margin-top: 70px;
   position: relative;
-  background: #fbfbfb;
-  -moz-border-radius: 3px;
-  -webkit-border-radius: 3px;
-  -o-border-radius: 3px;
-  -ms-border-radius: 3px;
-  -khtml-border-radius: 3px;
+  background: $section-color;
   border-radius: 3px;
-  // border: 1px solid #cbcbcb;
   @include box-shadow;
 }
 
-small {
-  font-size: 12px;
+section img {
+  max-width: 100%;
 }
 
 nav {
@@ -446,56 +143,59 @@ nav {
   left: 50%;
   margin-left: -580px;
   text-align: right;
-}
-nav ul {
-  list-style: none;
-  list-style-image: none;
-  font-size: 14px;
-  line-height: 24px;
-}
-nav ul li {
-  padding: 5px 0px;
-  line-height: 16px;
-}
-
-nav ul li.tag-h1 a {
-  color: desaturate(lighten($font-color-link, 20), 5);
-}
-
-nav ul li.tag-h1.active a {
-  font-weight: 700;
-  color: $font-color-link;
-}
-
-nav ul li.tag-h3.active a {
-  font-weight: 700;
-  color: $font-color-link;
-}
-
-nav ul li.tag-h1 {
-  font-size: 1.2em;
-}
-
-nav ul li.tag-h2 + .tag-h1 {
-  margin-top: 10px;
+  ul {
+    list-style: none;
+    list-style-image: none;
+    font-size: 14px;
+    line-height: 24px;
+    li {
+      padding: 5px 0px;
+      line-height: 16px;
+      &.tag-h1 a {
+        color: desaturate(lighten($font-color-link, 20), 5);
+      }
+      &.tag-h1.active a {
+        font-weight: 700;
+        color: $font-color-link;
+      }
+      &.tag-h3.active a {
+        font-weight: 700;
+        color: $font-color-link;
+      }
+      &.tag-h1 {
+        font-size: 1.2em;
+      }
+      &.tag-h2 + .tag-h1 {
+        margin-top: 10px;
+      }
+    }
+  }
 }
 
-nav ul a {
-  color: #666;
-}
-nav ul a:hover {
-  color: #999;
+
+.img-examples {
+  margin-top: $indent /2;
+  background-color: $images-example-color;
+  padding: $space $space 0 $space;
+  border-radius: $radius;
+  border: 1px solid darken($images-example-color, 5);
+  margin-bottom: $paragraph-end;
 }
 
-footer {
-  width: 180px;
-  position: fixed;
-  left: 50%;
-  margin-left: -530px;
-  bottom: 20px;
-  text-align: right;
-  line-height: 16px;
+.popup img {
+  position: relative;
+  border-radius: $radius;
+  width: auto;
+  margin-right: 0.6em;
+  margin-bottom: 10px;
+
+  border: 3px solid $image-border;
+  @include box-shadow;
+  height: 80px;
 }
+
+
+/////////////////////////////////////////
 
 @media print, screen and (max-width: 1060px) {
   div.wrapper {
@@ -529,7 +229,6 @@ footer {
   }
 
   section {
-    // border: 1px solid #e5e5e5;
     border-width: 1px 0;
     padding: 20px auto;
     margin: 20px auto 20px;
@@ -642,3 +341,189 @@ footer {
     width: auto;
   }
 }
+
+
+// nav ul a {
+//   color: #666;
+// }
+// nav ul a:hover {
+//   color: #999;
+// }
+
+// /*
+//  * Re-set default cursor for disabled elements
+//  */
+// button[disabled],
+// input[disabled] {
+//   cursor: default;
+// }
+
+// /*
+//  * 1. Addresses box sizing set to content-box in IE8/9
+//  * 2. Removes excess padding in IE8/9
+//  * 3. Removes excess padding in IE7
+//       Known issue: excess padding remains in IE6
+//  */
+// input[type="checkbox"],
+// input[type="radio"] {
+//   box-sizing: border-box;
+//   /* 1 */
+//   padding: 0;
+//   /* 2 */
+//   *height: 13px;
+//   /* 3 */
+//   *width: 13px;
+//   /* 3 */
+// }
+
+// /*
+//  * 1. Addresses appearance set to searchfield in S5, Chrome
+//  * 2. Addresses box-sizing set to border-box in S5, Chrome (include -moz to future-proof)
+//  */
+// input[type="search"] {
+//   -webkit-appearance: textfield;
+//   /* 1 */
+//   -moz-box-sizing: content-box;
+//   -webkit-box-sizing: content-box;
+//   /* 2 */
+//   box-sizing: content-box;
+// }
+
+// /*
+//  * Removes inner padding and search cancel button in S5, Chrome on OS X
+//  */
+// input[type="search"]::-webkit-search-decoration,
+// input[type="search"]::-webkit-search-cancel-button {
+//   -webkit-appearance: none;
+// }
+
+// /*
+//  * Removes inner padding and border in FF3+
+//  * www.sitepen.com/blog/2008/05/14/the-devils-in-the-details-fixing-dojos-toolbar-buttons/
+//  */
+// button::-moz-focus-inner,
+// input::-moz-focus-inner {
+//   border: 0;
+//   padding: 0;
+// }
+
+// /*
+//  * 1. Removes default vertical scrollbar in IE6/7/8/9
+//  * 2. Improves readability and alignment in all browsers
+//  */
+// textarea {
+//   overflow: auto;
+//   /* 1 */
+//   vertical-align: top;
+//   /* 2 */
+// }
+
+// /* =============================================================================
+//    Tables
+//    ========================================================================== */
+// /*
+//  * Remove most spacing between table cells
+//  */
+// table {
+//   border-collapse: collapse;
+//   border-spacing: 0;
+// }
+
+
+// blockquote {
+//   border-left: 1px solid #ffcc00;
+//   margin: 0;
+//   padding: 0 0 0 20px;
+//   font-style: italic;
+// }
+
+// pre {
+//   padding: 8px 15px;
+//   background: #333333;
+//   -moz-border-radius: 3px;
+//   -webkit-border-radius: 3px;
+//   -o-border-radius: 3px;
+//   -ms-border-radius: 3px;
+//   -khtml-border-radius: 3px;
+//   border-radius: 3px;
+//   border: 1px solid #c7c7c7;
+//   overflow: auto;
+//   overflow-y: hidden;
+// }
+// pre code {
+//   margin: 0px;
+//   padding: 0px;
+// }
+
+// table {
+//   width: 100%;
+//   border-collapse: collapse;
+// }
+
+// th {
+//   text-align: left;
+//   padding: 5px 10px;
+//   border-bottom: 1px solid #e5e5e5;
+//   color: #444;
+// }
+
+// td {
+//   text-align: left;
+//   padding: 5px 10px;
+//   border-bottom: 1px solid #e5e5e5;
+//   border-right: 1px solid #ffcc00;
+// }
+// td:first-child {
+//   border-left: 1px solid #ffcc00;
+// }
+
+// hr {
+//   border: 0;
+//   outline: none;
+//   height: 11px;
+//   margin: 0 0 20px;
+// }
+
+// dt {
+//   color: #444;
+//   font-weight: 700;
+// }
+
+// header {
+//   padding: 25px 20px 40px 20px;
+//   margin: 0;
+//   position: fixed;
+//   top: 0;
+//   left: 0;
+//   right: 0;
+//   width: 100%;
+//   text-align: center;
+//   background: url(../images/background.png) #4276b6;
+//   -moz-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
+//   -webkit-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
+//   -o-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
+//   box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
+//   z-index: 99;
+//   -webkit-font-smoothing: antialiased;
+//   min-height: 76px;
+// }
+// header h1 {
+//   color: #f3f3f3;
+//   text-shadow: 0px 2px 0px #235796;
+//   margin: 0px;
+//   white-space: nowrap;
+//   overflow: hidden;
+//   text-overflow: ellipsis;
+//   -o-text-overflow: ellipsis;
+//   -ms-text-overflow: ellipsis;
+// }
+// header p {
+//   color: #d8d8d8;
+//   text-shadow: rgba(0, 0, 0, 0.2) 0 1px 0;
+//   font-size: 18px;
+//   margin: 0px;
+// }
+
+// small {
+//   font-size: 12px;
+// }
