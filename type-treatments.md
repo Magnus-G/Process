@@ -136,6 +136,7 @@ Headings
 <div class="img-examples">
 <a class="popup" href="images/typography/small-heading1.png"><img src="images/typography/small-heading1.png" alt=""></a>
 <a class="popup" href="images/typography/small-heading2.png"><img src="images/typography/small-heading2.png" alt=""></a>
+<a class="popup" href="images/typography/small-heading3.png"><img src="images/typography/small-heading3.png" alt=""></a>
 </div>
 
 * Small heading **inside of a block**. Can be color coded. Also called "cameo".
