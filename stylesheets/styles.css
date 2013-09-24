@@ -51,7 +51,7 @@ h6 {
   margin: 2.33em 0; }
 
 p {
-  font-family: 'Roboto Slab', serif;
+  font-family: helvetica, sans-serif;
   margin: 0 0 1.6em 0; }
 
 a {
@@ -85,7 +85,7 @@ strong {
 section ul {
   list-style-image: url("../images/bullet.png"); }
 section li {
-  font-family: 'Roboto Slab', serif;
+  font-family: helvetica, sans-serif;
   font-size: 0.95em;
   line-height: 1.65em;
   color: #555555; }
