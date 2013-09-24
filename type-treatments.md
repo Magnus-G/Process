@@ -23,6 +23,7 @@ Serifs
 ======
 ### Humanist or Old Style
 Dating back to the mid 1400s. Diagonal stress (the thinnest parts of the letters appear on the angled strokes, rather than the vertical or horizontal ones).
+
 * Journalism 
 * Historical applications
 <div class="img-examples">
@@ -32,6 +33,7 @@ Dating back to the mid 1400s. Diagonal stress (the thinnest parts of the letters
 
 ### Transitional 
 Date back to the mid 1700s. The differences between thick and thin strokes are more pronounced than they are in old style serifs, but less so than in modern serifs.
+
 * Academia
 * Legal applications 
 <div class="img-examples">
@@ -41,6 +43,7 @@ Date back to the mid 1700s. The differences between thick and thin strokes are m
 
 ### Modern
 Date back to the late 1700s. Pronounced contrast between thin and thick lines, and have have a vertical stress and minimal brackets. 
+
 * Arts 
 * Cultural 
 * Modernism
@@ -52,6 +55,7 @@ Date back to the late 1700s. Pronounced contrast between thin and thick lines, a
 
 ### Slab
 Little to no contrast between thick and thin lines, and have thick, rectangular serifs, and sometimes have fixed widths. 
+
 * Marketing
 * Promotional
 <div class="img-examples">
@@ -77,6 +81,7 @@ Sans Serifs
 ===========
 ### Humanist
 These typefaces are calligraphic in structure, often with higher stroke contrast than other sans serifs. They have open forms that lead the eye horizontally, making them the best sans serifs for long reading and small text. 
+
 * Government
 * Financial
 * Educational 
@@ -87,6 +92,7 @@ These typefaces are calligraphic in structure, often with higher stroke contrast
 
 ### Transitional or Grotesque
 These sans serifs don't have a strong relationship to calligraphy. Their shapes and proportions are fairly uniform, with low stroke contrast. Round shapes are more oval than circular and x-height is usually large. Often better for paragraphs than geometrics, but not as good as humanists.
+
 * Technology 
 * Transportation
 <div class="img-examples">
@@ -95,6 +101,7 @@ These sans serifs don't have a strong relationship to calligraphy. Their shapes 
 
 ### Geometric
 These sans serifs are constructed of straight, monolinear lines and circular or square shapes. This can make them very cold and clinical, but also quite simple. The starkness of most geometric sans serifs makes for great headings, but they are usually less than ideal for long paragraphs.
+
 * Science
 * Architecture 
 * Usually not ideal for body copy
