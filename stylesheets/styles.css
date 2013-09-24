@@ -74,13 +74,13 @@ strong {
   font-style: italic;
   font-size: 0.9em;
   line-height: 1.5em;
-  border-left: 2px solid #dedede;
+  border-left: 2px solid #d5cbb0;
   padding-left: 1em;
   padding-bottom: 4px;
-  color: #c4c4c4;
+  color: #c4b58e;
   margin-bottom: 2em; }
   .intro strong {
-    color: #c4c4c4; }
+    color: #c4b58e; }
 
 section ul {
   list-style-image: url("../images/bullet.png"); }
