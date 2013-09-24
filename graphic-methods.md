@@ -9,7 +9,7 @@ layout: index
 These are tried and tested treatments and clichés for graphic elements. The focus here is not on styles or fads but on methods that are more or less "timeless".
 <p>
 
-Images and text on images
+Images and text
 =========================
 * Solid block with text on top of image for a rigid and serious layout
 
