@@ -130,7 +130,7 @@ Pairings
 * Contrast, not conflict.
 * Match x-heights.
 * Match aperture.
-* Try out the fonts with the word **Handgloves** or **Hamburgefontsiv" or **Gaboscegqtf** since they contain important characters.
+* Try out the fonts with the word **Handgloves** or **Hamburgefontsiv** or **Gaboscegqtf** since they contain important characters.
 <div class="img-examples">
 <a class="popup" href="images/typography/pairing1.png"><img src="images/typography/pairing1.png" alt=""></a>
 <a class="popup" href="images/typography/pairing2.png"><img src="images/typography/pairing2.png" alt=""></a>
