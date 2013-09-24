@@ -134,6 +134,8 @@ Pairings
 <div class="img-examples">
 <a class="popup" href="images/typography/pairing1.png"><img src="images/typography/pairing1.png" alt=""></a>
 <a class="popup" href="images/typography/pairing2.png"><img src="images/typography/pairing2.png" alt=""></a>
+<a class="popup" href="images/typography/pairing3.png"><img src="images/typography/pairing3.png" alt=""></a>
+<a class="popup" href="images/typography/pairing4.png"><img src="images/typography/pairing4.png" alt=""></a>
 </div>
 
 
