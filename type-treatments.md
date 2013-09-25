@@ -44,6 +44,7 @@ Date back to the mid 1700s. The differences between thick and thin strokes are m
 
 ### Modern
 Date back to the late 1700s. Pronounced contrast between thin and thick lines, and have have a vertical stress and minimal brackets. 
+[List of Modern Serifs, or "Didones"](https://typekit.com/lists/didones)
 
 * Arts 
 * Cultural 
@@ -100,6 +101,7 @@ These typefaces are calligraphic in structure, often with higher stroke contrast
 
 ### Transitional or Grotesque
 These sans serifs don't have a strong relationship to calligraphy. Their shapes and proportions are fairly uniform, with low stroke contrast. Round shapes are more oval than circular and x-height is usually large. Often better for paragraphs than geometrics, but not as good as humanists.
+[List of Transitional or Grotesque Sans Serifs](https://typekit.com/lists/grotesque-sans-serifs)
 
 * Technology 
 * Transportation
