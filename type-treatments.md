@@ -21,6 +21,7 @@ Serifs
 ======
 ### Humanist or Old Style
 Dating back to the mid 1400s. Diagonal stress (the thinnest parts of the letters appear on the angled strokes, rather than the vertical or horizontal ones).
+
 [List of Humanist Serifs](https://typekit.com/lists/humanist-serifs)
 
 * Journalism 
@@ -44,6 +45,7 @@ Date back to the mid 1700s. The differences between thick and thin strokes are m
 
 ### Modern
 Date back to the late 1700s. Pronounced contrast between thin and thick lines, and have have a vertical stress and minimal brackets. 
+
 [List of Modern Serifs, or "Didones"](https://typekit.com/lists/didones)
 
 * Arts 
@@ -58,6 +60,7 @@ Date back to the late 1700s. Pronounced contrast between thin and thick lines, a
 
 ### Slab
 Little to no contrast between thick and thin lines, and have thick, rectangular serifs, and sometimes have fixed widths. 
+
 [List of Slab Serifs](https://typekit.com/fonts?classification=slab-serif)
 
 * Marketing
@@ -71,6 +74,8 @@ Little to no contrast between thick and thin lines, and have thick, rectangular 
 
 ### Script
 There are two basic classifications: **formal** and **casual**. Formal scripts are often reminiscent of the handwritten letterforms common in the 17th and 18th centuries. Casual scripts more closely resemble modern handwriting.
+
+[List of Script Typefaces](https://typekit.com/fonts?classification=handmade)
 
 <div class="img-examples">
 <a class="popup" href="images/typography/script1.jpg"><img src="images/typography/script1.jpg" alt=""></a>
@@ -89,6 +94,7 @@ Sans Serifs
 ===========
 ### Humanist
 These typefaces are calligraphic in structure, often with higher stroke contrast than other sans serifs. They have open forms that lead the eye horizontally, making them the best sans serifs for long reading and small text. 
+
 [List of Humanist Sans Serifs](https://typekit.com/lists/humanist-sans-serifs)
 
 * Government
@@ -102,6 +108,7 @@ These typefaces are calligraphic in structure, often with higher stroke contrast
 
 ### Transitional or Grotesque
 These sans serifs don't have a strong relationship to calligraphy. Their shapes and proportions are fairly uniform, with low stroke contrast. Round shapes are more oval than circular and x-height is usually large. Often better for paragraphs than geometrics, but not as good as humanists.
+
 [List of Transitional or Grotesque Sans Serifs](https://typekit.com/lists/grotesque-sans-serifs)
 
 * Technology 
