@@ -2,7 +2,7 @@
 layout: index
 ---
 
-<h5 class="title type-treatments">Type Treatments</h5>
+<h1 class="title type-treatments">Type Treatments</h1>
 <a href="https://github.com/Magnus-G/Process/edit/gh-pages/type-treatments.md#fullscreen_blob_contents" class="invisible"></a>
 
 <p class="intro">
@@ -10,7 +10,7 @@ These are tried and tested styles and clichés for typography.
 <p>
 
 Selecting a Typeface
-=================
+---------------
 * Organic vs. Inorganic: Is the subject or message an organic (living, human) voice, or is it an inorganic (mechanized, mechanical) voice.
 * Is it hard, or is it soft? What is the emotion of the message? Is it angry, sad, happy, soothing, tired, bewildered?
 * Who is talking, to whom? Dream up a spokesman for the message. Would it be James Earl Jones? Barbara Walters? Walter Cronkite? Listen to voices. What typefaces do they suggest?
@@ -91,7 +91,7 @@ Reserved for headlines or other short copy that needs attention drawn to it.
 </div>
 
 Sans Serifs
-===========
+---------------
 ### Humanist
 These typefaces are calligraphic in structure, often with higher stroke contrast than other sans serifs. They have open forms that lead the eye horizontally, making them the best sans serifs for long reading and small text. 
 
@@ -130,7 +130,7 @@ These sans serifs are constructed of straight, monolinear lines and circular or 
 </div>
 
 Super Families
-============
+---------------
 * FF Dax
 * Nimbus Sans 
 * Abril 
@@ -146,7 +146,7 @@ Super Families
 </div>
 
 Pairings
-========
+---------------
 * Contrast, not conflict.
 * Match x-heights.
 * Match aperture.
@@ -164,7 +164,7 @@ Pairings
 
 
 Headings
-========
+---------------
 * **Small headings** for indicating sub categories of articles. Can be used with stripes for color coding.
 
 <div class="img-examples">
@@ -219,7 +219,7 @@ Headings
 </div>
 
 Paragraph Text
-==============
+---------------
 * **Drop caps** for traditional looking prose.
 
 <div class="img-examples">
@@ -228,7 +228,7 @@ Paragraph Text
 </div>
 
 Statistics
-==========
+---------------
 * Large stats together with icons and explanations.
 
 <div class="img-examples">
