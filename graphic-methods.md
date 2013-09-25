@@ -2,7 +2,7 @@
 layout: index
 ---
 
-<h5 class="title graphic-methods">Graphic Methods</h5>
+<h1 class="title graphic-methods">Graphic Methods</h1>
 <a href="https://github.com/Magnus-G/Process/edit/gh-pages/graphic-methods.md#fullscreen_blob_contents" class="invisible"></a>
 
 <p class="intro">
@@ -10,7 +10,7 @@ These are tried and tested treatments and clichés for graphic elements. The foc
 <p>
 
 Images and text
-=========================
+-------------
 * Solid block with text on top of image for a rigid and serious layout
 
 <div class="img-examples">
@@ -78,7 +78,7 @@ Images and text
 </div>
 
 Textures
-========
+-------------
 * Overlay semitransparent image of texture.
 
 <div class="img-examples">
@@ -89,7 +89,7 @@ Textures
 </div>
 
 Colors
-======
+-------------
 * **Light vs dark** area contrasting.
 
 <div class="img-examples">
@@ -139,7 +139,7 @@ Colors
 </div>
 
 Boxes and layouts
-=================
+-------------
 * **Overlapping elements** can disrupt a too rigid layout.
 
 <div class="img-examples">
@@ -187,7 +187,7 @@ Boxes and layouts
 </div>
 
 Details and effects
-===================
+-------------
 * Semi-transparent borders.
 
 <div class="img-examples">
@@ -211,7 +211,7 @@ Details and effects
 </div>
 
 Data
-==========
+-------------
 ### Line Graphs
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/graph1.jpg"><img src="images/gfx-examples/graph1.jpg" alt=""></a>
@@ -225,7 +225,7 @@ Data
 </div>
 
 Interfaces
-==========
+-------------
 * Interfaces that are not marketing pages.
 
 <div class="img-examples">

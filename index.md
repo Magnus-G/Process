@@ -2,11 +2,11 @@
 layout: index
 ---
 
-<h5 class="title process"> A Web Design Process</h5>
+<h1 class="title process"> A Web Design Process</h1>
 <a href="https://github.com/Magnus-G/Process/edit/gh-pages/index.md#fullscreen_blob_contents" class="invisible"></a>
 
 Project Initiation
-=============
+------------------
 <p class="intro">
 A potential client has a problem they want to solve. Before the project starts, find out about budget etc, along with the following:
 <p>
@@ -34,7 +34,7 @@ A potential client has a problem they want to solve. Before the project starts, 
 </div>
 
 Framing the problem
-===================
+------------------
 <p class="intro">
 Meet with the client, preferably in person, and interview them around the following questions.
 <p>
@@ -138,7 +138,7 @@ Meet with the client, preferably in person, and interview them around the follow
 </div>
 
 Research & Learning
-=============================
+------------------
 <p class="intro">
 Getting on the same page as the client, learning about end users, understanding the context for the product, understanding why the product is important and how it should work.
 <p>
@@ -188,7 +188,7 @@ Getting on the same page as the client, learning about end users, understanding 
 </div>
 
 Concept work for UI
-================
+------------------
 <p class="intro">
 Start working on a concept level, finding metaphors, similarities to other interfaces and systems, move quickly between concepts, don't get stuck on one solution. **Explore, don't refine**.
 <p>
@@ -277,7 +277,7 @@ Start working on a concept level, finding metaphors, similarities to other inter
 </div>
 
 Project Management
-================
+------------------
 <p class="intro">
 Use a tool like <a href="http://trello.com">Trello</a> or <a href="https://www.apptrajectory.com">Trajectory</a> to document stories on cards.
 <p>
@@ -306,7 +306,7 @@ Use a tool like <a href="http://trello.com">Trello</a> or <a href="https://www.a
 </div>
 
 General Style
-============
+------------------
 <p class="intro">
 Develop the general look and feeling for the style.
 <p>
@@ -355,5 +355,4 @@ Develop the general look and feeling for the style.
 ">Gestalt Principle</a>
 <a href="http://fadeyev.net/2013/08/14/visual-interface-design/">Three steps of successful layout</a>
 </div>
-
 
