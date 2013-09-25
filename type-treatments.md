@@ -11,13 +11,11 @@ These are tried and tested styles and clichés for typography.
 
 Selecting a Typeface
 =================
-[Source](http://www.graphic-design.com/Type/voice/index.html)
-
 * Organic vs. Inorganic: Is the subject or message an organic (living, human) voice, or is it an inorganic (mechanized, mechanical) voice.
 * Is it hard, or is it soft? What is the emotion of the message? Is it angry, sad, happy, soothing, tired, bewildered?
 * Who is talking, to whom? Dream up a spokesman for the message. Would it be James Earl Jones? Barbara Walters? Walter Cronkite? Listen to voices. What typefaces do they suggest?
 * Where or when is it? History, place, setting, atmosphere and environment all speak voices -- voices that are visually inherent in typefaces. 
-* What is its posture? What is the attitude? If a face hasn't suggested itself to you yet, perhaps its posture will. Is it running fast? Is it slumping? Is it standing erect at attention? Is it sensually reclined? 
+* What is its posture? What is the attitude? If a face hasn't suggested itself to you yet, perhaps its posture will. Is it running fast? Is it slumping? Is it standing erect at attention? Is it sensually reclined? [Source](http://www.graphic-design.com/Type/voice/index.html)
 
 Serifs
 ======
