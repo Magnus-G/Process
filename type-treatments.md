@@ -22,6 +22,8 @@ Serifs
 ### Humanist or Old Style
 Dating back to the mid 1400s. Diagonal stress (the thinnest parts of the letters appear on the angled strokes, rather than the vertical or horizontal ones).
 
+[List of Humanist Serifs](https://typekit.com/lists/humanist-serifs)
+
 * Journalism 
 * Historical applications
 
@@ -44,6 +46,8 @@ Date back to the mid 1700s. The differences between thick and thin strokes are m
 ### Modern
 Date back to the late 1700s. Pronounced contrast between thin and thick lines, and have have a vertical stress and minimal brackets. 
 
+[List of Modern Serifs, or "Didones"](https://typekit.com/lists/didones)
+
 * Arts 
 * Cultural 
 * Modernism
@@ -57,6 +61,8 @@ Date back to the late 1700s. Pronounced contrast between thin and thick lines, a
 ### Slab
 Little to no contrast between thick and thin lines, and have thick, rectangular serifs, and sometimes have fixed widths. 
 
+[List of Slab Serifs](https://typekit.com/fonts?classification=slab-serif)
+
 * Marketing
 * Promotional
 * Putting two slab serifs together can create a needless and unsightly tension
@@ -68,6 +74,8 @@ Little to no contrast between thick and thin lines, and have thick, rectangular 
 
 ### Script
 There are two basic classifications: **formal** and **casual**. Formal scripts are often reminiscent of the handwritten letterforms common in the 17th and 18th centuries. Casual scripts more closely resemble modern handwriting.
+
+[List of Script Typefaces](https://typekit.com/fonts?classification=handmade)
 
 <div class="img-examples">
 <a class="popup" href="images/typography/script1.jpg"><img src="images/typography/script1.jpg" alt=""></a>
@@ -87,6 +95,8 @@ Sans Serifs
 ### Humanist
 These typefaces are calligraphic in structure, often with higher stroke contrast than other sans serifs. They have open forms that lead the eye horizontally, making them the best sans serifs for long reading and small text. 
 
+[List of Humanist Sans Serifs](https://typekit.com/lists/humanist-sans-serifs)
+
 * Government
 * Financial
 * Educational 
@@ -98,6 +108,8 @@ These typefaces are calligraphic in structure, often with higher stroke contrast
 
 ### Transitional or Grotesque
 These sans serifs don't have a strong relationship to calligraphy. Their shapes and proportions are fairly uniform, with low stroke contrast. Round shapes are more oval than circular and x-height is usually large. Often better for paragraphs than geometrics, but not as good as humanists.
+
+[List of Transitional or Grotesque Sans Serifs](https://typekit.com/lists/grotesque-sans-serifs)
 
 * Technology 
 * Transportation
@@ -140,6 +152,7 @@ Pairings
 * Match aperture.
 * Try out the fonts with the word **Handgloves** or **Hamburgefontsiv** or **Gaboscegqtf** since they contain important characters.
 * When pairing serif with sans serif, a good bet it to use **humanist serif with humanist sans**, **transitional serif with transitional sans** etc.
+* Use [Typecast](http://typecast.com) to try out pairings.
 
 <div class="img-examples">
 <a class="popup" href="images/typography/pairing1.png"><img src="images/typography/pairing1.png" alt=""></a>
@@ -193,6 +206,16 @@ Headings
 
 <div class="img-examples">
 <a class="popup" href="images/typography/multiple-headings1.png"><img src="images/typography/multiple-headings1.png" alt=""></a>
+</div>
+
+* Subheadings
+<div class="img-examples">
+<a class="popup" href="images/typography/subhead1.jpg"><img src="images/typography/subhead1.jpg" alt=""></a>
+<a class="popup" href="images/typography/subhead2.jpg"><img src="images/typography/subhead2.jpg" alt=""></a>
+<a class="popup" href="images/typography/subhead3.jpg"><img src="images/typography/subhead3.jpg" alt=""></a>
+<a class="popup" href="images/typography/subhead4.jpg"><img src="images/typography/subhead4.jpg" alt=""></a>
+<a class="popup" href="images/typography/subhead5.jpg"><img src="images/typography/subhead5.jpg" alt=""></a>
+<a class="popup" href="images/typography/running-in-subhead.jpg"><img src="images/typography/running-in-subhead.jpg" alt=""></a>
 </div>
 
 Paragraph Text
