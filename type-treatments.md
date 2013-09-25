@@ -152,6 +152,7 @@ Pairings
 * Match aperture.
 * Try out the fonts with the word **Handgloves** or **Hamburgefontsiv** or **Gaboscegqtf** since they contain important characters.
 * When pairing serif with sans serif, a good bet it to use **humanist serif with humanist sans**, **transitional serif with transitional sans** etc.
+* Use [Typecast](http://typecast.com) to try out pairings.
 
 <div class="img-examples">
 <a class="popup" href="images/typography/pairing1.png"><img src="images/typography/pairing1.png" alt=""></a>
