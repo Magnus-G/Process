@@ -21,11 +21,10 @@ Serifs
 ======
 ### Humanist or Old Style
 Dating back to the mid 1400s. Diagonal stress (the thinnest parts of the letters appear on the angled strokes, rather than the vertical or horizontal ones).
+[List of Humanist Serifs](https://typekit.com/lists/humanist-serifs)
 
 * Journalism 
 * Historical applications
-
-[List of Humanist Serifs](https://typekit.com/lists/humanist-serifs)
 
 <div class="img-examples">
 <a class="popup" href="images/typography/serif-humanist.jpg"><img src="images/typography/serif-humanist.jpg" alt=""></a>
