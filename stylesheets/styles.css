@@ -52,6 +52,9 @@ h6 {
 
 p {
   font-family: helvetica, sans-serif;
+  font-size: 0.95em;
+  line-height: 1.65em;
+  color: #555555;
   margin: 0 0 1.6em 0; }
 
 a {

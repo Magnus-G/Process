@@ -65,7 +65,10 @@ h6 {
 
 p {
   // font-family: 'Roboto Slab', serif;
-  font-family: helvetica, sans-serif;
+  font-family: helvetica, sans-serif; 
+  font-size: 0.95em; //roboto
+  line-height: 1.65em; //roboto
+  color: $font-color;
   margin: 0 0 $paragraph-end 0;
 }
 
