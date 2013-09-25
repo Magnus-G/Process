@@ -25,6 +25,8 @@ Dating back to the mid 1400s. Diagonal stress (the thinnest parts of the letters
 * Journalism 
 * Historical applications
 
+[List of Humanist Serifs](https://typekit.com/lists/humanist-serifs)
+
 <div class="img-examples">
 <a class="popup" href="images/typography/serif-humanist.jpg"><img src="images/typography/serif-humanist.jpg" alt=""></a>
 <a class="popup" href="images/typography/serif-humanist2.jpg"><img src="images/typography/serif-humanist2.jpg" alt=""></a>
