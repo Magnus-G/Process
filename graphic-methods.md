@@ -220,6 +220,8 @@ Data
 <a class="popup" href="images/gfx-examples/graph4.png"><img src="images/gfx-examples/graph4.png" alt=""></a>
 <a class="popup" href="images/gfx-examples/graph5.png"><img src="images/gfx-examples/graph5.png" alt=""></a>
 <a class="popup" href="images/gfx-examples/graph6.png"><img src="images/gfx-examples/graph6.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/graph7.png"><img src="images/gfx-examples/graph7.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/graph8.png"><img src="images/gfx-examples/graph8.png" alt=""></a>
 </div>
 
 Interfaces
