@@ -212,12 +212,14 @@ Details and effects
 
 Data
 ==========
+### Line Graphs
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/graph1.jpg"><img src="images/gfx-examples/graph1.jpg" alt=""></a>
 <a class="popup" href="images/gfx-examples/graph2.jpg"><img src="images/gfx-examples/graph2.jpg" alt=""></a>
 <a class="popup" href="images/gfx-examples/graph3.jpg"><img src="images/gfx-examples/graph3.jpg" alt=""></a>
 <a class="popup" href="images/gfx-examples/graph4.png"><img src="images/gfx-examples/graph4.png" alt=""></a>
 <a class="popup" href="images/gfx-examples/graph5.png"><img src="images/gfx-examples/graph5.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/graph6.png"><img src="images/gfx-examples/graph6.png" alt=""></a>
 </div>
 
 Interfaces
