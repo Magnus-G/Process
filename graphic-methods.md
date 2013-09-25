@@ -168,6 +168,7 @@ Boxes and layouts
 <a class="popup" href="images/gfx-examples/borders1.jpg"><img src="images/gfx-examples/borders1.jpg" alt=""></a>
 <a class="popup" href="images/gfx-examples/borders2.jpg"><img src="images/gfx-examples/borders2.jpg" alt=""></a>
 <a class="popup" href="images/gfx-examples/borders3.jpg"><img src="images/gfx-examples/borders3.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/borders4.jpg"><img src="images/gfx-examples/borders4.jpg" alt=""></a>
 </div>
 
 * Contrast 2D elements with 3D elements.
@@ -207,6 +208,20 @@ Details and effects
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/overprint.jpg"><img src="images/gfx-examples/overprint.jpg" alt=""></a>
 <a class="popup" href="images/gfx-examples/overprint2.jpg"><img src="images/gfx-examples/overprint2.jpg" alt=""></a>
+</div>
+
+Data
+==========
+### Line Graphs
+<div class="img-examples">
+<a class="popup" href="images/gfx-examples/graph1.jpg"><img src="images/gfx-examples/graph1.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/graph2.jpg"><img src="images/gfx-examples/graph2.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/graph3.jpg"><img src="images/gfx-examples/graph3.jpg" alt=""></a>
+<a class="popup" href="images/gfx-examples/graph4.png"><img src="images/gfx-examples/graph4.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/graph5.png"><img src="images/gfx-examples/graph5.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/graph6.png"><img src="images/gfx-examples/graph6.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/graph7.png"><img src="images/gfx-examples/graph7.png" alt=""></a>
+<a class="popup" href="images/gfx-examples/graph8.png"><img src="images/gfx-examples/graph8.png" alt=""></a>
 </div>
 
 Interfaces
