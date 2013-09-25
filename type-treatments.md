@@ -58,6 +58,7 @@ Date back to the late 1700s. Pronounced contrast between thin and thick lines, a
 
 ### Slab
 Little to no contrast between thick and thin lines, and have thick, rectangular serifs, and sometimes have fixed widths. 
+[List of Slab Serifs](https://typekit.com/fonts?classification=slab-serif)
 
 * Marketing
 * Promotional
