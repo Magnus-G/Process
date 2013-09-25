@@ -18,7 +18,7 @@ Selecting a Typeface
 * What is its posture? What is the attitude? If a face hasn't suggested itself to you yet, perhaps its posture will. Is it running fast? Is it slumping? Is it standing erect at attention? Is it sensually reclined? [Source](http://www.graphic-design.com/Type/voice/index.html)
 
 Serifs
-======
+-------
 ### Humanist or Old Style
 Dating back to the mid 1400s. Diagonal stress (the thinnest parts of the letters appear on the angled strokes, rather than the vertical or horizontal ones).
 
