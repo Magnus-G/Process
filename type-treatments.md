@@ -87,6 +87,7 @@ Sans Serifs
 ===========
 ### Humanist
 These typefaces are calligraphic in structure, often with higher stroke contrast than other sans serifs. They have open forms that lead the eye horizontally, making them the best sans serifs for long reading and small text. 
+[List of Humanist Sans Serifs](https://typekit.com/lists/humanist-sans-serifs)
 
 * Government
 * Financial
