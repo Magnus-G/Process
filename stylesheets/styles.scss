@@ -34,7 +34,7 @@
 
 
 @mixin box-shadow {
-  $shadow-color: master-color(rgba(0, 0, 0, 0.09));
+  $shadow-color: master-color(black);
   box-shadow: 0px 1px 2px $shadow-color;
 }
 
@@ -114,7 +114,6 @@ a.invisible {
 .ref {
   margin: 0 0 $section-end 0;
   background-color: $ref-color;
-  // border: 1px solid darken($ref-color, 10);
   padding: $space;
   border-radius: $radius;
   a {
@@ -132,14 +131,11 @@ a.invisible {
 
 section {
   width: 650px;
-  // width: 538px;
   padding: 2.6em;
   margin: 20px 0;
   margin-top: 70px;
   position: relative;
-  // background: $section-color;
   border-radius: 3px;
-  // @include box-shadow;
 }
 
 section img {
@@ -159,9 +155,8 @@ nav {
 .img-examples {
   margin-top: $indent /2;
   background-color: $images-example-color;
-  padding: $space $space 0 $space;
-  border-radius: $radius;
-  // border: 1px solid darken($images-example-color, 5);
+  padding: 14px 14px 0 14px;
+  border-radius: 8px;
   margin-bottom: $paragraph-end;
 }
 
@@ -172,7 +167,7 @@ nav {
   margin-right: 0.6em;
   margin-bottom: 10px;
 
-  border: 3px solid $image-border;
+  // border: 3px solid $image-border;
   @include box-shadow;
   height: 90px;
 }

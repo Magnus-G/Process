@@ -585,8 +585,8 @@ nav {
 .img-examples {
   margin-top: 0.8em;
   background-color: #dadada;
-  padding: 30px 30px 0 30px;
-  border-radius: 3px;
+  padding: 14px 14px 0 14px;
+  border-radius: 8px;
   margin-bottom: 1.6em; }
 
 .popup img {
@@ -595,8 +595,7 @@ nav {
   width: auto;
   margin-right: 0.6em;
   margin-bottom: 10px;
-  border: 3px solid #fdf3ef;
-  box-shadow: 0px 1px 2px rgba(137, 56, 19, 0.1537);
+  box-shadow: 0px 1px 2px #0f0602;
   height: 90px; }
 
 @media print, screen and (max-width: 1060px) {
