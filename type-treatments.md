@@ -208,6 +208,16 @@ Headings
 <a class="popup" href="images/typography/multiple-headings1.png"><img src="images/typography/multiple-headings1.png" alt=""></a>
 </div>
 
+* Subheadings
+<div class="img-examples">
+<a class="popup" href="images/typography/subhead1.jpg"><img src="images/typography/subhead1.jpg" alt=""></a>
+<a class="popup" href="images/typography/subhead2.jpg"><img src="images/typography/subhead2.jpg" alt=""></a>
+<a class="popup" href="images/typography/subhead3.jpg"><img src="images/typography/subhead3.jpg" alt=""></a>
+<a class="popup" href="images/typography/subhead4.jpg"><img src="images/typography/subhead4.jpg" alt=""></a>
+<a class="popup" href="images/typography/subhead5.jpg"><img src="images/typography/subhead5.jpg" alt=""></a>
+<a class="popup" href="images/typography/running-in-subhead.jpg"><img src="images/typography/running-in-subhead.jpg" alt=""></a>
+</div>
+
 Paragraph Text
 ==============
 * **Drop caps** for traditional looking prose.
