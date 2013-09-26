@@ -7,7 +7,6 @@ layout: index
 
 Images and text
 -------------
-
 <p class="intro">
 These are tried and tested treatments and clichés for graphic elements. The focus here is not on styles or fads but on methods that are more or less "timeless".
 <p>
