@@ -1,0 +1,70 @@
+
+@mixin pattern($bg-color, $pattern-color, $pattern-number) {
+  @if $pattern-number == 20 { // dotted
+    background: radial-gradient($pattern-color 15%, transparent 16%) 0 0;
+    background-size: 10px 10px;
+  }
+
+  @if $pattern-number == 21 { // lines horizontally
+    background: linear-gradient($pattern-color 10%, transparent 20%);
+    background-size: 4px 4px;
+  }
+
+  @if $pattern-number == 22 { // diagonal 
+    background: repeating-linear-gradient(45deg, white, white 5px, black 5px, black 80px);
+    min-height: 100%;
+  }
+
+  @if $pattern-number == 23 { // lines vertically
+    background: linear-gradient(90deg, $pattern-color 10%, transparent 20%);
+    background-size: 4px 4px;
+  }
+
+  // super light
+
+  @if $pattern-number == 3 {
+    background: url("../images/patterns/tweed_light.png");  
+  }
+
+  // light
+
+  @if $pattern-number == 4 {
+    background: url("../images/patterns/tweed.png");  
+  }
+
+  @if $pattern-number == 5 {
+    background: url("../images/patterns/binding_light.png");  
+  }
+
+  @if $pattern-number == 6 {
+    background: url("../images/patterns/cream_pixels.png");  
+  }
+
+  @if $pattern-number == 7 {
+    background: url("../images/patterns/dust.png");  
+  }
+
+  @if $pattern-number == 8 {
+    background: url("../images/patterns/mooning.png");  
+  }
+
+  @if $pattern-number == 9 {
+    background: url("../images/patterns/rice_paper.png");  
+  }
+
+  // dark
+
+  @if $pattern-number == 10 {
+    background: url("../images/patterns/binding_dark.png");  
+  }
+
+  @if $pattern-number == 11 {
+    background: url("../images/patterns/debut_dark.png");  
+  }
+
+  @if $pattern-number == 12 {
+    background: url("../images/patterns/grey_wash.png");  
+  }
+
+  background-color: $bg-color;
+}

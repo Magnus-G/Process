@@ -32,12 +32,14 @@
   color: $color; // Applies color to font.
 }
 
+//////////////////////////////////////////////////////////////////////////////
 
 @mixin box-shadow {
   $shadow-color: master-color(black);
   box-shadow: 0px 1px 2px $shadow-color;
 }
 
+//////////////////////////////////////////////////////////////////////////////
 
 $top-bar-color: master-color(#444);;
 $background-color: master-color(#F0F2F5);
@@ -73,16 +75,20 @@ $sans: "Open Sans", helvetica, sans-serif;
 
 @import 'typography';
 @import 'magnific';
+@import 'patterns';
+@import 'animations';
 
 ////////////////////////////////////////////////
 
 body {
   margin: 0px;
-  padding: 0px 0 20px 0px;
+  padding: 1px 0 20px 0px; // 1px for the pattern to work??
   background-color: $background-color;
+  // @include pattern($background-color, black, 10);
 }
 
 .top-bar {
+  // @include pattern($top-bar-color, darken($top-bar-color, 5), 4);
   background-color: $top-bar-color;
   position: fixed;
   top: 0;
@@ -113,7 +119,7 @@ a.invisible {
 
 .ref {
   margin: 0 0 $section-end 0;
-  background-color: $ref-color;
+  @include pattern($ref-color, darken($ref-color, 5), 21);
   padding: 20px;
 
   h5 {
