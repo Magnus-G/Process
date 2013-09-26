@@ -166,6 +166,7 @@ Getting on the same page as the client, learning about end users, understanding 
 * **Content of map**: Original user story: Along the timeline, plot out how the system works today.
 * **Content of map**: How it could be. Next to original story, plot out ideas for how it could be.
 * **Content of map**: Questions a user might have at a certain point. “Can I trust this retailer?” or “When will my stuff arrive?”
+* Try using something like [Trello](http://trello.com) when sharing journey maps with long-distance team members.
 * Examples of journey maps:
 
 <div class="img-examples">
