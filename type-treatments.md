@@ -7,7 +7,6 @@ layout: index
 
 Selecting a Typeface
 ---------------
-
 <p class="intro">
 These are tried and tested styles and clichés for typography.
 <p>
