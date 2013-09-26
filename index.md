@@ -31,6 +31,7 @@ A potential client has a problem they want to solve. Before the project starts, 
 <h5>References</h5>
 <a href="http://www.elezea.com/2013/05/one-ux-deliverable/">Unique Selling Points and more</a>
 <a href="http://headscape.co.uk/kickoff/">Checklist from Headscape</a>
+<a href="https://aycl.uie.com/virtual_seminars/watch/research_and_design_for_the_ux_team_of_one">UX Process by Leah Buley</a>
 </div>
 
 Framing the problem
