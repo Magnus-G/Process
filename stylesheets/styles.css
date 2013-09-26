@@ -550,13 +550,15 @@ a.invisible {
 
 .ref {
   margin: 0 0 3.2em 0;
-  background-color: #f6efeb;
-  padding: 30px;
-  border-radius: 3px; }
+  background-color: #484848;
+  padding: 20px; }
+  .ref h5 {
+    color: white; }
   .ref a {
     display: block;
     font-family: "Roboto Slab", helvetica, serif;
-    line-height: 1.5em; }
+    line-height: 1.5em;
+    color: #71C4EE; }
 
 .wrapper {
   width: 650px;

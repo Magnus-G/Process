@@ -42,7 +42,7 @@
 $top-bar-color: master-color(#444);;
 $background-color: master-color(#F0F2F5);
 $section-color: master-color(#fbfbfb);
-$ref-color: master-color(#FAFAFA);
+$ref-color: $top-bar-color;
 $nav-color: master-color(#A7B3C5);
 $images-example-color: master-color(#E1E1E1);
 $image-border: master-color(white);
@@ -114,12 +114,16 @@ a.invisible {
 .ref {
   margin: 0 0 $section-end 0;
   background-color: $ref-color;
-  padding: $space;
-  border-radius: $radius;
+  padding: 20px;
+  
+  h5 {
+    color: white;
+  }
   a {
     display: block;
     font-family: $slab;
     line-height: 1.5em;
+    color: #71C4EE;
   }
 }
 
