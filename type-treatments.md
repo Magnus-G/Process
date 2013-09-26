@@ -16,6 +16,8 @@ Selecting a Typeface
 * Who is talking, to whom? Dream up a spokesman for the message. Would it be James Earl Jones? Barbara Walters? Walter Cronkite? Listen to voices. What typefaces do they suggest?
 * Where or when is it? History, place, setting, atmosphere and environment all speak voices -- voices that are visually inherent in typefaces. 
 * What is its posture? What is the attitude? If a face hasn't suggested itself to you yet, perhaps its posture will. Is it running fast? Is it slumping? Is it standing erect at attention? Is it sensually reclined? [Source](http://www.graphic-design.com/Type/voice/index.html)
+* Start with the body text font. 
+* Check to see if it handles the Il1 test --- the uppercase letter "i", the lowercase "L" and "1" should be discernible.
 
 Serifs
 -------
@@ -240,4 +242,5 @@ Statistics
 <a href="http://design.codeschool.com/">Code School</a>
 <a href="http://www.creativebloq.com/typography/20-perfect-type-pairings-3132120">Type Pairings</a>
 <a href="http://www.smashingmagazine.com/2010/11/04/best-practices-of-combining-typefaces/">Type Pairings Smashing Magazine</a>
+<a href="http://jessicahische.is/talkingtype">Selecting Typefaces by Jessica Hische</a>
 </div>
