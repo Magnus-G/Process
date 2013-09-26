@@ -2,15 +2,16 @@
 layout: index
 ---
 
-<h1 class="title graphic-methods">Graphic Methods</h1>
+<h1 class="title graphic-methods stretchRight">Graphic Methods</h1>
 <a href="https://github.com/Magnus-G/Process/edit/gh-pages/graphic-methods.md#fullscreen_blob_contents" class="invisible"></a>
+
+Images and text
+-------------
 
 <p class="intro">
 These are tried and tested treatments and clichés for graphic elements. The focus here is not on styles or fads but on methods that are more or less "timeless".
 <p>
 
-Images and text
--------------
 * Solid block with text on top of image for a rigid and serious layout
 
 <div class="img-examples">
