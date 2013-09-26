@@ -5,6 +5,11 @@ body {
   font-family: HelveticaNeueETW01-55Rg;
 }
 
+h1, h2, h3, h4, h5, h6, p {
+  margin: 0;
+  line-height: 1.2em;
+}
+
 nav {
   ul {
     list-style: none;
@@ -95,8 +100,7 @@ h1 {
   text-transform: uppercase;
   font-size: 14px;  
   display: inline-block;
-  padding: 0 8px;
-  margin-bottom: 0px;
+  padding: 5px 8px;
   font-style: normal;
   font-weight: 700;
   font-family: $slab;
@@ -117,7 +121,7 @@ h2 {
   font-weight: 400;
   font-family: $heading;
   font-size: 47px;
-  margin-bottom: 33px;
+  margin-bottom: 15px;
 }
 
 
@@ -148,159 +152,3 @@ h5 {
   margin: 0;
 }
 
-
-
-
-
-// body {
-//   font-family: $slab;
-//   font-weight: 300;
-// }
-
-// h1 {
-//   color: $font-color;
-//   font-size: 1.6em;
-//   margin: 0 0 $indent /2 0;
-// }
-
-// h2 {
-//   color: $font-color-secondary;
-//   font-size: 1.5em;
-//   margin: 0.83em 0;
-// }
-
-// h3 {
-//   color: $font-color;
-//   font-size: 0.8em;
-//   text-transform: uppercase;
-//   border-bottom: 1px dashed lighten($font-color, 50);
-//   padding-bottom: $space;
-// }
-
-// h4 {
-//   color: $font-color;
-//   font-size: 1em;
-//   margin: 0 0 0.5em $space;
-// }
-
-// h5 {
-//   color: $font-color;
-//   font-size: 0.83em;
-//   text-transform: uppercase;
-//   font-weight: 700;
-//   margin: 0 0 10px 0;
-// }
-
-// h5.title {
-//   font-size: 0.83em;
-//   text-transform: uppercase;
-//   font-weight: 700;
-//   display: inline-block;
-//   color: $font-color-title;
-//   padding: 2px 8px;
-//   margin-bottom: 0;
-//   &.process {
-//     background-color: $contrast-color-1;
-//   }
-//   &.type-treatments {
-//     background-color: $contrast-color-2;
-//   }
-//   &.graphic-methods {
-//     background-color: $contrast-color-3;
-//   }
-// }
-
-// h6 {
-//   font-size: 0.75em;
-//   margin: 2.33em 0;
-// }
-
-// /////////////////////////////
-
-// p {
-//   // font-family: 'Roboto Slab', serif;
-//   font-family: $sans;
-//   font-size: 0.95em; //roboto
-//   line-height: 1.65em; //roboto
-//   color: $font-color;
-//   margin: 0 0 $paragraph-end 0;
-// }
-
-// a {
-//   color: $font-color-link;
-//   font-weight: 400;
-//   text-decoration: none;
-// }
-
-// a small {
-//   font-size: 11px;
-//   color: #666;
-//   margin-top: -0.6em;
-//   display: block;
-// }
-
-// strong {
-//   font-weight: 500;
-//   color: darken($font-color, 10);
-// }
-
-// .intro {
-//   font-family: $serif;
-//   font-style: italic;
-//   font-size: 0.9em;
-//   line-height: 1.5em;
-//   border-left: 2px solid lighten($font-intro-color, 10);
-//   padding-left: $space;
-//   padding-bottom: 4px;
-//   color: $font-intro-color;
-//   margin-bottom: 2em;
-//   strong {
-//     color: $font-intro-color;
-//   }
-// }
-
-// ///////////////////////////////////////////////////////////////////////////
-// //
-// // Lists in main section
-// //
-// ///////////////////////////////////////////////////////////////////////////
-
-// section {
-//   ul {
-//     list-style-image: url("../images/bullet.png");
-//     // list-style-type: circle;
-//   }
-
-//   li {
-//     // font-family: 'Roboto Slab', serif;
-//     font-family: $sans;
-//     font-size: 0.95em; //roboto
-//     line-height: 1.65em; //roboto
-//     color: $font-color;
-//   }
-
-//   dl,
-//   menu,
-//   ol,
-//   ul {
-//     margin: 0;
-//   }
-
-//   dd {
-//     margin: 0 0 0 40px;
-//   }
-
-//   menu,
-//   ol,
-//   ul {
-//     margin-bottom: $paragraph-end;
-//     padding-left: $paragraph-end;
-//     margin-right: $paragraph-end;
-//   }
-
-//   nav ul,
-//   nav ol {
-//     list-style: none;
-//     list-style-image: none;
-//   }
-// }
