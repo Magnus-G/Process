@@ -213,7 +213,6 @@ Headings
 * Subheadings
 <div class="img-examples">
 <a class="popup" href="images/typography/subhead1.jpg"><img src="images/typography/subhead1.jpg" alt=""></a>
-<a class="popup" href="images/typography/subhead2.jpg"><img src="images/typography/subhead2.jpg" alt=""></a>
 <a class="popup" href="images/typography/subhead3.jpg"><img src="images/typography/subhead3.jpg" alt=""></a>
 <a class="popup" href="images/typography/subhead4.jpg"><img src="images/typography/subhead4.jpg" alt=""></a>
 <a class="popup" href="images/typography/subhead5.jpg"><img src="images/typography/subhead5.jpg" alt=""></a>
