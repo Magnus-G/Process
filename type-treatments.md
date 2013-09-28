@@ -211,6 +211,7 @@ Headings
 </div>
 
 * Subheadings
+
 <div class="img-examples">
 <a class="popup" href="images/typography/subhead1.jpg"><img src="images/typography/subhead1.jpg" alt=""></a>
 <a class="popup" href="images/typography/subhead3.jpg"><img src="images/typography/subhead3.jpg" alt=""></a>
