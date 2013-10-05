@@ -243,4 +243,5 @@ Statistics
 <a href="http://www.creativebloq.com/typography/20-perfect-type-pairings-3132120">Type Pairings</a>
 <a href="http://www.smashingmagazine.com/2010/11/04/best-practices-of-combining-typefaces/">Type Pairings Smashing Magazine</a>
 <a href="http://jessicahische.is/talkingtype">Selecting Typefaces by Jessica Hische</a>
+<a href="http://hellohappy.org/beautiful-web-type/">Free Google fonts gallery by Chad Mazzola</a>
 </div>
