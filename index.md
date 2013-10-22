@@ -123,6 +123,7 @@ Meet with the client, preferably in person, and interview them around the follow
 * The client should work closely with the designer and developer. Answer their questions quickly to prevent road blocks.
 * Focus on problems, not solutions. If a problem is stated, the designer can suggest a solution. Everyone needs to know **why** something should change so always explain why something is bad.
 * **Never ask a client what they think of the design**. Ask them instead how they believe their users will react to the design or whether it meets their business objectives.
+* When giving or receiving feedback via email,  [think of these rules.](https://medium.com/building-potluck/be7ebb17deff)
 
 ### The framing of the problem
 * Strip down number of tasks as much as possible to focus on a minimally viable product (MVP) 
@@ -136,6 +137,7 @@ Meet with the client, preferably in person, and interview them around the follow
 <a href="http://viljamis.com/blog/2012/responsive-workflow/">Responsive Workflow</a>
 <a href="http://www.smashingmagazine.com/2011/05/06/how-to-get-sign-off-for-your-designs/
 ">The Client's Role</a>
+<a href="https://medium.com/building-potluck/be7ebb17deff">Design feedback via email</a>
 </div>
 
 Research & Learning
