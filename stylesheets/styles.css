@@ -83,6 +83,10 @@ h1 {
     background-color: #59dfb9; }
   h1.graphic-methods {
     background-color: #f35959; }
+    
+h1 > p {
+  margin-bottom: -25px;
+}    
 
 h2 {
   font-style: normal;
