@@ -3,6 +3,10 @@ body {
   line-height: 25.875px;
   color: #484848;
   font-family: HelveticaNeueETW01-55Rg; }
+  
+  .offset {
+    margin-bottom: -25px;
+  }
 
 h1, h2, h3, h4, h5, h6, p {
   margin: 0;
