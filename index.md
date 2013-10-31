@@ -215,6 +215,7 @@ Most of this material is taken from <a href="http://www.designstaff.org/articles
 
 #### What to do
 10 minute each for the following exercises. Everybody should write down "how might we..." on sticky notes and put them on a wall.
+
 * CEO gives a talk on the market and the business opportunity.
 * Competitor's products or similar products walkthrough.
 * Walkthrough of existing product or potential user journey.
@@ -222,7 +223,7 @@ Most of this material is taken from <a href="http://www.designstaff.org/articles
 * Go over existing user research.
 * Team interviews. Talk to e.g. customer service about user's problems.
 * Analytics. If there is website analytics, where do people drop off etc?
-* Draw the user journey on a whiteboard
+* Draw the user journey on a whiteboard. 
 
 ### 2. Diverge and generate ideas
 
