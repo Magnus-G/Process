@@ -861,8 +861,8 @@ fadeIn
 .fadeIn {
   animation-name: fadeIn;
   -webkit-animation-name: fadeIn;
-  animation-duration: 1s;
-  -webkit-animation-duration: 1s;
+  animation-duration: .5s;
+  -webkit-animation-duration: .5s;
   animation-timing-function: ease-in-out;
   -webkit-animation-timing-function: ease-in-out;
   visibility: visible !important; }
