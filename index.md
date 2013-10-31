@@ -9,7 +9,7 @@ Project Initiation
 ------------------
 <p class="intro">
 A potential client has a problem they want to solve. Before the project starts, find out about budget etc, along with the following:
-<p>
+</p>
 
 ### Project Overview
 
