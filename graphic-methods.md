@@ -3,7 +3,9 @@ layout: index
 ---
 
 <h1 class="title graphic-methods stretchRight">Graphic Methods</h1>
+<p class="offset">
 <a href="https://github.com/Magnus-G/Process/edit/gh-pages/graphic-methods.md#fullscreen_blob_contents" class="invisible"></a>
+</p>
 
 Images and text
 -------------
