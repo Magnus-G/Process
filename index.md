@@ -192,9 +192,10 @@ Getting on the same page as the client, learning about end users, understanding 
 </div>
 
 Design Sprint
--------------
+------------------
 <p class="intro">
-Most of this material is taken from [Design Staff's posts on the Design Sprint](http://www.designstaff.org/articles/product-design-sprint-2012-10-02.html).
+Most of this material is taken from <a href="http://www.designstaff.org/articles/product-design-sprint-2012-10-02.html
+">Design Staff's posts on the Design Sprint</a>.
 </p>
 
 ### Preparation before the sprint
