@@ -214,7 +214,7 @@ Most of this material is taken from <a href="http://www.designstaff.org/articles
 ### 1. Understand and learn
 
 #### What to do
-10 minute each for the following exercises. Everybody should write down "how might we..." on sticky notes and put them on a wall.
+10 minute each for the following exercises. Everybody should write down "how might we..." on sticky notes and put them on a wall.  
 
 * CEO gives a talk on the market and the business opportunity.
 * Competitor's products or similar products walkthrough.
