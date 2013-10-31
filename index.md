@@ -3,7 +3,9 @@ layout: index
 ---
 
 <h1 class="title process stretchRight"> A Web Design Process</h1>
+<p class="offset">
 <a href="https://github.com/Magnus-G/Process/edit/gh-pages/index.md#fullscreen_blob_contents" class="invisible"></a>
+</p>
 
 Project Initiation
 ------------------
