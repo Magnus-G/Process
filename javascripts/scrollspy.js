@@ -12,7 +12,7 @@ var PositionHighlighter = {
   closestElementToTop: function() {
     var heading;
     var headings = this.headings();
-    var offset = 81;
+    var offset = 121;
     var top = $(document).scrollTop() + offset;
     var i = headings.length;
     while (i--) {
