@@ -1,4 +1,3 @@
-
 @function master-color($bg-color, $percentage: 100) {
   $mix-color: orange; // Color to mix into $bg-color if "mix" is used.
   $mix-weight: 93%; // Percetage of main color compared to mix-color.
@@ -85,6 +84,10 @@ body {
   padding: 1px 0 20px 0px; // 1px for the pattern to work??
   background-color: $background-color;
   // @include pattern($background-color, black, 10);
+}
+
+.offset {
+  margin-bottom: -25px;
 }
 
 .top-bar {
