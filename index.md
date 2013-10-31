@@ -289,7 +289,7 @@ Most of this material is taken from <a href="http://www.designstaff.org/articles
 Concept work for UI
 ------------------
 <p class="intro">
-Start working on a concept level, finding metaphors, similarities to other interfaces and systems, move quickly between concepts, don't get stuck on one solution. **Explore, don't refine**.
+Start working on a concept level, finding metaphors, similarities to other interfaces and systems, move quickly between concepts, don't get stuck on one solution. <b>Explore, don't refine</b>.
 </p>
 
 <div class="img-examples">
