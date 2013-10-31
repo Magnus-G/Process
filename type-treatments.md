@@ -2,15 +2,16 @@
 layout: index
 ---
 
-<h1 class="title type-treatments">Type Treatments</h1>
+<h1 class="title type-treatments stretchRight">Type Treatments</h1>
 <a href="https://github.com/Magnus-G/Process/edit/gh-pages/type-treatments.md#fullscreen_blob_contents" class="invisible"></a>
 
+Selecting a Typeface
+---------------
 <p class="intro">
 These are tried and tested styles and clichés for typography.
 <p>
 
-Selecting a Typeface
----------------
+* Use [typecast](http://typecast.com) to try out typefaces and pairings.
 * Organic vs. Inorganic: Is the subject or message an organic (living, human) voice, or is it an inorganic (mechanized, mechanical) voice.
 * Is it hard, or is it soft? What is the emotion of the message? Is it angry, sad, happy, soothing, tired, bewildered?
 * Who is talking, to whom? Dream up a spokesman for the message. Would it be James Earl Jones? Barbara Walters? Walter Cronkite? Listen to voices. What typefaces do they suggest?
@@ -211,9 +212,9 @@ Headings
 </div>
 
 * Subheadings
+
 <div class="img-examples">
 <a class="popup" href="images/typography/subhead1.jpg"><img src="images/typography/subhead1.jpg" alt=""></a>
-<a class="popup" href="images/typography/subhead2.jpg"><img src="images/typography/subhead2.jpg" alt=""></a>
 <a class="popup" href="images/typography/subhead3.jpg"><img src="images/typography/subhead3.jpg" alt=""></a>
 <a class="popup" href="images/typography/subhead4.jpg"><img src="images/typography/subhead4.jpg" alt=""></a>
 <a class="popup" href="images/typography/subhead5.jpg"><img src="images/typography/subhead5.jpg" alt=""></a>
@@ -243,4 +244,5 @@ Statistics
 <a href="http://www.creativebloq.com/typography/20-perfect-type-pairings-3132120">Type Pairings</a>
 <a href="http://www.smashingmagazine.com/2010/11/04/best-practices-of-combining-typefaces/">Type Pairings Smashing Magazine</a>
 <a href="http://jessicahische.is/talkingtype">Selecting Typefaces by Jessica Hische</a>
+<a href="http://hellohappy.org/beautiful-web-type/">Free Google fonts gallery by Chad Mazzola</a>
 </div>

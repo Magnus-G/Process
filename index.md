@@ -2,7 +2,7 @@
 layout: index
 ---
 
-<h1 class="title process"> A Web Design Process</h1>
+<h1 class="title process stretchRight"> A Web Design Process</h1>
 <a href="https://github.com/Magnus-G/Process/edit/gh-pages/index.md#fullscreen_blob_contents" class="invisible"></a>
 
 Project Initiation
@@ -123,6 +123,7 @@ Meet with the client, preferably in person, and interview them around the follow
 * The client should work closely with the designer and developer. Answer their questions quickly to prevent road blocks.
 * Focus on problems, not solutions. If a problem is stated, the designer can suggest a solution. Everyone needs to know **why** something should change so always explain why something is bad.
 * **Never ask a client what they think of the design**. Ask them instead how they believe their users will react to the design or whether it meets their business objectives.
+* When giving or receiving feedback via email,  [think of these rules.](https://medium.com/building-potluck/be7ebb17deff)
 
 ### The framing of the problem
 * Strip down number of tasks as much as possible to focus on a minimally viable product (MVP) 
@@ -136,6 +137,7 @@ Meet with the client, preferably in person, and interview them around the follow
 <a href="http://viljamis.com/blog/2012/responsive-workflow/">Responsive Workflow</a>
 <a href="http://www.smashingmagazine.com/2011/05/06/how-to-get-sign-off-for-your-designs/
 ">The Client's Role</a>
+<a href="https://medium.com/building-potluck/be7ebb17deff">Design feedback via email</a>
 </div>
 
 Research & Learning
@@ -189,6 +191,99 @@ Getting on the same page as the client, learning about end users, understanding 
 ">Journey Maps</a>
 </div>
 
+Design Sprint
+-------------
+<p class="intro">
+Most of this material is taken from [Design Staff's posts on the Design Sprint](http://www.designstaff.org/articles/product-design-sprint-2012-10-02.html).
+</p>
+
+### Preparation before the sprint
+
+#### Tools and materials needed
+* Get sticky notes, thick pens, whiteboards, markers, dot stickers, paper, timer clock, snacks.
+* Print-outs of the existing product, all screens.
+* If you are doing Team Interviews in step 1, see if you need to schedule time with the teams.
+
+#### What to do
+* Invite 4-8 people. At least: CEO, Designer, Product Manager, User Expert.
+* Schedule 4-6 participants for User Study on day 5.
+* Decide on a facilitator, who will lead the sprint.
+* Clear people's calendars and book a conference room for 5 consecutive days. 
+
+### 1. Understand and learn
+
+#### What to do
+10 minute each for the following exercises. Everybody should write down "how might we..." on sticky notes and put them on a wall.
+* CEO gives a talk on the market and the business opportunity.
+* Competitor's products or similar products walkthrough.
+* Walkthrough of existing product or potential user journey.
+* Success metrics. How will success be measured?
+* Go over existing user research.
+* Team interviews. Talk to e.g. customer service about user's problems.
+* Analytics. If there is website analytics, where do people drop off etc?
+* Draw the user journey on a whiteboard
+
+### 2. Diverge and generate ideas
+
+#### What to do
+* Divide the user journey if needed. Work on one part at a time.
+* 5 minutes: Let people take notes off of the post-it notes on the wall.
+* 10 minutes: Let people gather their thoughts in a mind map.
+* Crazy Eights: Each person folds a paper three times to get eight panels. You then get 40 seconds per panel to jot down eight sketches. Repeat if needed. Time this carefully. This is to get people going. (5 min)
+* Each person creates a storyboard. One paper with three post-its on it "first this, then this, then that", explaining an idea. Make them anonymously, make them speak for themselves, name each storyboard. Hang them up. (10-20 min)
+* Silent critique: People put dots on the ideas they like. This creates a heat map. (5-10 min)
+* Critique: One person at a time tells the rest what they liked and people can ask if something was missed. Considered better than to let everyone present their ideas. (3 min per idea)
+* Super votes: Each person puts an X on a dot sticky and votes on his/her favorite idea. If someone has a greater say than others, give them three votes instead of one. (5 min)
+* Repeat all steps 1-2 times if this section is done during one day. If user journey is divided, move on to the next step.
+
+<div class="img-examples">
+<a class="popup" href="images/concept/crazy8s.jpg"><img src="images/concept/crazy8s.jpg" alt=""></a>
+</div>
+
+### 3. Decide
+
+#### What to do
+* It's important to have the final decision-maker come with their honest opinion here.
+* Search for conflicts, which ideas will not work with which ideas. This visualizes possible paths to take. 
+* Write down assumptions. These are the things you are going to find out with the test.
+* Whiteboard the user journey to be implemented in the prototype.
+* Decide if you are going to try out one or more ideas in prototypes.
+
+<div class="img-examples">
+<a class="popup" href="images/concept/conflicts.jpg"><img src="images/concept/conflicts.jpg" alt=""></a>
+<a class="popup" href="images/concept/assumptions.jpg"><img src="images/concept/assumptions.jpg" alt=""></a>
+<a class="popup" href="images/concept/storyboard.jpg"><img src="images/concept/storyboard.jpg" alt=""></a>
+</div>
+
+### 4. Prototype
+
+#### What to do
+
+* Use [Keynotopia](http://keynotopia.com/themes/) or [Google Presentation](https://sites.google.com/site/gdocswebquest/3-create-and-share-a-presentation) and build from the storyboard.
+* Use real text in prototpe.
+* Keep it as simple as possible, don't focus on styling.
+
+### 5. Validate
+
+#### What to do
+* One interviewer, the rest of the team members are observers.
+* Interviewer in one room with the user and a laptop, observers in another room with live video of the test (WebEx, GoToMeeting, Apple Airplay, and Google Hangouts etc, try out well in time).
+* Mute the mic in the observer's room
+* Observers are not allowed to diss the user.
+* All observers take notes, preferably on paper for better focus.
+* One person tries to transcript the test on a laptop. Switch this person between tests.
+* If one part of the prototype is very hard for users to understand, guide them around it.
+* After tests: make one column per test on a whiteboard and write down people's notes. Color code with red for issues, green for positive things.
+* Make two columns on a whiteboard: "Things that seem to work" and "Problems to solve". Decision-maker should be ok with this list before the sprint is over.
+
+<div class="img-examples">
+<a class="popup" href="images/concept/sprint-scoreboard.jpg"><img src="images/concept/sprint-scoreboard.jpg" alt=""></a>
+</div>
+
+<div class="ref">
+<h5>References</h5>
+<a href="http://www.designstaff.org/articles/product-design-sprint-2012-10-02.html">Design staff on the Design Sprint</a>
+</div>
 Concept work for UI
 ------------------
 <p class="intro">
