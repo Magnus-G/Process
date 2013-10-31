@@ -140,6 +140,7 @@ Meet with the client, preferably in person, and interview them around the follow
 <a href="http://www.smashingmagazine.com/2011/05/06/how-to-get-sign-off-for-your-designs/
 ">The Client's Role</a>
 <a href="https://medium.com/building-potluck/be7ebb17deff">Design feedback via email</a>
+<a href="http://robots.thoughtbot.com/be-a-good-designer-be-a-good-client/">Be a good designer, be a good client</a>
 </div>
 
 Research & Learning
