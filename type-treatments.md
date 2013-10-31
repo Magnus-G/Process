@@ -3,7 +3,9 @@ layout: index
 ---
 
 <h1 class="title type-treatments stretchRight">Type Treatments</h1>
+<p class="offset">
 <a href="https://github.com/Magnus-G/Process/edit/gh-pages/type-treatments.md#fullscreen_blob_contents" class="invisible"></a>
+</p>
 
 Selecting a Typeface
 ---------------
