@@ -38,7 +38,7 @@ Framing the problem
 ------------------
 <p class="intro">
 Meet with the client, preferably in person, and interview them around the following questions.
-<p>
+</p>
 
 ### Questions for client
 #### Marketing Overview
@@ -144,7 +144,7 @@ Research & Learning
 ------------------
 <p class="intro">
 Getting on the same page as the client, learning about end users, understanding the context for the product, understanding why the product is important and how it should work.
-<p>
+</p>
 
 ### Product walkthrough
 #### Preferable product walkthrough
@@ -288,7 +288,7 @@ Concept work for UI
 ------------------
 <p class="intro">
 Start working on a concept level, finding metaphors, similarities to other interfaces and systems, move quickly between concepts, don't get stuck on one solution. **Explore, don't refine**.
-<p>
+</p>
 
 <div class="img-examples">
 <a class="popup" href="images/concept/refine-vs-explore.png"><img src="images/concept/refine-vs-explore.png" alt=""></a>
@@ -377,7 +377,7 @@ Project Management
 ------------------
 <p class="intro">
 Use a tool like <a href="http://trello.com">Trello</a> or <a href="https://www.apptrajectory.com">Trajectory</a> to document stories on cards.
-<p>
+</p>
 
 ### Listing Ideas
 * State the problem in the title of the card. State who has the problem.
@@ -406,7 +406,7 @@ General Style
 ------------------
 <p class="intro">
 Develop the general look and feeling for the style.
-<p>
+</p>
 
 ### Brand Manuals
 * Does the brand/client/product have a brand style manual? How strict does it have to be followed?
