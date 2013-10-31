@@ -213,7 +213,7 @@ Most of this material is taken from <a href="http://www.designstaff.org/articles
 * Decide on a facilitator, who will lead the sprint.
 * Clear people's calendars and book a conference room for 5 consecutive days. 
 
-### 1. Understand and learn
+### Day 1: Understand and learn
 
 #### What to do
 10 minute each for the following exercises. Everybody should write down "how might we..." on sticky notes and put them on a wall.  
@@ -227,7 +227,7 @@ Most of this material is taken from <a href="http://www.designstaff.org/articles
 * Analytics. If there is website analytics, where do people drop off etc?
 * Draw the user journey on a whiteboard. 
 
-### 2. Diverge and generate ideas
+### Day 2: Diverge and generate ideas
 
 #### What to do
 * Divide the user journey if needed. Work on one part at a time.
@@ -244,7 +244,7 @@ Most of this material is taken from <a href="http://www.designstaff.org/articles
 <a class="popup" href="images/concept/crazy8s.jpg"><img src="images/concept/crazy8s.jpg" alt=""></a>
 </div>
 
-### 3. Decide
+### Day 3: Decide
 
 #### What to do
 * It's important to have the final decision-maker come with their honest opinion here.
@@ -259,7 +259,7 @@ Most of this material is taken from <a href="http://www.designstaff.org/articles
 <a class="popup" href="images/concept/storyboard.jpg"><img src="images/concept/storyboard.jpg" alt=""></a>
 </div>
 
-### 4. Prototype
+### Day 4: Prototype
 
 #### What to do
 
@@ -267,7 +267,7 @@ Most of this material is taken from <a href="http://www.designstaff.org/articles
 * Use real text in prototpe.
 * Keep it as simple as possible, don't focus on styling.
 
-### 5. Validate
+### Day 5: Validate
 
 #### What to do
 * One interviewer, the rest of the team members are observers.
