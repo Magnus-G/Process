@@ -170,7 +170,8 @@ Pairings
 
 Headings
 ---------------
-* **Small headings** for indicating sub categories of articles. Can be used with stripes for color coding.
+### Small headings 
+For indicating sub categories of articles. Can be used with stripes for color coding.
 
 <div class="img-examples">
 <a class="popup" href="images/typography/small-heading1.png"><img src="images/typography/small-heading1.png" alt=""></a>
