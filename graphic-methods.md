@@ -131,7 +131,8 @@ On monochrome or gradient elements.
 <a class="popup" href="images/gfx-examples/outlines1.jpg"><img src="images/gfx-examples/outlines1.jpg" alt=""></a>
 </div>
 
-### Monochrome background and black and white image on top for focus and to make it look more stylized.
+### Monochrome background  
+Black and white image on top for focus and to make it look more stylized.
 
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/monochrome1.jpg"><img src="images/gfx-examples/monochrome1.jpg" alt=""></a>
