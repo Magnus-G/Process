@@ -24,8 +24,9 @@ A potential client has a problem they want to solve. Before the project starts, 
 * What are the deadlines? Are there any milestones? 
 
 ### Project Diagram
-* Use a mindmapping tool to create a diagram of the project.
-* Nodes can be known parts of the design problem or questions to bring to initial client meeting.
+* Use a mindmapping tool to create a diagram of the project for yourself.
+* Nodes can be known parts of the design problem or questions to bring to initial client meeting. 
+* Type out what you know, what you are still guessing about and what you want to know.
 * Create nodes for end-users and their needs, client and their needs.
 
 
@@ -218,7 +219,7 @@ Most of this material is taken from <a href="http://www.designstaff.org/articles
 
 #### What to do
 10 minute each for the following exercises. Everybody should write down "how might we..." on sticky notes and put them on a wall.  
-
+<br>
 * CEO gives a talk on the market and the business opportunity.
 * Competitor's products or similar products walkthrough.
 * Walkthrough of existing product or potential user journey.
@@ -289,10 +290,11 @@ Most of this material is taken from <a href="http://www.designstaff.org/articles
 <h5>References</h5>
 <a href="http://www.designstaff.org/articles/product-design-sprint-2012-10-02.html">Design staff on the Design Sprint</a>
 </div>
+
 Concept work for UI
 ------------------
 <p class="intro">
-Start working on a concept level, finding metaphors, similarities to other interfaces and systems, move quickly between concepts, don't get stuck on one solution. <b>Explore, don't refine</b>.
+If a design sprint is not conducted, or a smaller feature needs to be developed in mid-project, start working on a concept level, finding metaphors, similarities to other interfaces and systems, move quickly between concepts, don't get stuck on one solution. <b>Explore, don't refine</b>.
 </p>
 
 <div class="img-examples">
@@ -327,7 +329,6 @@ Start working on a concept level, finding metaphors, similarities to other inter
 <a class="popup" href="images/concept/hand-sketch2.jpg"><img src="images/concept/hand-sketch2.jpg" alt=""></a>
 <a class="popup" href="images/concept/hand-sketch4.jpg"><img src="images/concept/hand-sketch4.jpg" alt=""></a>
 </div>
-
 
 ### Wireframes
 * Black and white, maybe grayscale
@@ -381,7 +382,7 @@ Start working on a concept level, finding metaphors, similarities to other inter
 Project Management
 ------------------
 <p class="intro">
-Use a tool like <a href="http://trello.com">Trello</a> or <a href="https://www.apptrajectory.com">Trajectory</a> to document stories on cards.
+Use a tool like <a href="http://trello.com">Trello</a> to document stories on cards.
 </p>
 
 ### Listing Ideas
@@ -436,6 +437,9 @@ Develop the general look and feeling for the style.
 </div>
 
 ### Typography
+<p class="intro">
+More on typography [here](http://magnus-g.github.io/Process/type-treatments)
+</p>
 * Find a typeface for body type that fits the keywords
 * Use a tool such as [Modular Scale](modularscale.com) to set sizes of type and elements.
 
