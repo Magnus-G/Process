@@ -179,7 +179,8 @@ For indicating sub categories of articles. Can be used with stripes for color co
 <a class="popup" href="images/typography/small-heading3.png"><img src="images/typography/small-heading3.png" alt=""></a>
 </div>
 
-* Small heading **inside of a block**. Can be color coded. Also called "cameo".
+### Small heading inside of a block 
+Can be color coded. Also called "cameo".
 
 <div class="img-examples">
 <a class="popup" href="images/typography/in-block-heading1.png"><img src="images/typography/in-block-heading1.png" alt=""></a>
@@ -187,13 +188,8 @@ For indicating sub categories of articles. Can be used with stripes for color co
 <a class="popup" href="images/typography/in-block-heading3.jpg"><img src="images/typography/in-block-heading3.jpg" alt=""></a>
 </div>
 
-* **Serif together with sans serif** to add contrast and life.
-
-<div class="img-examples">
-<a class="popup" href="images/typography/serif-sans-serif1.png"><img src="images/typography/serif-sans-serif1.png" alt=""></a>
-</div>
-
-* Highlight importance with sections or **words in contrast color**.
+### Words in contrast color
+Highlight importance with sections.
 
 <div class="img-examples">
 <a class="popup" href="images/typography/contrast-color-words1.jpg"><img src="images/typography/contrast-color-words1.jpg" alt=""></a>
@@ -202,19 +198,20 @@ For indicating sub categories of articles. Can be used with stripes for color co
 <a class="popup" href="images/typography/contrast-color-words4.jpg"><img src="images/typography/contrast-color-words4.jpg" alt=""></a>
 </div>
 
-* **Contrast bold letters with light letters**. Headlines etc.
+### Contrast bold letters with light letters 
+Headlines etc.
 
 <div class="img-examples">
 <a class="popup" href="images/typography/bold-light2.png"><img src="images/typography/bold-light2.png" alt=""></a>
 </div>
 
-* Multiple headings.
+### Multiple headings
 
 <div class="img-examples">
 <a class="popup" href="images/typography/multiple-headings1.png"><img src="images/typography/multiple-headings1.png" alt=""></a>
 </div>
 
-* Subheadings
+### Subheadings
 
 <div class="img-examples">
 <a class="popup" href="images/typography/subhead1.jpg"><img src="images/typography/subhead1.jpg" alt=""></a>
@@ -226,7 +223,8 @@ For indicating sub categories of articles. Can be used with stripes for color co
 
 Paragraph Text
 ---------------
-* **Drop caps** for traditional looking prose.
+### Drop caps 
+Traditional looking prose.
 
 <div class="img-examples">
 <a class="popup" href="images/typography/drop-cap1.jpg"><img src="images/typography/drop-cap1.jpg" alt=""></a>
@@ -235,7 +233,8 @@ Paragraph Text
 
 Statistics
 ---------------
-* Large stats together with icons and explanations.
+### Large stats 
+Together with icons and explanations.
 
 <div class="img-examples">
 <a class="popup" href="images/typography/large-stats1.png"><img src="images/typography/large-stats1.png" alt=""></a>
