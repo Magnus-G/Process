@@ -13,13 +13,14 @@ Images and text
 These are tried and tested treatments and clichés for graphic elements. The focus here is not on styles or fads but on methods that are more or less "timeless".
 <p>
 
-* Solid block with text on top of image for a rigid and serious layout
+### Solid block 
+With text on top of image for a rigid and editorial looking layout.
 
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/text-on-image1.jpg"><img src="images/gfx-examples/text-on-image1.jpg" alt=""></a>
 </div>
 
-* Type incorporated in photo
+### Type incorporated in photo
 
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/type-in-photo1.png"><img src="images/gfx-examples/type-in-photo1.png" alt=""></a>
@@ -27,7 +28,8 @@ These are tried and tested treatments and clichés for graphic elements. The foc
 <a class="popup" href="images/gfx-examples/type-in-photo3.jpg"><img src="images/gfx-examples/type-in-photo3.jpg" alt=""></a>
 </div>
 
-* **Dark layer** over a background image to turn it "monochrome" and to allow text on top of it.
+### Dark layer 
+Over a background image to turn it "monochrome" and to allow text on top of it.
 
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/darkened-backimage1.jpg"><img src="images/gfx-examples/darkened-backimage1.jpg" alt=""></a>
@@ -35,7 +37,8 @@ These are tried and tested treatments and clichés for graphic elements. The foc
 <a class="popup" href="images/gfx-examples/darkened-backimage3.png"><img src="images/gfx-examples/darkened-backimage3.png" alt=""></a>
 </div>
 
-* Blurry image in the back. Sharp graphics in the front.
+### Blurry image in the back 
+Sharp graphics in the front.
 
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/blur-back.png"><img src="images/gfx-examples/blur-back.png" alt=""></a>
@@ -44,7 +47,7 @@ These are tried and tested treatments and clichés for graphic elements. The foc
 <a class="popup" href="images/gfx-examples/blur-back4.jpg"><img src="images/gfx-examples/blur-back4.jpg" alt=""></a>
 </div>
 
-* Duotone for images
+### Duotone for images
 
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/duotone.jpg"><img src="images/gfx-examples/duotone.jpg" alt=""></a>
@@ -53,26 +56,30 @@ These are tried and tested treatments and clichés for graphic elements. The foc
 <a class="popup" href="images/gfx-examples/duotone4.jpg"><img src="images/gfx-examples/duotone4.jpg" alt=""></a>
 </div>
 
-* Gradient overlay for images to create depth, harmony (with other elements), unity (if image is too busy etc).
+### Gradient overlay 
+For images to create depth, harmony (with other elements), unity (if image is too busy etc).
 
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/gradient-overlay.jpg"><img src="images/gfx-examples/gradient-overlay.jpg" alt=""></a>
 </div>
 
-* Fade out parts of images to put focus on certain areas.
+### Fade out 
+Parts of images to put focus on certain areas.
 
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/fade-out-detail1.jpg"><img src="images/gfx-examples/fade-out-detail1.jpg" alt=""></a>
 </div>
 
-* Use blur around details that should be highlighted.
+### Use blur around details 
+Details that should be highlighted remain sharp.
 
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/focus-with-blur1.png"><img src="images/gfx-examples/focus-with-blur1.png" alt=""></a>
 <a class="popup" href="images/gfx-examples/focus-with-blur2.jpg"><img src="images/gfx-examples/focus-with-blur2.jpg" alt=""></a>
 </div>
 
-* Free floating images, cut loose from their picture frames.
+### Free floating images 
+Cut loose from their picture frames.
 
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/detail-contour1.png"><img src="images/gfx-examples/detail-contour1.png" alt=""></a>
@@ -81,7 +88,7 @@ These are tried and tested treatments and clichés for graphic elements. The foc
 
 Textures
 -------------
-* Overlay semitransparent image of texture.
+### Overlay semitransparent image of texture
 
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/texture1.png"><img src="images/gfx-examples/texture1.png" alt=""></a>
@@ -92,7 +99,8 @@ Textures
 
 Colors
 -------------
-* **Light vs dark** area contrasting.
+### Light vs dark
+Area contrasting.
 
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/light-dark-contrast.png"><img src="images/gfx-examples/light-dark-contrast.png" alt=""></a>
@@ -102,38 +110,43 @@ Colors
 <a class="popup" href="images/gfx-examples/light-dark-contrast5.jpg"><img src="images/gfx-examples/light-dark-contrast5.jpg" alt=""></a>
 </div>
 
-* Semi-transparent color layer on top of black/white graphics.  
+### Semi-transparent color layer 
+On top of black/white graphics.  
 
 <div class="img-examples">
  <a class="popup" href="images/gfx-examples/color-block.jpg"><img src="images/gfx-examples/color-block.jpg" alt=""></a>
 </div>
 
-* Brand **color stripe** across screen (often on top) to anchor the page.
+### Accent color stripe 
+Across screen or element to anchor the page/element.
 
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/color-stripe.png"><img src="images/gfx-examples/color-stripe.png" alt=""></a>
 </div>
 
-* Monochrome **vector outlines** on monochrome or gradient elements.
+### Monochrome vector outlines 
+On monochrome or gradient elements.
 
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/outlines1.jpg"><img src="images/gfx-examples/outlines1.jpg" alt=""></a>
 </div>
 
-* **Monochrome background** and black and white image on top for focus and to make it look more stylized.
+### Monochrome background and black and white image on top for focus and to make it look more stylized.
 
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/monochrome1.jpg"><img src="images/gfx-examples/monochrome1.jpg" alt=""></a>
 </div>
 
-* **White room** for products to create spacious feeling. Fits well with type in the same area.
+### White room 
+For products or objects to create spacious feeling. Fits well with type in the same area.
 
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/white-room1.jpg"><img src="images/gfx-examples/white-room1.jpg" alt=""></a>
 <a class="popup" href="images/gfx-examples/white-room2.png"><img src="images/gfx-examples/white-room2.png" alt=""></a>
 </div>
 
-* **Handmade**, or hand drawn, elements add contrast and life to a layout.
+### Handmade
+Or hand drawn, elements add contrast and life to a layout.
 
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/handmade-contrast.png"><img src="images/gfx-examples/handmade-contrast.png" alt=""></a>
@@ -142,7 +155,8 @@ Colors
 
 Boxes and layouts
 -------------
-* **Overlapping elements** can disrupt a too rigid layout.
+### Overlapping elements 
+Can disrupt a layout that's too rigid.
 
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/overlap1.jpg"><img src="images/gfx-examples/overlap1.jpg" alt=""></a>
@@ -153,7 +167,7 @@ Boxes and layouts
 <a class="popup" href="images/gfx-examples/overlap6.jpg"><img src="images/gfx-examples/overlap6.jpg" alt=""></a>
 </div>
 
-* Edges
+### Edges
 
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/edges1.jpg"><img src="images/gfx-examples/edges1.jpg" alt=""></a>
@@ -164,7 +178,7 @@ Boxes and layouts
 </div>
 
 
-* Borders
+### Borders
 
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/borders1.jpg"><img src="images/gfx-examples/borders1.jpg" alt=""></a>
@@ -173,13 +187,14 @@ Boxes and layouts
 <a class="popup" href="images/gfx-examples/borders4.jpg"><img src="images/gfx-examples/borders4.jpg" alt=""></a>
 </div>
 
-* Contrast 2D elements with 3D elements.
+### Contrast 2D elements with 3D elements.
 
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/2d-vs-3d.jpg"><img src="images/gfx-examples/2d-vs-3d.jpg" alt=""></a>
 </div>
 
-* Diagonal lines create movement, action, speed and energy.
+### Diagonal lines 
+Create movement, action, speed and energy.
 
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/diagonal1.jpg"><img src="images/gfx-examples/diagonal1.jpg" alt=""></a>
@@ -190,14 +205,15 @@ Boxes and layouts
 
 Details and effects
 -------------
-* Semi-transparent borders.
+### Semi-transparent borders
 
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/semi-transparent-borders.png"><img src="images/gfx-examples/semi-transparent-borders.png" alt=""></a>
 <a class="popup" href="images/gfx-examples/semi-transparent-borders2.png"><img src="images/gfx-examples/semi-transparent-borders2.png" alt=""></a>
 </div>
 
-* Cut-through fat type so you see image in the background, through letter.
+### Cut-through fat type 
+Seeing image in the background, through letter.
 
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/cut-out1.png"><img src="images/gfx-examples/cut-out1.png" alt=""></a>
@@ -205,7 +221,8 @@ Details and effects
 <a class="popup" href="images/gfx-examples/cut-out3.jpg"><img src="images/gfx-examples/cut-out3.jpg" alt=""></a>
 </div>
 
-* Overprint effect for visual disruption and retro look.
+### Overprint effect 
+For visual disruption and retro look.
 
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/overprint.jpg"><img src="images/gfx-examples/overprint.jpg" alt=""></a>
@@ -215,6 +232,7 @@ Details and effects
 Data
 -------------
 ### Line Graphs
+
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/graph1.jpg"><img src="images/gfx-examples/graph1.jpg" alt=""></a>
 <a class="popup" href="images/gfx-examples/graph2.jpg"><img src="images/gfx-examples/graph2.jpg" alt=""></a>
@@ -228,7 +246,8 @@ Data
 
 Interfaces
 -------------
-* Interfaces that are not marketing pages.
+### Interfaces 
+That are not marketing pages
 
 <div class="img-examples">
 <a class="popup" href="images/gfx-examples/interface1.jpg"><img src="images/gfx-examples/interface1.jpg" alt=""></a>
