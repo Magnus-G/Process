@@ -19,7 +19,7 @@ A potential client has a problem they want to solve. Before the project starts, 
 * Why is our business capable of making this solution a success?
 * What are the Unique Selling Points of the client's idea?
 * What is the overall goal of the project?
-* What are the moral implications of working with the client? Will we be able to sleep at night?
+* What are the moral implications of working with the client? [Will we be able to sleep at night?](http://mlab.uiah.fi/polut/Yhteiskunnalliset/lisatieto_ethics_primer.html)
 * Who from the client's side will be the one contact person with "the final word" during the project?
 * What are the deadlines? Are there any milestones? 
 
